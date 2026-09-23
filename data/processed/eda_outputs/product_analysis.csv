@@ -1,0 +1,1001 @@
+product_id,units_sold,gross_revenue,discount_amount,net_revenue,average_discount,product_name,category,brand
+P00001,429,471900.0,37510.0,434390.0,8.153310104529616,KnowledgeHouse Ultra Fiction,Books,KnowledgeHouse
+P00002,515,942450.0,78964.5,863485.5,8.277439024390244,KnowledgeHouse Modern Self Help,Books,KnowledgeHouse
+P00003,438,2960880.0,248768.0,2712112.0,8.152542372881356,FitCore Everyday Sportswear,Sports & Fitness,FitCore
+P00004,412,2855160.0,227650.5,2627509.5,7.989130434782608,TrendRoot Ultra Trousers,Fashion,TrendRoot
+P00005,456,337440.0,26603.0,310837.0,8.15359477124183,ReadMore Ultra Business,Books,ReadMore
+P00006,470,21328600.0,1665446.0,19663154.0,7.918032786885246,NovaTech Essential Smartwatches,Electronics,NovaTech
+P00007,446,356800.0,28880.0,327920.0,8.133116883116884,GlowPure Pro Personal Care,Beauty & Personal Care,GlowPure
+P00008,540,918000.0,73270.0,844730.0,8.270348837209303,KitchenPro Classic Home Decor,Home & Kitchen,KitchenPro
+P00009,451,22604120.0,1726634.0,20877486.0,7.973421926910299,PixelPro Classic Accessories,Electronics,PixelPro
+P00010,440,2547600.0,209308.5,2338291.5,8.356890459363958,StreetLine Smart Jeans,Fashion,StreetLine
+P00011,479,33678490.0,2735059.0,30943431.0,8.123028391167193,ZenByte Advanced Tablets,Electronics,ZenByte
+P00012,417,9436710.0,793181.5,8643528.5,8.805147058823529,ComfortCraft Smart Lighting,Home & Kitchen,ComfortCraft
+P00013,490,1759100.0,146113.0,1612987.0,8.154574132492113,UrbanThread Essential Jackets,Fashion,UrbanThread
+P00014,483,6380430.0,534344.5,5846085.5,8.05111821086262,ActivePro Elite Yoga,Sports & Fitness,ActivePro
+P00015,463,8269180.0,713507.0,7555673.0,8.712871287128714,KitchenPro Everyday Furniture,Home & Kitchen,KitchenPro
+P00016,479,2289620.0,184269.0,2105351.0,8.142857142857142,RunX Smart Outdoor Sports,Sports & Fitness,RunX
+P00017,401,22307630.0,1752345.0,20555285.0,8.314814814814815,ZenByte Advanced Laptops,Electronics,ZenByte
+P00018,446,107040.0,8640.0,98400.0,7.65993265993266,AuraBeauty Everyday Personal Care,Beauty & Personal Care,AuraBeauty
+P00019,481,4747470.0,390852.0,4356618.0,8.107255520504731,RunX Classic Yoga,Sports & Fitness,RunX
+P00020,477,395910.0,33407.5,362502.5,8.591772151898734,ReadMore Everyday Academic,Books,ReadMore
+P00021,454,3050880.0,256368.0,2794512.0,8.109965635738831,ComfortCraft Modern Lighting,Home & Kitchen,ComfortCraft
+P00022,493,8016180.0,669099.0,7347081.0,7.771084337349397,FlexFit Essential Running,Sports & Fitness,FlexFit
+P00023,437,8211230.0,637920.5,7573309.5,7.916666666666667,HomeNest Smart Furniture,Home & Kitchen,HomeNest
+P00024,490,8393700.0,706612.5,7687087.5,8.160377358490566,Auralink Advanced Accessories,Electronics,Auralink
+P00025,439,3134460.0,240618.0,2893842.0,7.785714285714286,ComfortCraft Pro Home Decor,Home & Kitchen,ComfortCraft
+P00026,441,2557800.0,195750.0,2362050.0,7.876712328767123,StreetLine Pro Footwear,Fashion,StreetLine
+P00027,452,302840.0,25359.5,277480.5,8.543046357615895,DermaCare Smart Skincare,Beauty & Personal Care,DermaCare
+P00028,428,933040.0,85783.0,847257.0,9.16382252559727,FitCore Classic Gym Equipment,Sports & Fitness,FitCore
+P00029,432,4026240.0,324336.0,3701904.0,8.214285714285714,ComfortCraft Smart Cookware,Home & Kitchen,ComfortCraft
+P00030,468,514800.0,41800.0,473000.0,8.305921052631579,LearnPress Elite Self Help,Books,LearnPress
+P00031,425,19864500.0,1563453.0,18301047.0,8.206521739130435,ZenByte Pro Smartphones,Electronics,ZenByte
+P00032,423,3485520.0,291696.0,3193824.0,8.57394366197183,ZenByte Classic Cameras,Electronics,ZenByte
+P00033,474,33459660.0,2633007.0,30826653.0,7.810457516339869,PixelPro Smart Laptops,Electronics,PixelPro
+P00034,465,2166900.0,172187.0,1994713.0,8.24915824915825,GlowPure Elite Haircare,Beauty & Personal Care,GlowPure
+P00035,459,24588630.0,1850843.5,22737786.5,7.877813504823151,PixelPro Advanced Smartphones,Electronics,PixelPro
+P00036,455,23418850.0,1917257.5,21501592.5,8.186274509803921,TechSphere Premium Laptops,Electronics,TechSphere
+P00037,418,2202860.0,184186.5,2018673.5,8.02491103202847,ComfortCraft Elite Storage,Home & Kitchen,ComfortCraft
+P00038,446,945520.0,77168.0,868352.0,8.274193548387096,FitCore Essential Sportswear,Sports & Fitness,FitCore
+P00039,403,1160640.0,97488.0,1063152.0,8.477443609022556,FitCore Everyday Gym Equipment,Sports & Fitness,FitCore
+P00040,470,1142100.0,91854.0,1050246.0,8.066202090592334,InsightBooks Classic Non-Fiction,Books,InsightBooks
+P00041,407,30272660.0,2331813.0,27940847.0,8.014705882352942,ZenByte Modern Smartwatches,Electronics,ZenByte
+P00042,442,525980.0,45279.5,480700.5,8.664259927797834,ReadMore Smart Academic,Books,ReadMore
+P00043,454,1770600.0,150150.0,1620450.0,8.624161073825503,GlowPure Premium Makeup,Beauty & Personal Care,GlowPure
+P00044,410,14374600.0,1090366.0,13284234.0,7.8125,PixelPro Everyday Tablets,Electronics,PixelPro
+P00045,409,1591010.0,128759.0,1462251.0,8.156028368794326,StreetLine Advanced Jeans,Fashion,StreetLine
+P00046,440,585200.0,47946.5,537253.5,8.254237288135593,KnowledgeHouse Everyday Self Help,Books,KnowledgeHouse
+P00047,454,2896520.0,229361.0,2667159.0,8.03754266211604,UrbanThread Classic Jeans,Fashion,UrbanThread
+P00048,418,2478740.0,202213.0,2276527.0,8.167259786476869,StreetLine Smart Footwear,Fashion,StreetLine
+P00049,412,3819240.0,305910.0,3513330.0,8.116438356164384,HomeNest Pro Cookware,Home & Kitchen,HomeNest
+P00050,410,967600.0,87320.0,880280.0,8.373287671232877,PageTurner Elite Technology,Books,PageTurner
+P00051,459,2304180.0,186995.0,2117185.0,8.134796238244514,PixelPro Everyday Cameras,Electronics,PixelPro
+P00052,455,1428700.0,113040.0,1315660.0,7.826855123674911,GlowPure Ultra Haircare,Beauty & Personal Care,GlowPure
+P00053,447,6155190.0,494343.0,5660847.0,7.898305084745763,PixelPro Smart Headphones,Electronics,PixelPro
+P00054,458,677840.0,54094.0,623746.0,8.280757097791797,DermaCare Smart Personal Care,Beauty & Personal Care,DermaCare
+P00055,454,1598080.0,126016.0,1472064.0,7.80327868852459,DermaCare Essential Skincare,Beauty & Personal Care,DermaCare
+P00056,418,1433740.0,112675.5,1321064.5,8.09608540925267,StyleCraft Classic Jeans,Fashion,StyleCraft
+P00057,442,1237600.0,99680.0,1137920.0,8.350877192982455,ModeWear Essential Jackets,Fashion,ModeWear
+P00058,492,21313440.0,1667820.0,19645620.0,7.714285714285714,PixelPro Pro Cameras,Electronics,PixelPro
+P00059,416,9347520.0,731398.5,8616121.5,7.946428571428571,ComfortCraft Pro Kitchen Appliances,Home & Kitchen,ComfortCraft
+P00060,474,36213600.0,3082740.0,33130860.0,8.636363636363637,Voltix Advanced Smartphones,Electronics,Voltix
+P00061,472,6867600.0,582727.5,6284872.5,8.603174603174603,RunX Essential Outdoor Sports,Sports & Fitness,RunX
+P00062,488,7095520.0,600502.0,6495018.0,8.275862068965518,RunX Premium Gym Equipment,Sports & Fitness,RunX
+P00063,417,779790.0,55539.0,724251.0,7.080419580419581,PageTurner Essential Academic,Books,PageTurner
+P00064,467,7878290.0,621659.5,7256630.5,7.775974025974026,FitCore Ultra Yoga,Sports & Fitness,FitCore
+P00065,473,416240.0,30624.0,385616.0,7.610062893081761,LearnPress Advanced Technology,Books,LearnPress
+P00066,529,703570.0,55394.5,648175.5,8.12874251497006,LearnPress Modern Non-Fiction,Books,LearnPress
+P00067,464,9317120.0,843360.0,8473760.0,9.200626959247648,UrbanHome Modern Furniture,Home & Kitchen,UrbanHome
+P00068,411,328800.0,25920.0,302880.0,7.981481481481482,LearnPress Elite Non-Fiction,Books,LearnPress
+P00069,497,526820.0,46428.0,480392.0,8.211009174311927,ReadMore Classic Self Help,Books,ReadMore
+P00070,485,2032150.0,168647.5,1863502.5,8.130841121495328,UrbanThread Smart T-Shirts,Fashion,UrbanThread
+P00071,486,2041200.0,157920.0,1883280.0,7.984375,DermaCare Pro Personal Care,Beauty & Personal Care,DermaCare
+P00072,463,13417740.0,973728.0,12444012.0,7.3841059602649,NovaTech Pro Accessories,Electronics,NovaTech
+P00073,461,525540.0,42408.0,483132.0,8.013029315960912,BloomCare Smart Skincare,Beauty & Personal Care,BloomCare
+P00074,420,6195000.0,501500.0,5693500.0,8.035714285714286,FlexFit Essential Sportswear,Sports & Fitness,FlexFit
+P00075,469,1894760.0,150894.0,1743866.0,7.38562091503268,PureSkin Advanced Personal Care,Beauty & Personal Care,PureSkin
+P00076,444,479520.0,43038.0,436482.0,8.793103448275861,LearnPress Elite Technology,Books,LearnPress
+P00077,497,3787140.0,317754.0,3469386.0,8.510971786833856,StreetLine Essential Jeans,Fashion,StreetLine
+P00078,434,1540700.0,125137.5,1415562.5,8.450704225352112,DermaCare Classic Haircare,Beauty & Personal Care,DermaCare
+P00079,465,35739900.0,2855349.0,32884551.0,8.045602605863191,TechSphere Pro Laptops,Electronics,TechSphere
+P00080,476,5607280.0,442339.0,5164941.0,7.932098765432099,SportEdge Premium Outdoor Sports,Sports & Fitness,SportEdge
+P00081,436,854560.0,59878.0,794682.0,7.1768707482993195,BloomCare Modern Personal Care,Beauty & Personal Care,BloomCare
+P00082,450,9868500.0,813603.0,9054897.0,8.127035830618892,Voltix Pro Smartwatches,Electronics,Voltix
+P00083,480,9427200.0,818988.0,8608212.0,8.629283489096574,FitCore Pro Sportswear,Sports & Fitness,FitCore
+P00084,457,255920.0,21308.0,234612.0,8.446601941747574,PureSkin Advanced Haircare,Beauty & Personal Care,PureSkin
+P00085,475,11799000.0,1075572.0,10723428.0,8.355481727574752,UrbanHome Ultra Kitchen Appliances,Home & Kitchen,UrbanHome
+P00086,410,2923300.0,267018.5,2656281.5,8.932584269662922,NovaTech Everyday Smartwatches,Electronics,NovaTech
+P00087,477,2084490.0,175455.5,1909034.5,8.49673202614379,ZenByte Premium Accessories,Electronics,ZenByte
+P00088,401,6323770.0,534603.0,5789167.0,8.136200716845877,ActivePro Advanced Gym Equipment,Sports & Fitness,ActivePro
+P00089,446,2279060.0,188048.0,2091012.0,7.952218430034129,AuraBeauty Advanced Makeup,Beauty & Personal Care,AuraBeauty
+P00090,492,250920.0,20374.5,230545.5,8.238805970149254,UrbanThread Modern Jeans,Fashion,UrbanThread
+P00091,512,2560000.0,192750.0,2367250.0,7.737341772151899,DermaCare Classic Fragrances,Beauty & Personal Care,DermaCare
+P00092,474,1147080.0,91113.0,1055967.0,8.029315960912053,LearnPress Classic Technology,Books,LearnPress
+P00093,455,682500.0,54900.0,627600.0,8.23728813559322,KnowledgeHouse Everyday Technology,Books,KnowledgeHouse
+P00094,428,8709800.0,688847.5,8020952.5,7.852233676975945,Voltix Elite Smartwatches,Electronics,Voltix
+P00095,465,967200.0,86112.0,881088.0,8.883495145631068,LearnPress Everyday Technology,Books,LearnPress
+P00096,404,3773360.0,289540.0,3483820.0,7.834507042253521,KitchenPro Classic Kitchen Appliances,Home & Kitchen,KitchenPro
+P00097,467,555730.0,42780.5,512949.5,7.714285714285714,SportEdge Essential Sportswear,Sports & Fitness,SportEdge
+P00098,469,1214710.0,94276.0,1120434.0,7.96875,StreetLine Essential Jeans,Fashion,StreetLine
+P00099,436,1334160.0,118881.0,1215279.0,8.551724137931034,FlexFit Smart Running,Sports & Fitness,FlexFit
+P00100,449,1782530.0,142721.5,1639808.5,8.06338028169014,ModeWear Elite Footwear,Fashion,ModeWear
+P00101,479,1518430.0,123630.0,1394800.0,8.052959501557632,AuraBeauty Modern Haircare,Beauty & Personal Care,AuraBeauty
+P00102,469,919240.0,75264.0,843976.0,7.777777777777778,ReadMore Essential Self Help,Books,ReadMore
+P00103,510,1167900.0,103508.0,1064392.0,8.852941176470589,ReadMore Classic Non-Fiction,Books,ReadMore
+P00104,470,2932800.0,237744.0,2695056.0,8.118811881188119,ModeWear Ultra Footwear,Fashion,ModeWear
+P00105,508,3886200.0,309442.5,3576757.5,7.954545454545454,KitchenPro Ultra Cookware,Home & Kitchen,KitchenPro
+P00106,476,971040.0,91290.0,879750.0,9.07643312101911,RunX Premium Gym Equipment,Sports & Fitness,RunX
+P00107,436,1068200.0,86117.5,982082.5,8.225255972696246,KnowledgeHouse Premium Business,Books,KnowledgeHouse
+P00108,473,581790.0,45571.5,536218.5,7.6923076923076925,StreetLine Elite T-Shirts,Fashion,StreetLine
+P00109,486,9083340.0,697137.0,8386203.0,8.064024390243903,ActivePro Advanced Running,Sports & Fitness,ActivePro
+P00110,408,32003520.0,2639506.0,29364014.0,8.193430656934307,TechSphere Modern Tablets,Electronics,TechSphere
+P00111,415,2062550.0,158046.0,1904504.0,8.021201413427562,PureSkin Ultra Fragrances,Beauty & Personal Care,PureSkin
+P00112,432,11897280.0,1032750.0,10864530.0,8.758503401360544,ZenByte Classic Tablets,Electronics,ZenByte
+P00113,453,412230.0,32896.5,379333.5,8.143812709030101,StyleCraft Everyday Shirts,Fashion,StyleCraft
+P00114,427,3347680.0,258328.0,3089352.0,7.7622377622377625,RunX Premium Outdoor Sports,Sports & Fitness,RunX
+P00115,494,2603380.0,210009.5,2393370.5,8.284789644012944,DermaCare Ultra Skincare,Beauty & Personal Care,DermaCare
+P00116,493,2691780.0,218673.0,2473107.0,8.052959501557632,BloomCare Smart Skincare,Beauty & Personal Care,BloomCare
+P00117,468,36639720.0,2740150.0,33899570.0,7.285276073619632,PixelPro Ultra Smartphones,Electronics,PixelPro
+P00118,463,2722440.0,231084.0,2491356.0,8.540983606557377,PureSkin Ultra Skincare,Beauty & Personal Care,PureSkin
+P00119,433,207840.0,18216.0,189624.0,8.853820598006644,GlowPure Modern Fragrances,Beauty & Personal Care,GlowPure
+P00120,483,10770900.0,852975.0,9917925.0,7.532894736842105,HomeNest Smart Cookware,Home & Kitchen,HomeNest
+P00121,529,40114070.0,3355477.5,36758592.5,8.090379008746355,ZenByte Ultra Accessories,Electronics,ZenByte
+P00122,428,8316040.0,732511.0,7583529.0,8.81294964028777,RunX Advanced Outdoor Sports,Sports & Fitness,RunX
+P00123,476,20939240.0,1774996.5,19164243.5,8.364779874213836,Voltix Pro Smartwatches,Electronics,Voltix
+P00124,474,10385340.0,771232.0,9614108.0,7.291021671826625,UrbanHome Ultra Storage,Home & Kitchen,UrbanHome
+P00125,493,16456340.0,1235060.0,15221280.0,7.854785478547854,NovaTech Essential Smartwatches,Electronics,NovaTech
+P00126,460,6343400.0,519193.5,5824206.5,8.296178343949045,FlexFit Elite Running,Sports & Fitness,FlexFit
+P00127,418,978120.0,87282.0,890838.0,8.39655172413793,GlowPure Smart Fragrances,Beauty & Personal Care,GlowPure
+P00128,457,493560.0,39474.0,454086.0,7.804054054054054,KnowledgeHouse Premium Business,Books,KnowledgeHouse
+P00129,413,1639610.0,124261.0,1515349.0,7.666666666666667,FitCore Smart Outdoor Sports,Sports & Fitness,FitCore
+P00130,468,2091960.0,181035.0,1910925.0,8.651315789473685,ClassicFit Ultra Trousers,Fashion,ClassicFit
+P00131,420,558600.0,42227.5,516372.5,7.879858657243816,PureSkin Everyday Haircare,Beauty & Personal Care,PureSkin
+P00132,442,795600.0,61020.0,734580.0,7.560553633217993,KnowledgeHouse Ultra Non-Fiction,Books,KnowledgeHouse
+P00133,444,34290120.0,2811172.0,31478948.0,8.078175895765472,ZenByte Ultra Headphones,Electronics,ZenByte
+P00134,402,1258260.0,99221.0,1159039.0,7.6007326007326,TrendRoot Elite Trousers,Fashion,TrendRoot
+P00135,487,2352210.0,206724.0,2145486.0,8.801916932907348,DermaCare Smart Makeup,Beauty & Personal Care,DermaCare
+P00136,464,23325280.0,1910260.0,21415020.0,7.802547770700637,ZenByte Elite Headphones,Electronics,ZenByte
+P00137,493,305660.0,24087.0,281573.0,7.717041800643087,InsightBooks Premium Non-Fiction,Books,InsightBooks
+P00138,511,35381640.0,2863074.0,32518566.0,8.130434782608695,TechSphere Classic Accessories,Electronics,TechSphere
+P00139,461,1069520.0,87812.0,981708.0,8.035714285714286,GlowPure Elite Haircare,Beauty & Personal Care,GlowPure
+P00140,436,21847960.0,1738817.0,20109143.0,7.829861111111111,Voltix Everyday Accessories,Electronics,Voltix
+P00141,477,338670.0,25631.0,313039.0,7.686084142394822,GlowPure Modern Personal Care,Beauty & Personal Care,GlowPure
+P00142,454,503940.0,37462.5,466477.5,7.65,UrbanThread Pro Footwear,Fashion,UrbanThread
+P00143,495,262350.0,21836.0,240514.0,8.61198738170347,AuraBeauty Premium Haircare,Beauty & Personal Care,AuraBeauty
+P00144,414,7286400.0,570240.0,6716160.0,7.732142857142857,KitchenPro Smart Storage,Home & Kitchen,KitchenPro
+P00145,428,3180040.0,260050.0,2919990.0,8.445229681978798,UrbanThread Modern Shirts,Fashion,UrbanThread
+P00146,463,3967910.0,341086.0,3626824.0,8.46774193548387,ActivePro Elite Gym Equipment,Sports & Fitness,ActivePro
+P00147,485,368600.0,30514.0,338086.0,8.270440251572326,BloomCare Advanced Makeup,Beauty & Personal Care,BloomCare
+P00148,455,6902350.0,554463.5,6347886.5,8.090614886731391,UrbanHome Ultra Lighting,Home & Kitchen,UrbanHome
+P00149,458,2216720.0,183678.0,2033042.0,8.03754266211604,DermaCare Pro Skincare,Beauty & Personal Care,DermaCare
+P00150,440,202400.0,16744.0,185656.0,8.090277777777779,UrbanHome Ultra Cookware,Home & Kitchen,UrbanHome
+P00151,453,17127930.0,1243949.0,15883981.0,7.697594501718213,ZenByte Elite Tablets,Electronics,ZenByte
+P00152,441,3708810.0,323364.5,3385445.5,8.421985815602836,KitchenPro Modern Furniture,Home & Kitchen,KitchenPro
+P00153,424,576640.0,45560.0,531080.0,7.988929889298893,KnowledgeHouse Premium Non-Fiction,Books,KnowledgeHouse
+P00154,442,636480.0,44712.0,591768.0,7.375886524822695,KnowledgeHouse Ultra Non-Fiction,Books,KnowledgeHouse
+P00155,453,4158540.0,367200.0,3791340.0,8.333333333333334,FlexFit Everyday Yoga,Sports & Fitness,FlexFit
+P00156,414,1651860.0,147829.5,1504030.5,8.989169675090253,AuraBeauty Classic Makeup,Beauty & Personal Care,AuraBeauty
+P00157,406,2935380.0,252327.0,2683053.0,8.58695652173913,ClassicFit Pro Jackets,Fashion,ClassicFit
+P00158,488,566080.0,49532.0,516548.0,8.837920489296636,AuraBeauty Everyday Skincare,Beauty & Personal Care,AuraBeauty
+P00159,458,1717500.0,133875.0,1583625.0,7.990033222591362,UrbanHome Essential Home Decor,Home & Kitchen,UrbanHome
+P00160,430,997600.0,77952.0,919648.0,7.8595317725752505,FlexFit Smart Yoga,Sports & Fitness,FlexFit
+P00161,465,2222700.0,178533.0,2044167.0,8.305647840531561,UrbanHome Classic Lighting,Home & Kitchen,UrbanHome
+P00162,463,2106650.0,175857.5,1930792.5,8.316666666666666,GlowPure Smart Skincare,Beauty & Personal Care,GlowPure
+P00163,377,275210.0,22155.5,253054.5,8.032128514056225,LearnPress Pro Academic,Books,LearnPress
+P00164,471,197820.0,15960.0,181860.0,7.820945945945946,PureSkin Ultra Personal Care,Beauty & Personal Care,PureSkin
+P00165,425,2516000.0,184408.0,2331592.0,7.40418118466899,StreetLine Classic Jackets,Fashion,StreetLine
+P00166,456,2927520.0,251664.0,2675856.0,8.524590163934427,UrbanHome Ultra Cookware,Home & Kitchen,UrbanHome
+P00167,467,149440.0,12160.0,137280.0,8.295819935691318,DermaCare Modern Skincare,Beauty & Personal Care,DermaCare
+P00168,449,386140.0,30573.0,355567.0,8.132911392405063,TrendRoot Smart Jackets,Fashion,TrendRoot
+P00169,404,2682560.0,229744.0,2452816.0,8.533834586466165,StyleCraft Essential Jackets,Fashion,StyleCraft
+P00170,465,3910650.0,326728.5,3583921.5,8.372093023255815,KitchenPro Everyday Furniture,Home & Kitchen,KitchenPro
+P00171,494,15556060.0,1247004.0,14309056.0,8.302469135802468,NovaTech Essential Laptops,Electronics,NovaTech
+P00172,444,30751440.0,2555694.0,28195746.0,7.966666666666667,ZenByte Pro Laptops,Electronics,ZenByte
+P00173,516,7745160.0,645430.0,7099730.0,8.313432835820896,ComfortCraft Classic Home Decor,Home & Kitchen,ComfortCraft
+P00174,469,928620.0,80487.0,848133.0,8.864406779661017,LearnPress Ultra Academic,Books,LearnPress
+P00175,448,1868160.0,154498.5,1713661.5,8.062283737024222,PureSkin Classic Fragrances,Beauty & Personal Care,PureSkin
+P00176,449,4000590.0,331897.5,3668692.5,8.485342019543975,Auralink Advanced Headphones,Electronics,Auralink
+P00177,444,7832160.0,625338.0,7206822.0,8.181818181818182,SportEdge Modern Yoga,Sports & Fitness,SportEdge
+P00178,493,35772080.0,3152732.0,32619348.0,8.801916932907348,ZenByte Classic Accessories,Electronics,ZenByte
+P00179,427,1524390.0,123165.0,1401225.0,8.183453237410072,StreetLine Elite Trousers,Fashion,StreetLine
+P00180,469,2438800.0,216580.0,2222220.0,8.806451612903226,CasaLiving Essential Lighting,Home & Kitchen,CasaLiving
+P00181,467,22948380.0,1943487.0,21004893.0,8.328125,TechSphere Classic Smartphones,Electronics,TechSphere
+P00182,428,5867880.0,449688.0,5418192.0,7.935943060498221,RunX Classic Sportswear,Sports & Fitness,RunX
+P00183,444,1203240.0,95934.0,1107306.0,8.169491525423728,AuraBeauty Modern Skincare,Beauty & Personal Care,AuraBeauty
+P00184,440,3185600.0,266070.0,2919530.0,8.135593220338983,ModeWear Smart Footwear,Fashion,ModeWear
+P00185,479,14341260.0,1200594.0,13140666.0,8.531353135313532,Voltix Modern Accessories,Electronics,Voltix
+P00186,510,4595100.0,378420.0,4216680.0,8.368263473053892,FlexFit Premium Sportswear,Sports & Fitness,FlexFit
+P00187,441,2707740.0,224724.0,2483016.0,7.898550724637682,CasaLiving Premium Kitchen Appliances,Home & Kitchen,CasaLiving
+P00188,483,5955390.0,482103.0,5473287.0,8.440366972477063,ZenByte Premium Laptops,Electronics,ZenByte
+P00189,469,1266300.0,94905.0,1171395.0,7.244897959183674,DermaCare Essential Makeup,Beauty & Personal Care,DermaCare
+P00190,462,2499420.0,180423.5,2318996.5,7.3076923076923075,FitCore Advanced Running,Sports & Fitness,FitCore
+P00191,458,9201220.0,720226.5,8480993.5,8.211920529801324,UrbanHome Elite Storage,Home & Kitchen,UrbanHome
+P00192,437,1695560.0,150932.0,1544628.0,8.703071672354948,RunX Pro Running,Sports & Fitness,RunX
+P00193,432,5702400.0,444840.0,5257560.0,7.899305555555555,FitCore Smart Yoga,Sports & Fitness,FitCore
+P00194,453,4385040.0,326216.0,4058824.0,7.781456953642384,KitchenPro Ultra Furniture,Home & Kitchen,KitchenPro
+P00195,502,2264020.0,206107.0,2057913.0,8.883792048929664,DermaCare Pro Haircare,Beauty & Personal Care,DermaCare
+P00196,448,120960.0,9612.0,111348.0,8.201320132013201,KnowledgeHouse Pro Technology,Books,KnowledgeHouse
+P00197,453,6092850.0,497650.0,5595200.0,8.04140127388535,UrbanHome Modern Home Decor,Home & Kitchen,UrbanHome
+P00198,476,2479960.0,195896.0,2284064.0,8.203125,AuraBeauty Advanced Skincare,Beauty & Personal Care,AuraBeauty
+P00199,497,28527800.0,2301740.0,26226060.0,7.758064516129032,NovaTech Smart Smartwatches,Electronics,NovaTech
+P00200,406,4510660.0,375518.0,4135142.0,8.086642599277978,CasaLiving Smart Lighting,Home & Kitchen,CasaLiving
+P00201,471,21708390.0,1855122.5,19853267.5,8.434343434343434,Auralink Smart Tablets,Electronics,Auralink
+P00202,462,1108800.0,92400.0,1016400.0,8.184931506849315,UrbanThread Advanced Shirts,Fashion,UrbanThread
+P00203,477,954000.0,77500.0,876500.0,7.903225806451613,PageTurner Elite Fiction,Books,PageTurner
+P00204,443,615770.0,51221.5,564548.5,8.338983050847459,LearnPress Essential Self Help,Books,LearnPress
+P00205,427,140910.0,11599.5,129310.5,8.350877192982455,ReadMore Modern Technology,Books,ReadMore
+P00206,432,1080000.0,84125.0,995875.0,7.879858657243816,GlowPure Essential Skincare,Beauty & Personal Care,GlowPure
+P00207,456,23114640.0,1913547.5,21201092.5,8.316498316498317,Auralink Everyday Tablets,Electronics,Auralink
+P00208,441,383670.0,31842.0,351828.0,8.427152317880795,InsightBooks Modern Fiction,Books,InsightBooks
+P00209,426,4835100.0,412005.0,4423095.0,8.327402135231317,NovaTech Essential Smartwatches,Electronics,NovaTech
+P00210,503,1126720.0,99008.0,1027712.0,8.650306748466258,InsightBooks Everyday Business,Books,InsightBooks
+P00211,460,10327000.0,765545.0,9561455.0,7.313915857605178,UrbanHome Essential Storage,Home & Kitchen,UrbanHome
+P00212,463,8556240.0,754908.0,7801332.0,8.5,CasaLiving Classic Cookware,Home & Kitchen,CasaLiving
+P00213,419,180170.0,13265.5,166904.5,7.673611111111111,PageTurner Essential Self Help,Books,PageTurner
+P00214,417,8214900.0,680635.0,7534265.0,8.217993079584774,UrbanHome Advanced Lighting,Home & Kitchen,UrbanHome
+P00215,444,408480.0,34500.0,373980.0,8.327586206896552,DermaCare Everyday Makeup,Beauty & Personal Care,DermaCare
+P00216,450,12766500.0,1158914.5,11607585.5,8.494623655913978,Voltix Advanced Headphones,Electronics,Voltix
+P00217,411,1117920.0,92072.0,1025848.0,8.498168498168498,StyleCraft Classic Shirts,Fashion,StyleCraft
+P00218,421,1911340.0,149820.0,1761520.0,8.139931740614335,FitCore Essential Sportswear,Sports & Fitness,FitCore
+P00219,466,130480.0,11214.0,119266.0,8.338762214983714,PageTurner Elite Self Help,Books,PageTurner
+P00220,460,952200.0,79281.0,872919.0,8.366336633663366,AuraBeauty Elite Personal Care,Beauty & Personal Care,AuraBeauty
+P00221,461,1733360.0,132916.0,1600444.0,7.546875,AuraBeauty Modern Haircare,Beauty & Personal Care,AuraBeauty
+P00222,441,2994390.0,249872.0,2744518.0,8.42756183745583,SportEdge Advanced Sportswear,Sports & Fitness,SportEdge
+P00223,438,31965240.0,2470373.0,29494867.0,7.859649122807017,TechSphere Essential Cameras,Electronics,TechSphere
+P00224,487,17561220.0,1436991.0,16124229.0,7.7708978328173375,NovaTech Advanced Headphones,Electronics,NovaTech
+P00225,517,1556170.0,126119.0,1430051.0,8.153153153153154,DermaCare Elite Skincare,Beauty & Personal Care,DermaCare
+P00226,476,1389920.0,114172.0,1275748.0,8.180272108843537,ActivePro Pro Yoga,Sports & Fitness,ActivePro
+P00227,432,8398080.0,625968.0,7772112.0,7.750865051903114,ZenByte Essential Accessories,Electronics,ZenByte
+P00228,485,2517150.0,210973.5,2306176.5,8.32807570977918,PureSkin Elite Haircare,Beauty & Personal Care,PureSkin
+P00229,458,2867080.0,219100.0,2647980.0,7.466216216216216,StyleCraft Everyday Jackets,Fashion,StyleCraft
+P00230,463,814880.0,73920.0,740960.0,8.5,CasaLiving Classic Furniture,Home & Kitchen,CasaLiving
+P00231,446,2247840.0,195048.0,2052792.0,8.875838926174497,GlowPure Elite Skincare,Beauty & Personal Care,GlowPure
+P00232,481,1837420.0,144014.0,1693406.0,7.508196721311475,StyleCraft Ultra Footwear,Fashion,StyleCraft
+P00233,492,1525200.0,117490.0,1407710.0,7.817337461300309,GlowPure Everyday Haircare,Beauty & Personal Care,GlowPure
+P00234,467,7313220.0,562194.0,6751026.0,7.795527156549521,FitCore Pro Sportswear,Sports & Fitness,FitCore
+P00235,389,937490.0,73505.0,863985.0,7.907407407407407,HomeNest Essential Lighting,Home & Kitchen,HomeNest
+P00236,425,7560750.0,606639.0,6954111.0,7.996515679442509,Auralink Essential Accessories,Electronics,Auralink
+P00237,401,340850.0,29962.5,310887.5,8.228782287822877,InsightBooks Elite Non-Fiction,Books,InsightBooks
+P00238,445,226950.0,18283.5,208666.5,8.02405498281787,AuraBeauty Smart Skincare,Beauty & Personal Care,AuraBeauty
+P00239,451,7085210.0,542780.5,6542429.5,7.564935064935065,UrbanHome Everyday Home Decor,Home & Kitchen,UrbanHome
+P00240,446,4080900.0,341295.0,3739605.0,8.237179487179487,HomeNest Essential Kitchen Appliances,Home & Kitchen,HomeNest
+P00241,472,792960.0,63672.0,729288.0,7.819672131147541,PureSkin Essential Fragrances,Beauty & Personal Care,PureSkin
+P00242,382,1084880.0,91874.0,993006.0,8.670634920634921,FitCore Pro Yoga,Sports & Fitness,FitCore
+P00243,515,5634100.0,522385.0,5111715.0,9.012738853503185,HomeNest Classic Kitchen Appliances,Home & Kitchen,HomeNest
+P00244,452,696080.0,56826.0,639254.0,8.278145695364238,PageTurner Elite Business,Books,PageTurner
+P00245,392,8290800.0,678915.0,7611885.0,8.580246913580247,UrbanHome Ultra Home Decor,Home & Kitchen,UrbanHome
+P00246,415,913000.0,74470.0,838530.0,8.33969465648855,InsightBooks Essential Academic,Books,InsightBooks
+P00247,466,2264760.0,175689.0,2089071.0,7.799352750809062,Auralink Elite Laptops,Electronics,Auralink
+P00248,466,587160.0,50337.0,536823.0,8.3993399339934,UrbanHome Modern Kitchen Appliances,Home & Kitchen,UrbanHome
+P00249,442,8402420.0,732835.5,7669584.5,8.819672131147541,UrbanHome Classic Kitchen Appliances,Home & Kitchen,UrbanHome
+P00250,460,96600.0,7423.5,89176.5,7.7491961414791,PageTurner Classic Technology,Books,PageTurner
+P00251,472,7018640.0,603722.0,6414918.0,8.226837060702875,RunX Ultra Running,Sports & Fitness,RunX
+P00252,501,380760.0,33440.0,347320.0,8.712121212121213,GlowPure Advanced Haircare,Beauty & Personal Care,GlowPure
+P00253,447,20490480.0,1794636.0,18695844.0,8.39527027027027,ZenByte Essential Accessories,Electronics,ZenByte
+P00254,380,6410600.0,524657.0,5885943.0,8.035714285714286,KitchenPro Essential Furniture,Home & Kitchen,KitchenPro
+P00255,450,1467000.0,111981.0,1355019.0,7.913793103448276,ModeWear Premium Jackets,Fashion,ModeWear
+P00256,501,1202400.0,103200.0,1099200.0,8.658536585365853,FlexFit Classic Gym Equipment,Sports & Fitness,FlexFit
+P00257,502,1340340.0,99457.5,1240882.5,7.6452599388379205,SportEdge Modern Outdoor Sports,Sports & Fitness,SportEdge
+P00258,467,560400.0,39060.0,521340.0,7.37785016286645,BloomCare Essential Fragrances,Beauty & Personal Care,BloomCare
+P00259,452,7561960.0,658325.5,6903634.5,8.77450980392157,ActivePro Pro Gym Equipment,Sports & Fitness,ActivePro
+P00260,374,2079440.0,172360.0,1907080.0,8.709677419354838,RunX Advanced Gym Equipment,Sports & Fitness,RunX
+P00261,495,3306600.0,251836.0,3054764.0,7.720364741641338,FitCore Ultra Yoga,Sports & Fitness,FitCore
+P00262,505,242400.0,20568.0,221832.0,8.333333333333334,LearnPress Everyday Technology,Books,LearnPress
+P00263,470,5315700.0,423559.5,4892140.5,7.934131736526946,ActivePro Modern Gym Equipment,Sports & Fitness,ActivePro
+P00264,438,15325620.0,1313874.5,14011745.5,8.791946308724832,NovaTech Modern Smartphones,Electronics,NovaTech
+P00265,463,4509620.0,376451.0,4133169.0,8.660130718954248,SportEdge Everyday Running,Sports & Fitness,SportEdge
+P00266,395,158000.0,12460.0,145540.0,7.674418604651163,ReadMore Elite Business,Books,ReadMore
+P00267,413,2114560.0,171264.0,1943296.0,8.286219081272085,DermaCare Essential Fragrances,Beauty & Personal Care,DermaCare
+P00268,427,691740.0,54837.0,636903.0,7.940140845070423,InsightBooks Advanced Technology,Books,InsightBooks
+P00269,412,898160.0,70523.0,827637.0,8.314814814814815,AuraBeauty Elite Skincare,Beauty & Personal Care,AuraBeauty
+P00270,485,708100.0,60006.0,648094.0,8.130699088145896,PureSkin Smart Personal Care,Beauty & Personal Care,PureSkin
+P00271,460,7852200.0,608545.5,7243654.5,7.871621621621622,KitchenPro Elite Furniture,Home & Kitchen,KitchenPro
+P00272,477,28729710.0,2388119.5,26341590.5,8.045602605863191,TechSphere Everyday Smartphones,Electronics,TechSphere
+P00273,483,37973460.0,2692735.0,35280725.0,7.383333333333334,Voltix Elite Smartphones,Electronics,Voltix
+P00274,447,6401040.0,524828.0,5876212.0,8.448844884488448,HomeNest Classic Home Decor,Home & Kitchen,HomeNest
+P00275,455,259350.0,22230.0,237120.0,8.322475570032573,GlowPure Pro Makeup,Beauty & Personal Care,GlowPure
+P00276,420,6283200.0,467500.0,5815700.0,7.75,UrbanHome Everyday Cookware,Home & Kitchen,UrbanHome
+P00277,455,1556100.0,131499.0,1424601.0,7.733118971061093,FitCore Advanced Sportswear,Sports & Fitness,FitCore
+P00278,464,9275360.0,746626.5,8528733.5,8.102893890675242,ActivePro Smart Yoga,Sports & Fitness,ActivePro
+P00279,483,30134370.0,2557990.0,27576380.0,8.83495145631068,ZenByte Essential Laptops,Electronics,ZenByte
+P00280,466,4981540.0,397668.0,4583872.0,7.972972972972973,RunX Modern Gym Equipment,Sports & Fitness,RunX
+P00281,429,7250100.0,593190.0,6656910.0,8.071428571428571,CasaLiving Everyday Home Decor,Home & Kitchen,CasaLiving
+P00282,476,2698920.0,239841.0,2459079.0,8.73397435897436,AuraBeauty Essential Skincare,Beauty & Personal Care,AuraBeauty
+P00283,463,944520.0,79152.0,865368.0,9.0,KnowledgeHouse Modern Academic,Books,KnowledgeHouse
+P00284,473,9162010.0,737028.5,8424981.5,7.94392523364486,ActivePro Premium Sportswear,Sports & Fitness,ActivePro
+P00285,498,637440.0,53952.0,583488.0,8.338509316770187,ActivePro Smart Outdoor Sports,Sports & Fitness,ActivePro
+P00286,427,8604050.0,704242.5,7899807.5,8.440860215053764,Voltix Pro Smartwatches,Electronics,Voltix
+P00287,401,6917250.0,495075.0,6422175.0,7.028985507246377,FitCore Advanced Outdoor Sports,Sports & Fitness,FitCore
+P00288,444,697080.0,58247.0,638833.0,8.368421052631579,PureSkin Essential Personal Care,Beauty & Personal Care,PureSkin
+P00289,409,6568540.0,530783.0,6037757.0,8.333333333333334,CasaLiving Modern Lighting,Home & Kitchen,CasaLiving
+P00290,461,10741300.0,865595.0,9875705.0,8.225255972696246,CasaLiving Ultra Furniture,Home & Kitchen,CasaLiving
+P00291,418,1049180.0,82077.0,967103.0,7.976190476190476,BloomCare Ultra Makeup,Beauty & Personal Care,BloomCare
+P00292,468,229320.0,18669.0,210651.0,7.866666666666666,DermaCare Ultra Makeup,Beauty & Personal Care,DermaCare
+P00293,448,806400.0,64980.0,741420.0,8.440677966101696,PureSkin Smart Makeup,Beauty & Personal Care,PureSkin
+P00294,413,446040.0,34452.0,411588.0,8.339350180505415,PageTurner Classic Technology,Books,PageTurner
+P00295,491,549920.0,46760.0,503160.0,8.471337579617835,StyleCraft Premium Footwear,Fashion,StyleCraft
+P00296,426,319500.0,28237.5,291262.5,8.419243986254296,KnowledgeHouse Everyday Non-Fiction,Books,KnowledgeHouse
+P00297,445,1237100.0,107447.0,1129653.0,8.758389261744966,DermaCare Ultra Fragrances,Beauty & Personal Care,DermaCare
+P00298,490,34515600.0,2785902.0,31729698.0,7.885802469135802,Auralink Smart Cameras,Electronics,Auralink
+P00299,455,3253250.0,272772.5,2980477.5,7.996688741721854,StyleCraft Premium Trousers,Fashion,StyleCraft
+P00300,439,579480.0,49038.0,530442.0,8.02158273381295,KnowledgeHouse Premium Technology,Books,KnowledgeHouse
+P00301,481,8359780.0,718663.0,7641117.0,8.504672897196262,UrbanHome Everyday Kitchen Appliances,Home & Kitchen,UrbanHome
+P00302,423,1666620.0,136915.0,1529705.0,7.961672473867596,RunX Smart Outdoor Sports,Sports & Fitness,RunX
+P00303,443,10782620.0,939524.0,9843096.0,8.62012987012987,KitchenPro Premium Lighting,Home & Kitchen,KitchenPro
+P00304,467,3301690.0,229775.0,3071915.0,7.026143790849673,TrendRoot Pro Shirts,Fashion,TrendRoot
+P00305,491,1011460.0,84872.0,926588.0,8.41194968553459,PageTurner Advanced Fiction,Books,PageTurner
+P00306,457,1302450.0,111292.5,1191157.5,8.588039867109634,PureSkin Ultra Haircare,Beauty & Personal Care,PureSkin
+P00307,484,1084160.0,96208.0,987952.0,8.633440514469454,CasaLiving Smart Lighting,Home & Kitchen,CasaLiving
+P00308,484,2603920.0,224615.0,2379305.0,8.623417721518987,AuraBeauty Classic Personal Care,Beauty & Personal Care,AuraBeauty
+P00309,448,694400.0,53552.5,640847.5,7.610169491525424,StyleCraft Elite Shirts,Fashion,StyleCraft
+P00310,463,458370.0,36778.5,421591.5,8.031746031746032,InsightBooks Everyday Self Help,Books,InsightBooks
+P00311,445,21235400.0,1770412.0,19464988.0,8.42013888888889,TechSphere Everyday Tablets,Electronics,TechSphere
+P00312,483,8616720.0,734116.0,7882604.0,8.354632587859426,ActivePro Modern Sportswear,Sports & Fitness,ActivePro
+P00313,463,1921450.0,148155.0,1773295.0,7.671232876712328,DermaCare Modern Skincare,Beauty & Personal Care,DermaCare
+P00314,475,26006250.0,2121562.5,23884687.5,8.306962025316455,PixelPro Everyday Smartwatches,Electronics,PixelPro
+P00315,473,539220.0,43662.0,495558.0,7.879746835443038,KnowledgeHouse Pro Technology,Books,KnowledgeHouse
+P00316,489,4234740.0,345534.0,3889206.0,8.180428134556575,TechSphere Essential Smartphones,Electronics,TechSphere
+P00317,429,23118810.0,1937345.5,21181464.5,8.46551724137931,NovaTech Ultra Smartwatches,Electronics,NovaTech
+P00318,455,759850.0,61122.0,698728.0,8.106796116504855,InsightBooks Essential Academic,Books,InsightBooks
+P00319,494,2717000.0,219725.0,2497275.0,8.150470219435737,BloomCare Advanced Skincare,Beauty & Personal Care,BloomCare
+P00320,433,3269150.0,276707.5,2992442.5,8.493150684931507,FlexFit Advanced Outdoor Sports,Sports & Fitness,FlexFit
+P00321,416,7334080.0,539478.0,6794602.0,7.703180212014134,ComfortCraft Pro Storage,Home & Kitchen,ComfortCraft
+P00322,475,11381000.0,915272.0,10465728.0,8.217665615141955,CasaLiving Smart Furniture,Home & Kitchen,CasaLiving
+P00323,489,899760.0,73324.0,826436.0,7.917981072555205,GlowPure Smart Personal Care,Beauty & Personal Care,GlowPure
+P00324,449,6030070.0,516383.5,5513686.5,8.17741935483871,ActivePro Premium Running,Sports & Fitness,ActivePro
+P00325,394,12210060.0,1064506.5,11145553.5,8.622641509433961,Auralink Ultra Laptops,Electronics,Auralink
+P00326,521,5282940.0,438048.0,4844892.0,8.06060606060606,RunX Smart Sportswear,Sports & Fitness,RunX
+P00327,468,2204280.0,167440.5,2036839.5,7.643312101910828,AuraBeauty Premium Makeup,Beauty & Personal Care,AuraBeauty
+P00328,469,2274650.0,180905.0,2093745.0,7.983606557377049,ClassicFit Pro Footwear,Fashion,ClassicFit
+P00329,478,669200.0,53200.0,616000.0,7.582236842105263,InsightBooks Everyday Academic,Books,InsightBooks
+P00330,439,930680.0,75790.0,854890.0,7.824561403508772,BloomCare Elite Haircare,Beauty & Personal Care,BloomCare
+P00331,469,2302790.0,190999.0,2111791.0,8.130990415335463,ModeWear Premium Jackets,Fashion,ModeWear
+P00332,424,831040.0,68208.0,762832.0,8.664259927797834,StyleCraft Ultra Trousers,Fashion,StyleCraft
+P00333,418,790020.0,62937.0,727083.0,8.403508771929825,ComfortCraft Smart Cookware,Home & Kitchen,ComfortCraft
+P00334,463,35799160.0,2988418.0,32810742.0,8.338926174496644,NovaTech Smart Accessories,Electronics,NovaTech
+P00335,412,3193000.0,273187.5,2919812.5,8.72791519434629,StreetLine Ultra Jackets,Fashion,StreetLine
+P00336,501,470940.0,41642.0,429298.0,8.387622149837133,InsightBooks Smart Fiction,Books,InsightBooks
+P00337,471,10107660.0,827283.0,9280377.0,8.099041533546325,UrbanHome Everyday Storage,Home & Kitchen,UrbanHome
+P00338,443,1227110.0,108861.0,1118249.0,9.023569023569024,GlowPure Elite Fragrances,Beauty & Personal Care,GlowPure
+P00339,418,1011560.0,87604.0,923956.0,8.917525773195877,PixelPro Advanced Tablets,Electronics,PixelPro
+P00340,463,416700.0,31905.0,384795.0,7.983333333333333,ReadMore Advanced Business,Books,ReadMore
+P00341,473,1139930.0,90616.0,1049314.0,8.072100313479623,TrendRoot Essential Trousers,Fashion,TrendRoot
+P00342,460,363400.0,28993.0,334407.0,8.05,InsightBooks Elite Academic,Books,InsightBooks
+P00343,498,1155360.0,83636.0,1071724.0,7.306501547987616,InsightBooks Advanced Self Help,Books,InsightBooks
+P00344,427,486780.0,38646.0,448134.0,8.096026490066226,NovaTech Premium Accessories,Electronics,NovaTech
+P00345,460,13326200.0,1073338.5,12252861.5,7.870662460567823,PixelPro Premium Cameras,Electronics,PixelPro
+P00346,469,984900.0,81795.0,903105.0,8.214285714285714,LearnPress Elite Academic,Books,LearnPress
+P00347,450,31734000.0,2782014.0,28951986.0,8.795379537953796,Auralink Ultra Smartphones,Electronics,Auralink
+P00348,414,223560.0,17847.0,205713.0,7.963636363636364,InsightBooks Advanced Academic,Books,InsightBooks
+P00349,513,3580740.0,280247.0,3300493.0,7.792397660818714,TrendRoot Ultra Dresses,Fashion,TrendRoot
+P00350,415,3390550.0,275329.0,3115221.0,8.26158940397351,UrbanHome Modern Storage,Home & Kitchen,UrbanHome
+P00351,430,5400800.0,424528.0,4976272.0,8.216911764705882,ZenByte Premium Cameras,Electronics,ZenByte
+P00352,439,4890460.0,367620.0,4522840.0,7.581818181818182,NovaTech Advanced Cameras,Electronics,NovaTech
+P00353,378,601020.0,49528.5,551491.5,8.19548872180451,HomeNest Everyday Home Decor,Home & Kitchen,HomeNest
+P00354,458,1232020.0,98319.5,1133700.5,8.080645161290322,RunX Premium Outdoor Sports,Sports & Fitness,RunX
+P00355,491,373160.0,32452.0,340708.0,8.951612903225806,ActivePro Essential Running,Sports & Fitness,ActivePro
+P00356,434,329840.0,27664.0,302176.0,8.219178082191782,KnowledgeHouse Ultra Business,Books,KnowledgeHouse
+P00357,496,644800.0,52000.0,592800.0,7.714723926380368,AuraBeauty Pro Personal Care,Beauty & Personal Care,AuraBeauty
+P00358,442,6439940.0,516506.5,5923433.5,8.387096774193548,FitCore Classic Yoga,Sports & Fitness,FitCore
+P00359,439,535580.0,44286.0,491294.0,8.234265734265735,SportEdge Essential Sportswear,Sports & Fitness,SportEdge
+P00360,470,1513400.0,142646.0,1370754.0,8.573770491803279,AuraBeauty Everyday Haircare,Beauty & Personal Care,AuraBeauty
+P00361,439,952630.0,76384.0,876246.0,8.054607508532424,BloomCare Ultra Skincare,Beauty & Personal Care,BloomCare
+P00362,416,1289600.0,100595.0,1189005.0,7.43006993006993,PureSkin Essential Haircare,Beauty & Personal Care,PureSkin
+P00363,474,587760.0,41664.0,546096.0,7.236024844720497,AuraBeauty Classic Makeup,Beauty & Personal Care,AuraBeauty
+P00364,470,521700.0,41625.0,480075.0,8.01639344262295,SportEdge Classic Sportswear,Sports & Fitness,SportEdge
+P00365,461,4522410.0,375723.0,4146687.0,8.10580204778157,SportEdge Premium Yoga,Sports & Fitness,SportEdge
+P00366,464,2695840.0,227752.0,2468088.0,8.10580204778157,FlexFit Everyday Gym Equipment,Sports & Fitness,FlexFit
+P00367,491,1114570.0,92729.5,1021840.5,8.606811145510836,UrbanHome Advanced Kitchen Appliances,Home & Kitchen,UrbanHome
+P00368,456,989520.0,83002.5,906517.5,8.289036544850498,AuraBeauty Ultra Skincare,Beauty & Personal Care,AuraBeauty
+P00369,422,1181600.0,98280.0,1083320.0,8.285714285714286,UrbanThread Advanced Trousers,Fashion,UrbanThread
+P00370,461,5172420.0,420189.0,4752231.0,8.483333333333333,RunX Elite Outdoor Sports,Sports & Fitness,RunX
+P00371,484,3305720.0,296080.5,3009639.5,8.397435897435898,RunX Essential Gym Equipment,Sports & Fitness,RunX
+P00372,446,3630440.0,276760.0,3353680.0,7.962962962962963,UrbanHome Modern Kitchen Appliances,Home & Kitchen,UrbanHome
+P00373,500,895000.0,70884.0,824116.0,7.522658610271903,GlowPure Modern Makeup,Beauty & Personal Care,GlowPure
+P00374,480,7017600.0,579683.0,6437917.0,8.07570977917981,SportEdge Smart Running,Sports & Fitness,SportEdge
+P00375,441,939330.0,80620.5,858709.5,8.526490066225165,DermaCare Ultra Fragrances,Beauty & Personal Care,DermaCare
+P00376,426,1738080.0,133008.0,1605072.0,7.5,PureSkin Modern Skincare,Beauty & Personal Care,PureSkin
+P00377,465,730050.0,55970.5,674079.5,7.9605263157894735,LearnPress Premium Business,Books,LearnPress
+P00378,464,719200.0,63085.0,656115.0,8.710191082802547,KnowledgeHouse Smart Fiction,Books,KnowledgeHouse
+P00379,433,805380.0,65286.0,740094.0,7.867383512544803,InsightBooks Essential Academic,Books,InsightBooks
+P00380,427,8155700.0,682825.0,7472875.0,8.469750889679716,FlexFit Modern Sportswear,Sports & Fitness,FlexFit
+P00381,407,614570.0,52321.5,562248.5,8.193430656934307,LearnPress Advanced Self Help,Books,LearnPress
+P00382,492,1476000.0,123600.0,1352400.0,8.15625,GlowPure Advanced Skincare,Beauty & Personal Care,GlowPure
+P00383,431,1486950.0,119197.5,1367752.5,8.101045296167248,RunX Elite Outdoor Sports,Sports & Fitness,RunX
+P00384,471,1535460.0,136105.0,1399355.0,8.761609907120743,NovaTech Classic Headphones,Electronics,NovaTech
+P00385,436,754280.0,61328.5,692951.5,7.7526132404181185,StyleCraft Everyday Footwear,Fashion,StyleCraft
+P00386,426,715680.0,53004.0,662676.0,7.741379310344827,PureSkin Advanced Haircare,Beauty & Personal Care,PureSkin
+P00387,473,879780.0,80724.0,799056.0,8.844936708860759,PageTurner Elite Self Help,Books,PageTurner
+P00388,435,1535550.0,120549.5,1415000.5,8.016949152542374,HomeNest Modern Lighting,Home & Kitchen,HomeNest
+P00389,393,3458400.0,257840.0,3200560.0,7.343173431734317,UrbanHome Classic Furniture,Home & Kitchen,UrbanHome
+P00390,464,793440.0,68742.0,724698.0,8.225308641975309,LearnPress Pro Technology,Books,LearnPress
+P00391,479,2481220.0,201761.0,2279459.0,8.018867924528301,DermaCare Ultra Personal Care,Beauty & Personal Care,DermaCare
+P00392,465,11294850.0,930307.0,10364543.0,8.143322475570033,Voltix Classic Laptops,Electronics,Voltix
+P00393,435,1431150.0,110873.0,1320277.0,7.7874564459930316,DermaCare Modern Personal Care,Beauty & Personal Care,DermaCare
+P00394,486,379080.0,29562.0,349518.0,7.7725856697819315,PageTurner Everyday Academic,Books,PageTurner
+P00395,474,109020.0,8257.0,100763.0,7.475409836065574,GlowPure Essential Personal Care,Beauty & Personal Care,GlowPure
+P00396,493,8065480.0,660944.0,7404536.0,8.146417445482866,SportEdge Pro Sportswear,Sports & Fitness,SportEdge
+P00397,429,2925780.0,235631.0,2690149.0,8.265993265993266,TrendRoot Premium T-Shirts,Fashion,TrendRoot
+P00398,446,2988200.0,236510.0,2751690.0,7.731958762886598,StreetLine Advanced Dresses,Fashion,StreetLine
+P00399,450,2178000.0,162866.0,2015134.0,7.883333333333334,BloomCare Classic Personal Care,Beauty & Personal Care,BloomCare
+P00400,439,7945900.0,633500.0,7312400.0,7.94314381270903,HomeNest Elite Home Decor,Home & Kitchen,HomeNest
+P00401,454,880760.0,73526.0,807234.0,8.256578947368421,ReadMore Premium Non-Fiction,Books,ReadMore
+P00402,453,2251410.0,177926.0,2073484.0,7.820945945945946,DermaCare Smart Skincare,Beauty & Personal Care,DermaCare
+P00403,440,294800.0,22847.0,271953.0,7.705479452054795,PageTurner Modern Business,Books,PageTurner
+P00404,404,15004560.0,1199622.0,13804938.0,7.988721804511278,Voltix Everyday Tablets,Electronics,Voltix
+P00405,408,489600.0,39360.0,450240.0,8.09608540925267,ReadMore Modern Technology,Books,ReadMore
+P00406,421,143140.0,12036.0,131104.0,8.185053380782918,PageTurner Pro Fiction,Books,PageTurner
+P00407,432,613440.0,52469.0,560971.0,8.144329896907216,PageTurner Advanced Non-Fiction,Books,PageTurner
+P00408,436,2323880.0,181486.5,2142393.5,7.722602739726027,DermaCare Modern Fragrances,Beauty & Personal Care,DermaCare
+P00409,478,32446640.0,2596410.0,29850230.0,8.492307692307692,NovaTech Pro Cameras,Electronics,NovaTech
+P00410,458,8825660.0,740931.5,8084728.5,8.49025974025974,UrbanHome Essential Storage,Home & Kitchen,UrbanHome
+P00411,486,4179600.0,324650.0,3854950.0,7.884615384615385,TechSphere Essential Cameras,Electronics,TechSphere
+P00412,498,1389420.0,123876.0,1265544.0,8.905775075987842,PureSkin Ultra Haircare,Beauty & Personal Care,PureSkin
+P00413,476,3627120.0,310515.0,3316605.0,8.482428115015974,ModeWear Essential Dresses,Fashion,ModeWear
+P00414,462,346500.0,28875.0,317625.0,8.328025477707007,KnowledgeHouse Classic Business,Books,KnowledgeHouse
+P00415,399,578550.0,50460.0,528090.0,8.745583038869258,DermaCare Ultra Haircare,Beauty & Personal Care,DermaCare
+P00416,471,763020.0,54270.0,708750.0,7.182410423452769,ReadMore Classic Technology,Books,ReadMore
+P00417,450,2484000.0,212796.0,2271204.0,8.447712418300654,DermaCare Pro Makeup,Beauty & Personal Care,DermaCare
+P00418,476,952000.0,80700.0,871300.0,8.462732919254659,DermaCare Modern Skincare,Beauty & Personal Care,DermaCare
+P00419,438,280320.0,21600.0,258720.0,7.918149466192171,KnowledgeHouse Pro Technology,Books,KnowledgeHouse
+P00420,464,742400.0,57840.0,684560.0,7.5,KnowledgeHouse Essential Fiction,Books,KnowledgeHouse
+P00421,465,399900.0,33196.0,366704.0,8.192182410423452,ClassicFit Advanced Footwear,Fashion,ClassicFit
+P00422,443,2409920.0,198832.0,2211088.0,8.153310104529616,StreetLine Smart Trousers,Fashion,StreetLine
+P00423,468,238680.0,17620.5,221059.5,7.746710526315789,PageTurner Classic Business,Books,PageTurner
+P00424,462,600600.0,52910.0,547690.0,8.4472049689441,PureSkin Essential Makeup,Beauty & Personal Care,PureSkin
+P00425,457,4382630.0,364420.0,4018210.0,8.066202090592334,FlexFit Modern Sportswear,Sports & Fitness,FlexFit
+P00426,461,1009590.0,86943.0,922647.0,8.481012658227849,PageTurner Everyday Technology,Books,PageTurner
+P00427,439,22336320.0,1714656.0,20621664.0,7.953020134228188,PixelPro Elite Accessories,Electronics,PixelPro
+P00428,442,18466760.0,1577195.0,16889565.0,8.736842105263158,NovaTech Essential Tablets,Electronics,NovaTech
+P00429,470,1884700.0,166014.0,1718686.0,8.833333333333334,BloomCare Advanced Makeup,Beauty & Personal Care,BloomCare
+P00430,468,3425760.0,274866.0,3150894.0,7.953020134228188,FitCore Ultra Running,Sports & Fitness,FitCore
+P00431,455,1615250.0,139337.5,1475912.5,8.409090909090908,AuraBeauty Everyday Personal Care,Beauty & Personal Care,AuraBeauty
+P00432,439,4100260.0,341377.0,3758883.0,8.527272727272727,FlexFit Advanced Sportswear,Sports & Fitness,FlexFit
+P00433,456,1358880.0,108472.0,1250408.0,8.166666666666666,StyleCraft Everyday Jackets,Fashion,StyleCraft
+P00434,447,844830.0,69835.5,774994.5,8.233333333333333,KnowledgeHouse Ultra Academic,Books,KnowledgeHouse
+P00435,450,1804500.0,151578.0,1652922.0,8.424908424908425,ModeWear Classic T-Shirts,Fashion,ModeWear
+P00436,488,73200.0,4830.0,68370.0,6.838905775075988,PageTurner Classic Academic,Books,PageTurner
+P00437,505,1146350.0,90573.0,1055777.0,7.935779816513762,BloomCare Everyday Makeup,Beauty & Personal Care,BloomCare
+P00438,424,4740320.0,389064.0,4351256.0,8.538732394366198,HomeNest Premium Lighting,Home & Kitchen,HomeNest
+P00439,438,7209480.0,596675.0,6612805.0,8.156996587030717,ComfortCraft Classic Lighting,Home & Kitchen,ComfortCraft
+P00440,428,3685080.0,283699.5,3401380.5,7.704081632653061,RunX Advanced Gym Equipment,Sports & Fitness,RunX
+P00441,400,44000.0,3371.5,40628.5,7.645985401459854,PageTurner Everyday Fiction,Books,PageTurner
+P00442,402,8027940.0,682974.0,7344966.0,8.1993006993007,Voltix Pro Smartwatches,Electronics,Voltix
+P00443,475,3980500.0,329753.0,3650747.0,7.725806451612903,ActivePro Essential Outdoor Sports,Sports & Fitness,ActivePro
+P00444,462,30538200.0,2693575.0,27844625.0,8.651877133105803,Voltix Classic Tablets,Electronics,Voltix
+P00445,475,7357750.0,594041.5,6763708.5,8.02547770700637,SportEdge Classic Running,Sports & Fitness,SportEdge
+P00446,507,233220.0,18538.0,214682.0,7.962962962962963,ComfortCraft Elite Cookware,Home & Kitchen,ComfortCraft
+P00447,450,6930000.0,514360.0,6415640.0,7.326732673267327,ComfortCraft Smart Lighting,Home & Kitchen,ComfortCraft
+P00448,418,639540.0,49342.5,590197.5,8.159722222222221,TrendRoot Smart Footwear,Fashion,TrendRoot
+P00449,440,132000.0,11025.0,120975.0,8.338983050847459,FitCore Essential Yoga,Sports & Fitness,FitCore
+P00450,460,1044200.0,84671.0,959529.0,8.052805280528053,KnowledgeHouse Smart Technology,Books,KnowledgeHouse
+P00451,433,5408170.0,414668.0,4993502.0,7.950819672131147,ZenByte Ultra Laptops,Electronics,ZenByte
+P00452,406,1230180.0,97869.0,1132311.0,7.69811320754717,RunX Elite Outdoor Sports,Sports & Fitness,RunX
+P00453,443,292380.0,25674.0,266706.0,8.598615916955017,BloomCare Modern Skincare,Beauty & Personal Care,BloomCare
+P00454,459,10630440.0,735330.0,9895110.0,6.763698630136986,CasaLiving Pro Kitchen Appliances,Home & Kitchen,CasaLiving
+P00455,483,2250780.0,188963.0,2061817.0,8.058252427184467,HomeNest Smart Furniture,Home & Kitchen,HomeNest
+P00456,517,21434820.0,1625232.0,19809588.0,7.71875,TechSphere Elite Laptops,Electronics,TechSphere
+P00457,434,1071980.0,91884.0,980096.0,8.079584775086506,StreetLine Elite Trousers,Fashion,StreetLine
+P00458,453,443940.0,36995.0,406945.0,8.383333333333333,LearnPress Premium Technology,Books,LearnPress
+P00459,444,976800.0,83270.0,893530.0,8.35,ReadMore Pro Non-Fiction,Books,ReadMore
+P00460,466,2260100.0,164657.5,2095442.5,7.547770700636943,ModeWear Elite T-Shirts,Fashion,ModeWear
+P00461,409,764830.0,53295.0,711535.0,7.416974169741698,PixelPro Classic Accessories,Electronics,PixelPro
+P00462,481,2847520.0,224664.0,2622856.0,7.717041800643087,ModeWear Essential Shirts,Fashion,ModeWear
+P00463,470,1109200.0,85550.0,1023650.0,7.775919732441472,FitCore Premium Yoga,Sports & Fitness,FitCore
+P00464,463,300950.0,24277.5,276672.5,8.40764331210191,StreetLine Classic T-Shirts,Fashion,StreetLine
+P00465,389,474580.0,37027.0,437553.0,7.8545454545454545,SportEdge Elite Outdoor Sports,Sports & Fitness,SportEdge
+P00466,433,1710350.0,133510.0,1576840.0,7.975778546712803,StreetLine Ultra Shirts,Fashion,StreetLine
+P00467,420,5775000.0,452375.0,5322625.0,8.042704626334519,RunX Elite Gym Equipment,Sports & Fitness,RunX
+P00468,437,2945380.0,234215.0,2711165.0,7.912280701754386,KitchenPro Pro Storage,Home & Kitchen,KitchenPro
+P00469,435,682950.0,53301.5,629648.5,7.958199356913183,KnowledgeHouse Pro Self Help,Books,KnowledgeHouse
+P00470,486,4427460.0,323860.5,4103599.5,7.21875,RunX Pro Sportswear,Sports & Fitness,RunX
+P00471,430,26711600.0,2332606.0,24378994.0,8.478260869565217,Voltix Premium Accessories,Electronics,Voltix
+P00472,415,2357200.0,177500.0,2179700.0,8.033088235294118,UrbanThread Smart Shirts,Fashion,UrbanThread
+P00473,471,795990.0,66586.0,729404.0,8.501628664495113,PageTurner Modern Fiction,Books,PageTurner
+P00474,445,1290500.0,97440.0,1193060.0,7.5423728813559325,StyleCraft Modern Shirts,Fashion,StyleCraft
+P00475,493,9228960.0,684216.0,8544744.0,7.915360501567398,RunX Modern Running,Sports & Fitness,RunX
+P00476,476,1984920.0,150120.0,1834800.0,7.59433962264151,AuraBeauty Advanced Personal Care,Beauty & Personal Care,AuraBeauty
+P00477,459,137700.0,10650.0,127050.0,7.987220447284345,TrendRoot Elite T-Shirts,Fashion,TrendRoot
+P00478,433,3390390.0,284229.0,3106161.0,8.37979094076655,ClassicFit Advanced Jeans,Fashion,ClassicFit
+P00479,462,6856080.0,522368.0,6333712.0,7.806451612903226,Auralink Advanced Laptops,Electronics,Auralink
+P00480,463,35701930.0,2953313.0,32748617.0,7.909407665505227,ZenByte Pro Headphones,Electronics,ZenByte
+P00481,423,2377260.0,202601.0,2174659.0,8.304195804195805,ModeWear Elite Footwear,Fashion,ModeWear
+P00482,486,398520.0,27552.0,370968.0,7.230769230769231,ReadMore Smart Self Help,Books,ReadMore
+P00483,454,2746700.0,206607.5,2540092.5,7.805280528052806,ClassicFit Premium Shirts,Fashion,ClassicFit
+P00484,427,4560360.0,377004.0,4183356.0,7.701754385964913,ActivePro Modern Running,Sports & Fitness,ActivePro
+P00485,486,330480.0,26044.0,304436.0,7.920634920634921,KnowledgeHouse Elite Self Help,Books,KnowledgeHouse
+P00486,517,7672280.0,655928.0,7016352.0,8.414634146341463,HomeNest Essential Furniture,Home & Kitchen,HomeNest
+P00487,392,184240.0,14311.5,169928.5,7.536764705882353,Voltix Classic Headphones,Electronics,Voltix
+P00488,421,1338780.0,107961.0,1230819.0,7.814685314685315,ModeWear Pro Trousers,Fashion,ModeWear
+P00489,481,1279460.0,95893.0,1183567.0,7.4183006535947715,ActivePro Elite Gym Equipment,Sports & Fitness,ActivePro
+P00490,413,4708200.0,366510.0,4341690.0,7.819148936170213,HomeNest Classic Kitchen Appliances,Home & Kitchen,HomeNest
+P00491,447,34937520.0,2962264.0,31975256.0,8.65979381443299,NovaTech Essential Tablets,Electronics,NovaTech
+P00492,516,41228400.0,3223965.0,38004435.0,7.876506024096385,ZenByte Advanced Smartwatches,Electronics,ZenByte
+P00493,493,11358720.0,925056.0,10433664.0,8.123076923076923,KitchenPro Pro Furniture,Home & Kitchen,KitchenPro
+P00494,455,3630900.0,271719.0,3359181.0,7.713815789473684,CasaLiving Ultra Lighting,Home & Kitchen,CasaLiving
+P00495,459,82620.0,7137.0,75483.0,8.210862619808307,GlowPure Essential Haircare,Beauty & Personal Care,GlowPure
+P00496,435,217500.0,17625.0,199875.0,8.12937062937063,InsightBooks Smart Self Help,Books,InsightBooks
+P00497,495,25938000.0,1941420.0,23996580.0,7.461059190031152,NovaTech Ultra Smartwatches,Electronics,NovaTech
+P00498,454,11136620.0,841379.0,10295241.0,7.740863787375416,Auralink Pro Cameras,Electronics,Auralink
+P00499,457,1809720.0,145728.0,1663992.0,8.2475884244373,AuraBeauty Elite Skincare,Beauty & Personal Care,AuraBeauty
+P00500,422,4865660.0,386831.5,4478828.5,7.925925925925926,ZenByte Classic Laptops,Electronics,ZenByte
+P00501,402,5197860.0,413760.0,4784100.0,7.969924812030075,FlexFit Premium Gym Equipment,Sports & Fitness,FlexFit
+P00502,403,826150.0,69187.5,756962.5,8.818181818181818,LearnPress Smart Business,Books,LearnPress
+P00503,443,983460.0,83583.0,899877.0,8.338983050847459,LearnPress Modern Fiction,Books,LearnPress
+P00504,453,756510.0,61790.0,694720.0,7.7272727272727275,ModeWear Advanced T-Shirts,Fashion,ModeWear
+P00505,435,11640600.0,949980.0,10690620.0,8.28014184397163,NovaTech Pro Smartwatches,Electronics,NovaTech
+P00506,425,1317500.0,98735.0,1218765.0,7.405498281786942,RunX Classic Yoga,Sports & Fitness,RunX
+P00507,440,10186000.0,884330.0,9301670.0,8.645484949832776,UrbanHome Premium Home Decor,Home & Kitchen,UrbanHome
+P00508,495,36907200.0,3049504.0,33857696.0,8.140625,PixelPro Advanced Smartwatches,Electronics,PixelPro
+P00509,482,18219600.0,1315440.0,16904160.0,7.46875,Auralink Classic Smartphones,Electronics,Auralink
+P00510,475,2299000.0,191664.0,2107336.0,8.78594249201278,PureSkin Elite Makeup,Beauty & Personal Care,PureSkin
+P00511,470,2693100.0,228913.5,2464186.5,8.312101910828025,BloomCare Modern Haircare,Beauty & Personal Care,BloomCare
+P00512,520,12812800.0,1043504.0,11769296.0,8.308605341246292,KitchenPro Premium Lighting,Home & Kitchen,KitchenPro
+P00513,477,17668080.0,1453820.0,16214260.0,8.071895424836601,Voltix Ultra Headphones,Electronics,Voltix
+P00514,402,15951360.0,1188416.0,14762944.0,7.481751824817518,PixelPro Advanced Accessories,Electronics,PixelPro
+P00515,522,11144700.0,936197.5,10208502.5,8.187134502923977,UrbanHome Modern Kitchen Appliances,Home & Kitchen,UrbanHome
+P00516,471,287310.0,21868.5,265441.5,7.516233766233766,BloomCare Essential Fragrances,Beauty & Personal Care,BloomCare
+P00517,476,1071000.0,90900.0,980100.0,8.435483870967742,InsightBooks Advanced Self Help,Books,InsightBooks
+P00518,466,265620.0,22458.0,243162.0,8.306451612903226,UrbanThread Smart Jackets,Fashion,UrbanThread
+P00519,381,1691640.0,139416.0,1552224.0,8.214285714285714,StreetLine Elite Jeans,Fashion,StreetLine
+P00520,482,37673120.0,2778588.0,34894532.0,7.435064935064935,Voltix Elite Laptops,Electronics,Voltix
+P00521,499,2799390.0,246840.0,2552550.0,8.549848942598187,RunX Essential Sportswear,Sports & Fitness,RunX
+P00522,435,730800.0,60060.0,670740.0,8.178571428571429,ReadMore Premium Fiction,Books,ReadMore
+P00523,460,2691000.0,229320.0,2461680.0,8.4640522875817,StyleCraft Smart Jackets,Fashion,StyleCraft
+P00524,479,29908760.0,2500722.0,27408038.0,8.338658146964857,ZenByte Premium Accessories,Electronics,ZenByte
+P00525,389,15692260.0,1339288.0,14352972.0,8.521897810218977,Voltix Modern Laptops,Electronics,Voltix
+P00526,464,1025440.0,78565.5,946874.5,7.834394904458598,AuraBeauty Elite Fragrances,Beauty & Personal Care,AuraBeauty
+P00527,432,211680.0,17713.5,193966.5,8.303886925795053,FlexFit Classic Outdoor Sports,Sports & Fitness,FlexFit
+P00528,489,4625940.0,335357.0,4290583.0,7.484662576687117,ComfortCraft Modern Home Decor,Home & Kitchen,ComfortCraft
+P00529,436,3819360.0,324558.0,3494802.0,8.779661016949152,CasaLiving Ultra Kitchen Appliances,Home & Kitchen,CasaLiving
+P00530,450,3631500.0,294555.0,3336945.0,8.646864686468646,KitchenPro Everyday Furniture,Home & Kitchen,KitchenPro
+P00531,472,509760.0,36774.0,472986.0,7.108626198083067,RunX Advanced Outdoor Sports,Sports & Fitness,RunX
+P00532,409,2016370.0,138286.5,1878083.5,7.230769230769231,PureSkin Premium Fragrances,Beauty & Personal Care,PureSkin
+P00533,423,8933760.0,687456.0,8246304.0,7.347670250896058,KitchenPro Everyday Lighting,Home & Kitchen,KitchenPro
+P00534,490,10657500.0,824325.0,9833175.0,8.041543026706231,CasaLiving Advanced Home Decor,Home & Kitchen,CasaLiving
+P00535,433,714450.0,64020.0,650430.0,9.060283687943262,AuraBeauty Everyday Haircare,Beauty & Personal Care,AuraBeauty
+P00536,456,18490800.0,1488185.0,17002615.0,8.169934640522875,Voltix Smart Laptops,Electronics,Voltix
+P00537,440,1786400.0,137025.0,1649375.0,7.969283276450512,CasaLiving Elite Home Decor,Home & Kitchen,CasaLiving
+P00538,516,3415920.0,276716.0,3139204.0,8.192419825072886,FitCore Elite Sportswear,Sports & Fitness,FitCore
+P00539,473,2454870.0,186840.0,2268030.0,7.483870967741935,SportEdge Premium Yoga,Sports & Fitness,SportEdge
+P00540,414,2550240.0,205128.0,2345112.0,8.316151202749142,ActivePro Essential Outdoor Sports,Sports & Fitness,ActivePro
+P00541,443,150620.0,11441.0,139179.0,7.1172638436482085,ClassicFit Premium Jeans,Fashion,ClassicFit
+P00542,465,3129450.0,247327.5,2882122.5,8.099315068493151,StyleCraft Elite Dresses,Fashion,StyleCraft
+P00543,466,1891960.0,155701.0,1736259.0,8.245341614906833,PureSkin Pro Fragrances,Beauty & Personal Care,PureSkin
+P00544,447,1019160.0,90060.0,929100.0,8.793103448275861,KnowledgeHouse Essential Technology,Books,KnowledgeHouse
+P00545,424,585120.0,49818.0,535302.0,7.96875,PageTurner Essential Non-Fiction,Books,PageTurner
+P00546,436,4346920.0,345959.0,4000961.0,7.704626334519573,HomeNest Premium Furniture,Home & Kitchen,HomeNest
+P00547,439,2032570.0,148854.5,1883715.5,7.844827586206897,RunX Pro Sportswear,Sports & Fitness,RunX
+P00548,513,1113210.0,92550.5,1020659.5,8.081395348837209,ModeWear Premium Shirts,Fashion,ModeWear
+P00549,446,7332240.0,606636.0,6725604.0,8.344155844155845,Auralink Advanced Tablets,Electronics,Auralink
+P00550,376,206800.0,13805.0,192995.0,6.569343065693431,BloomCare Modern Makeup,Beauty & Personal Care,BloomCare
+P00551,437,790970.0,65522.0,725448.0,8.083333333333334,KnowledgeHouse Classic Fiction,Books,KnowledgeHouse
+P00552,460,1205200.0,95237.0,1109963.0,8.114754098360656,DermaCare Premium Haircare,Beauty & Personal Care,DermaCare
+P00553,445,6194400.0,518520.0,5675880.0,8.010204081632653,ComfortCraft Advanced Home Decor,Home & Kitchen,ComfortCraft
+P00554,459,1712070.0,139875.0,1572195.0,7.868852459016393,RunX Classic Running,Sports & Fitness,RunX
+P00555,436,10137000.0,853275.0,9283725.0,8.637931034482758,KitchenPro Essential Home Decor,Home & Kitchen,KitchenPro
+P00556,413,854910.0,63859.5,791050.5,7.463768115942029,PureSkin Essential Haircare,Beauty & Personal Care,PureSkin
+P00557,402,7979700.0,621305.0,7358395.0,7.767527675276753,Auralink Elite Accessories,Electronics,Auralink
+P00558,418,438900.0,35805.0,403095.0,8.484320557491289,KnowledgeHouse Ultra Academic,Books,KnowledgeHouse
+P00559,512,240640.0,21784.5,218855.5,8.987341772151899,GlowPure Advanced Skincare,Beauty & Personal Care,GlowPure
+P00560,425,722500.0,59075.0,663425.0,8.222591362126245,HomeNest Classic Storage,Home & Kitchen,HomeNest
+P00561,418,2253020.0,173288.5,2079731.5,7.822878228782288,StreetLine Elite Jeans,Fashion,StreetLine
+P00562,477,6353640.0,496170.0,5857470.0,8.102310231023102,HomeNest Pro Furniture,Home & Kitchen,HomeNest
+P00563,472,264320.0,21364.0,242956.0,8.100303951367781,InsightBooks Advanced Business,Books,InsightBooks
+P00564,433,1840250.0,155125.0,1685125.0,8.13167259786477,ModeWear Modern T-Shirts,Fashion,ModeWear
+P00565,465,553350.0,42780.5,510569.5,8.003194888178914,RunX Modern Outdoor Sports,Sports & Fitness,RunX
+P00566,455,3444350.0,263814.5,3180535.5,7.604501607717042,ModeWear Classic Trousers,Fashion,ModeWear
+P00567,443,1089780.0,96555.0,993225.0,8.843537414965986,KnowledgeHouse Everyday Technology,Books,KnowledgeHouse
+P00568,457,223930.0,18326.0,205604.0,7.970779220779221,LearnPress Everyday Technology,Books,LearnPress
+P00569,432,7992000.0,624375.0,7367625.0,8.208191126279864,UrbanHome Advanced Lighting,Home & Kitchen,UrbanHome
+P00570,456,971280.0,80088.0,891192.0,8.36038961038961,LearnPress Elite Non-Fiction,Books,LearnPress
+P00571,525,971250.0,75202.5,896047.5,7.904191616766467,CasaLiving Ultra Furniture,Home & Kitchen,CasaLiving
+P00572,446,1690340.0,142314.5,1548025.5,8.56401384083045,GlowPure Elite Haircare,Beauty & Personal Care,GlowPure
+P00573,464,1958080.0,167534.0,1790546.0,8.448275862068966,AuraBeauty Classic Fragrances,Beauty & Personal Care,AuraBeauty
+P00574,457,68550.0,5752.5,62797.5,8.344594594594595,BloomCare Everyday Skincare,Beauty & Personal Care,BloomCare
+P00575,454,3191620.0,269600.5,2922019.5,8.554817275747508,FlexFit Everyday Yoga,Sports & Fitness,FlexFit
+P00576,473,5240840.0,398880.0,4841960.0,7.562111801242236,KitchenPro Elite Cookware,Home & Kitchen,KitchenPro
+P00577,423,241110.0,18439.5,222670.5,7.805755395683454,ReadMore Elite Academic,Books,ReadMore
+P00578,461,7975300.0,659995.0,7315305.0,8.45,CasaLiving Everyday Kitchen Appliances,Home & Kitchen,CasaLiving
+P00579,449,529820.0,44545.0,485275.0,8.322683706070288,StyleCraft Pro Trousers,Fashion,StyleCraft
+P00580,466,1360720.0,121034.0,1239686.0,8.926174496644295,PureSkin Smart Haircare,Beauty & Personal Care,PureSkin
+P00581,484,938960.0,79443.0,859517.0,8.172757475083056,LearnPress Classic Academic,Books,LearnPress
+P00582,461,2918130.0,240856.5,2677273.5,8.327814569536423,UrbanThread Everyday Trousers,Fashion,UrbanThread
+P00583,389,7472690.0,587826.0,6884864.0,7.9921259842519685,FlexFit Advanced Outdoor Sports,Sports & Fitness,FlexFit
+P00584,468,2003040.0,147874.0,1855166.0,7.6,BloomCare Essential Personal Care,Beauty & Personal Care,BloomCare
+P00585,442,663000.0,59700.0,603300.0,9.003378378378379,ReadMore Pro Non-Fiction,Books,ReadMore
+P00586,420,1155000.0,95700.0,1059300.0,8.076923076923077,TrendRoot Everyday Trousers,Fashion,TrendRoot
+P00587,447,411240.0,32338.0,378902.0,8.322147651006711,LearnPress Smart Academic,Books,LearnPress
+P00588,505,8438550.0,605737.5,7832812.5,7.3584905660377355,KitchenPro Advanced Lighting,Home & Kitchen,KitchenPro
+P00589,449,28403740.0,2223589.0,26180151.0,8.389261744966444,Voltix Everyday Accessories,Electronics,Voltix
+P00590,457,114250.0,9137.5,105112.5,7.957516339869281,AuraBeauty Pro Personal Care,Beauty & Personal Care,AuraBeauty
+P00591,510,17997900.0,1441596.5,16556303.5,8.140625,NovaTech Smart Cameras,Electronics,NovaTech
+P00592,496,649760.0,58229.5,591530.5,9.179566563467493,PageTurner Premium Technology,Books,PageTurner
+P00593,475,945250.0,74824.0,870426.0,8.003300330033003,BloomCare Everyday Skincare,Beauty & Personal Care,BloomCare
+P00594,474,6138300.0,544547.5,5593752.5,8.78594249201278,FitCore Pro Yoga,Sports & Fitness,FitCore
+P00595,472,11597040.0,958230.0,10638810.0,8.441358024691358,HomeNest Premium Home Decor,Home & Kitchen,HomeNest
+P00596,494,2287220.0,182653.5,2104566.5,8.363363363363364,AuraBeauty Modern Haircare,Beauty & Personal Care,AuraBeauty
+P00597,445,2621050.0,222936.5,2398113.5,8.848797250859107,ModeWear Advanced Jeans,Fashion,ModeWear
+P00598,430,6144700.0,496577.5,5648122.5,7.976190476190476,SportEdge Premium Running,Sports & Fitness,SportEdge
+P00599,473,7345690.0,639836.0,6705854.0,8.118971061093248,FitCore Essential Yoga,Sports & Fitness,FitCore
+P00600,453,9916170.0,874505.5,9041664.5,8.181818181818182,HomeNest Modern Home Decor,Home & Kitchen,HomeNest
+P00601,450,3334500.0,294177.0,3040323.0,8.442906574394463,CasaLiving Everyday Cookware,Home & Kitchen,CasaLiving
+P00602,496,8853600.0,706860.0,8146740.0,7.870967741935484,SportEdge Everyday Gym Equipment,Sports & Fitness,SportEdge
+P00603,426,1388760.0,109373.0,1279387.0,8.113553113553113,StreetLine Essential Footwear,Fashion,StreetLine
+P00604,475,1904750.0,170826.0,1733924.0,8.603896103896103,FlexFit Premium Outdoor Sports,Sports & Fitness,FlexFit
+P00605,483,125580.0,9308.0,116272.0,7.462686567164179,LearnPress Smart Self Help,Books,LearnPress
+P00606,406,15172220.0,1195840.0,13976380.0,8.163636363636364,Voltix Everyday Smartwatches,Electronics,Voltix
+P00607,447,7219050.0,537795.0,6681255.0,7.448630136986301,ComfortCraft Elite Home Decor,Home & Kitchen,ComfortCraft
+P00608,457,2595760.0,206184.0,2389576.0,8.268608414239482,HomeNest Classic Home Decor,Home & Kitchen,HomeNest
+P00609,479,13526960.0,1040644.0,12486316.0,7.964169381107492,NovaTech Smart Cameras,Electronics,NovaTech
+P00610,480,2688000.0,229880.0,2458120.0,8.082822085889571,ClassicFit Pro Dresses,Fashion,ClassicFit
+P00611,454,276940.0,20892.5,256047.5,7.668810289389068,ModeWear Essential T-Shirts,Fashion,ModeWear
+P00612,429,3286140.0,259291.0,3026849.0,7.879310344827586,HomeNest Modern Home Decor,Home & Kitchen,HomeNest
+P00613,412,70040.0,5822.5,64217.5,8.003472222222221,InsightBooks Essential Business,Books,InsightBooks
+P00614,488,1220000.0,97875.0,1122125.0,8.032786885245901,LearnPress Classic Academic,Books,LearnPress
+P00615,460,1416800.0,117502.0,1299298.0,8.4,RunX Ultra Running,Sports & Fitness,RunX
+P00616,445,2011400.0,168822.0,1842578.0,8.653846153846153,PureSkin Advanced Skincare,Beauty & Personal Care,PureSkin
+P00617,535,6676800.0,510432.0,6166368.0,7.788732394366197,ActivePro Ultra Yoga,Sports & Fitness,ActivePro
+P00618,489,200490.0,17281.5,183208.5,8.649068322981366,FitCore Premium Gym Equipment,Sports & Fitness,FitCore
+P00619,478,13407900.0,1063095.0,12344805.0,7.82258064516129,PixelPro Essential Headphones,Electronics,PixelPro
+P00620,447,2391450.0,196612.5,2194837.5,8.72822299651568,StyleCraft Smart Shirts,Fashion,StyleCraft
+P00621,389,774110.0,59302.0,714808.0,7.3938223938223935,KnowledgeHouse Everyday Self Help,Books,KnowledgeHouse
+P00622,492,37588800.0,2842080.0,34746720.0,7.863924050632911,NovaTech Smart Headphones,Electronics,NovaTech
+P00623,480,609600.0,53784.5,555815.5,8.47972972972973,PageTurner Classic Academic,Books,PageTurner
+P00624,478,2652900.0,203685.0,2449215.0,7.611464968152866,AuraBeauty Modern Fragrances,Beauty & Personal Care,AuraBeauty
+P00625,479,2768620.0,231489.0,2537131.0,7.971698113207547,RunX Pro Yoga,Sports & Fitness,RunX
+P00626,475,745750.0,61073.0,684677.0,7.868852459016393,InsightBooks Ultra Academic,Books,InsightBooks
+P00627,431,1142150.0,98845.0,1043305.0,8.60344827586207,PureSkin Essential Fragrances,Beauty & Personal Care,PureSkin
+P00628,475,8502500.0,689150.0,7813350.0,7.893890675241158,RunX Advanced Running,Sports & Fitness,RunX
+P00629,483,32254740.0,2788065.0,29466675.0,8.36923076923077,NovaTech Premium Cameras,Electronics,NovaTech
+P00630,447,2087490.0,178627.5,1908862.5,8.079470198675496,DermaCare Premium Personal Care,Beauty & Personal Care,DermaCare
+P00631,491,972180.0,69795.0,902385.0,7.315112540192926,AuraBeauty Pro Haircare,Beauty & Personal Care,AuraBeauty
+P00632,448,7580160.0,626040.0,6954120.0,8.116438356164384,UrbanHome Everyday Furniture,Home & Kitchen,UrbanHome
+P00633,488,1073600.0,85250.0,988350.0,8.025078369905955,LearnPress Advanced Non-Fiction,Books,LearnPress
+P00634,397,623290.0,49141.0,574149.0,7.843866171003717,SportEdge Essential Gym Equipment,Sports & Fitness,SportEdge
+P00635,396,8755560.0,694254.0,8061306.0,7.811320754716981,KitchenPro Premium Kitchen Appliances,Home & Kitchen,KitchenPro
+P00636,456,218880.0,17232.0,201648.0,7.716666666666667,PureSkin Premium Fragrances,Beauty & Personal Care,PureSkin
+P00637,419,7579710.0,668425.5,6911284.5,8.617021276595745,RunX Modern Yoga,Sports & Fitness,RunX
+P00638,459,3873960.0,296666.0,3577294.0,7.7,HomeNest Everyday Home Decor,Home & Kitchen,HomeNest
+P00639,446,1828600.0,156620.0,1671980.0,8.728813559322035,AuraBeauty Elite Makeup,Beauty & Personal Care,AuraBeauty
+P00640,418,388740.0,31387.5,357352.5,7.772108843537415,StyleCraft Smart Trousers,Fashion,StyleCraft
+P00641,398,2459640.0,211356.0,2248284.0,8.461538461538462,StreetLine Modern Shirts,Fashion,StreetLine
+P00642,436,9731520.0,902844.0,8828676.0,9.123376623376624,HomeNest Elite Lighting,Home & Kitchen,HomeNest
+P00643,437,122360.0,10304.0,112056.0,8.508474576271187,KnowledgeHouse Smart Business,Books,KnowledgeHouse
+P00644,440,308000.0,21910.0,286090.0,7.189655172413793,KnowledgeHouse Modern Self Help,Books,KnowledgeHouse
+P00645,482,414520.0,36464.0,378056.0,8.375796178343949,FlexFit Modern Outdoor Sports,Sports & Fitness,FlexFit
+P00646,419,8409330.0,755635.5,7653694.5,9.301470588235293,KitchenPro Elite Cookware,Home & Kitchen,KitchenPro
+P00647,455,668850.0,47922.0,620928.0,7.34006734006734,ModeWear Modern Jackets,Fashion,ModeWear
+P00648,453,5200440.0,450016.0,4750424.0,8.617363344051446,RunX Advanced Sportswear,Sports & Fitness,RunX
+P00649,457,543830.0,45696.0,498134.0,8.403225806451612,ModeWear Advanced Trousers,Fashion,ModeWear
+P00650,437,1485800.0,108460.0,1377340.0,7.166064981949458,ActivePro Modern Outdoor Sports,Sports & Fitness,ActivePro
+P00651,394,6185800.0,520455.0,5665345.0,8.736263736263735,Auralink Everyday Accessories,Electronics,Auralink
+P00652,439,7621040.0,607600.0,7013440.0,7.774086378737541,FitCore Pro Sportswear,Sports & Fitness,FitCore
+P00653,417,5312580.0,412139.0,4900441.0,7.826855123674911,ActivePro Elite Outdoor Sports,Sports & Fitness,ActivePro
+P00654,477,310050.0,25350.0,284700.0,7.983050847457627,KnowledgeHouse Pro Self Help,Books,KnowledgeHouse
+P00655,453,24398580.0,1890486.0,22508094.0,7.632450331125828,Auralink Everyday Headphones,Electronics,Auralink
+P00656,448,30656640.0,2586654.0,28069986.0,8.112903225806452,Auralink Classic Tablets,Electronics,Auralink
+P00657,489,2577030.0,188402.5,2388627.5,7.756410256410256,CasaLiving Classic Storage,Home & Kitchen,CasaLiving
+P00658,439,4073920.0,315520.0,3758400.0,7.748344370860927,FlexFit Essential Outdoor Sports,Sports & Fitness,FlexFit
+P00659,493,793730.0,60697.0,733033.0,7.628205128205129,BloomCare Elite Personal Care,Beauty & Personal Care,BloomCare
+P00660,427,10380370.0,878806.5,9501563.5,8.460144927536232,CasaLiving Pro Home Decor,Home & Kitchen,CasaLiving
+P00661,464,236640.0,17850.0,218790.0,7.590759075907591,InsightBooks Advanced Non-Fiction,Books,InsightBooks
+P00662,471,6123000.0,568750.0,5554250.0,9.006514657980455,FitCore Advanced Sportswear,Sports & Fitness,FitCore
+P00663,464,473280.0,34986.0,438294.0,7.508650519031142,TrendRoot Pro Trousers,Fashion,TrendRoot
+P00664,439,7603480.0,661624.0,6941856.0,8.67003367003367,SportEdge Pro Running,Sports & Fitness,SportEdge
+P00665,456,177840.0,15600.0,162240.0,8.820754716981131,ModeWear Elite Footwear,Fashion,ModeWear
+P00666,488,9706320.0,788638.5,8917681.5,8.507246376811594,ActivePro Premium Yoga,Sports & Fitness,ActivePro
+P00667,462,1044120.0,88253.0,955867.0,8.451178451178452,UrbanThread Essential Footwear,Fashion,UrbanThread
+P00668,456,6146880.0,498086.0,5648794.0,8.322259136212624,CasaLiving Pro Storage,Home & Kitchen,CasaLiving
+P00669,455,573300.0,47754.0,525546.0,8.778135048231512,KnowledgeHouse Everyday Fiction,Books,KnowledgeHouse
+P00670,457,9171990.0,803803.5,8368186.5,9.017241379310345,CasaLiving Smart Kitchen Appliances,Home & Kitchen,CasaLiving
+P00671,526,7148340.0,551074.5,6597265.5,7.859195402298851,RunX Advanced Running,Sports & Fitness,RunX
+P00672,448,3870720.0,312336.0,3558384.0,7.9491525423728815,HomeNest Everyday Kitchen Appliances,Home & Kitchen,HomeNest
+P00673,476,8877400.0,718957.5,8158442.5,8.26923076923077,UrbanHome Pro Lighting,Home & Kitchen,UrbanHome
+P00674,502,2058200.0,170355.0,1887845.0,8.25077399380805,BloomCare Premium Fragrances,Beauty & Personal Care,BloomCare
+P00675,460,3151000.0,252422.5,2898577.5,7.904761904761905,ClassicFit Smart Footwear,Fashion,ClassicFit
+P00676,438,4231080.0,335202.0,3895878.0,7.951388888888889,RunX Smart Running,Sports & Fitness,RunX
+P00677,464,7340480.0,637546.0,6702934.0,8.54368932038835,ComfortCraft Advanced Cookware,Home & Kitchen,ComfortCraft
+P00678,470,11444500.0,883905.0,10560595.0,7.843450479233227,KitchenPro Elite Furniture,Home & Kitchen,KitchenPro
+P00679,447,3745860.0,318859.0,3427001.0,8.311475409836065,KitchenPro Smart Furniture,Home & Kitchen,KitchenPro
+P00680,441,515970.0,43758.0,472212.0,8.419243986254296,NovaTech Elite Smartphones,Electronics,NovaTech
+P00681,397,1659460.0,144628.0,1514832.0,8.452830188679245,BloomCare Essential Makeup,Beauty & Personal Care,BloomCare
+P00682,488,4577440.0,363944.0,4213496.0,8.183279742765274,KitchenPro Everyday Storage,Home & Kitchen,KitchenPro
+P00683,453,32244540.0,2651455.0,29593085.0,8.03225806451613,TechSphere Elite Tablets,Electronics,TechSphere
+P00684,431,956820.0,73704.0,883116.0,7.618243243243243,InsightBooks Classic Non-Fiction,Books,InsightBooks
+P00685,500,255000.0,20884.5,234115.5,8.157099697885196,InsightBooks Modern Non-Fiction,Books,InsightBooks
+P00686,506,1270060.0,104039.5,1166020.5,8.19277108433735,StreetLine Smart Dresses,Fashion,StreetLine
+P00687,442,1648660.0,134280.0,1514380.0,8.356401384083044,ModeWear Smart Trousers,Fashion,ModeWear
+P00688,417,2014110.0,161805.0,1852305.0,7.870036101083032,PureSkin Advanced Makeup,Beauty & Personal Care,PureSkin
+P00689,413,30186170.0,2426588.0,27759582.0,8.279569892473118,Voltix Smart Cameras,Electronics,Voltix
+P00690,473,387860.0,29889.0,357971.0,8.069306930693068,InsightBooks Premium Non-Fiction,Books,InsightBooks
+P00691,442,923780.0,71373.5,852406.5,7.6909090909090905,LearnPress Essential Self Help,Books,LearnPress
+P00692,411,3357870.0,277371.5,3080498.5,8.476702508960573,NovaTech Advanced Smartwatches,Electronics,NovaTech
+P00693,458,531280.0,39962.0,491318.0,7.713815789473684,InsightBooks Essential Fiction,Books,InsightBooks
+P00694,441,1838970.0,133023.0,1705947.0,7.320819112627986,HomeNest Pro Kitchen Appliances,Home & Kitchen,HomeNest
+P00695,454,785420.0,65567.0,719853.0,8.023255813953488,TrendRoot Everyday Dresses,Fashion,TrendRoot
+P00696,441,185220.0,16191.0,169029.0,8.917525773195877,InsightBooks Elite Self Help,Books,InsightBooks
+P00697,472,1774720.0,147580.0,1627140.0,8.62012987012987,StyleCraft Essential Jackets,Fashion,StyleCraft
+P00698,480,14500800.0,1235589.0,13265211.0,8.681672025723472,PixelPro Essential Smartphones,Electronics,PixelPro
+P00699,445,6577100.0,502520.0,6074580.0,7.636986301369863,UrbanHome Ultra Home Decor,Home & Kitchen,UrbanHome
+P00700,457,2618610.0,221751.0,2396859.0,7.919354838709677,SportEdge Pro Sportswear,Sports & Fitness,SportEdge
+P00701,467,943340.0,73932.0,869408.0,8.003246753246753,StreetLine Classic Footwear,Fashion,StreetLine
+P00702,521,1771400.0,154870.0,1616530.0,8.75,GlowPure Premium Personal Care,Beauty & Personal Care,GlowPure
+P00703,491,5101490.0,416639.0,4684851.0,8.288690476190476,FitCore Pro Gym Equipment,Sports & Fitness,FitCore
+P00704,455,364000.0,30960.0,333040.0,8.22884012539185,PageTurner Everyday Non-Fiction,Books,PageTurner
+P00705,476,4345880.0,310876.5,4035003.5,7.300319488817891,UrbanHome Everyday Storage,Home & Kitchen,UrbanHome
+P00706,432,851040.0,74564.5,776475.5,8.882978723404255,PageTurner Modern Self Help,Books,PageTurner
+P00707,480,1435200.0,116311.0,1318889.0,8.146258503401361,BloomCare Ultra Personal Care,Beauty & Personal Care,BloomCare
+P00708,482,1098960.0,85500.0,1013460.0,7.996688741721854,AuraBeauty Pro Makeup,Beauty & Personal Care,AuraBeauty
+P00709,466,2180880.0,165906.0,2014974.0,7.920792079207921,StreetLine Elite Jeans,Fashion,StreetLine
+P00710,465,1185750.0,98302.5,1087447.5,8.177257525083611,GlowPure Pro Makeup,Beauty & Personal Care,GlowPure
+P00711,490,7114800.0,529980.0,6584820.0,7.477611940298507,UrbanHome Everyday Furniture,Home & Kitchen,UrbanHome
+P00712,472,556960.0,47672.0,509288.0,8.426229508196721,InsightBooks Smart Business,Books,InsightBooks
+P00713,390,3533400.0,283125.0,3250275.0,8.078358208955224,RunX Everyday Yoga,Sports & Fitness,RunX
+P00714,405,2170800.0,202876.0,1967924.0,9.011406844106464,UrbanThread Elite Jeans,Fashion,UrbanThread
+P00715,446,316660.0,23607.5,293052.5,7.842105263157895,UrbanThread Advanced Jeans,Fashion,UrbanThread
+P00716,468,27031680.0,2090912.0,24940768.0,7.557755775577558,Voltix Advanced Headphones,Electronics,Voltix
+P00717,498,27579240.0,2270580.0,25308660.0,7.783171521035599,PixelPro Essential Smartwatches,Electronics,PixelPro
+P00718,465,1315950.0,100040.5,1215909.5,8.056478405315614,HomeNest Essential Storage,Home & Kitchen,HomeNest
+P00719,410,6396000.0,494520.0,5901480.0,7.562724014336918,HomeNest Everyday Storage,Home & Kitchen,HomeNest
+P00720,488,1610400.0,129195.0,1481205.0,7.8125,GlowPure Smart Skincare,Beauty & Personal Care,GlowPure
+P00721,425,29159250.0,2404780.5,26754469.5,8.10344827586207,TechSphere Classic Laptops,Electronics,TechSphere
+P00722,379,102330.0,9396.0,92934.0,9.2578125,ReadMore Advanced Technology,Books,ReadMore
+P00723,439,5272390.0,421551.0,4850839.0,7.884615384615385,CasaLiving Smart Storage,Home & Kitchen,CasaLiving
+P00724,513,21971790.0,1678936.0,20292854.0,8.038922155688622,ZenByte Pro Laptops,Electronics,ZenByte
+P00725,438,2540400.0,214600.0,2325800.0,8.448275862068966,PixelPro Premium Smartwatches,Electronics,PixelPro
+P00726,481,4040400.0,320460.0,3719940.0,8.058252427184467,RunX Classic Gym Equipment,Sports & Fitness,RunX
+P00727,471,5581350.0,506587.5,5074762.5,9.037854889589905,HomeNest Premium Lighting,Home & Kitchen,HomeNest
+P00728,427,17857140.0,1405152.0,16451988.0,8.10763888888889,TechSphere Smart Laptops,Electronics,TechSphere
+P00729,457,10410460.0,792744.0,9617716.0,8.127090301003344,KitchenPro Premium Storage,Home & Kitchen,KitchenPro
+P00730,488,35902160.0,2854516.0,33047644.0,7.987012987012987,ZenByte Elite Smartwatches,Electronics,ZenByte
+P00731,417,4528620.0,357294.0,4171326.0,7.886029411764706,FlexFit Essential Gym Equipment,Sports & Fitness,FlexFit
+P00732,460,8119000.0,731592.5,7387407.5,8.881578947368421,ActivePro Classic Sportswear,Sports & Fitness,ActivePro
+P00733,456,7674480.0,653845.5,7020634.5,8.422818791946309,SportEdge Premium Yoga,Sports & Fitness,SportEdge
+P00734,452,4863520.0,398658.0,4464862.0,8.464285714285714,FlexFit Smart Yoga,Sports & Fitness,FlexFit
+P00735,443,2068810.0,164384.0,1904426.0,8.242320819112628,BloomCare Elite Haircare,Beauty & Personal Care,BloomCare
+P00736,478,1070720.0,83104.0,987616.0,7.9801324503311255,KnowledgeHouse Classic Technology,Books,KnowledgeHouse
+P00737,471,555780.0,43837.0,511943.0,8.102893890675242,UrbanThread Smart Shirts,Fashion,UrbanThread
+P00738,443,509450.0,40595.0,468855.0,7.881944444444445,InsightBooks Everyday Business,Books,InsightBooks
+P00739,450,4851000.0,403172.0,4447828.0,8.349358974358974,PixelPro Elite Smartphones,Electronics,PixelPro
+P00740,479,4291840.0,341824.0,3950016.0,7.955974842767295,RunX Premium Outdoor Sports,Sports & Fitness,RunX
+P00741,444,1500720.0,133848.0,1366872.0,8.926174496644295,KitchenPro Everyday Cookware,Home & Kitchen,KitchenPro
+P00742,434,2156980.0,190599.5,1966380.5,9.090909090909092,TrendRoot Smart Shirts,Fashion,TrendRoot
+P00743,456,5462880.0,426488.0,5036392.0,7.887788778877888,FitCore Modern Outdoor Sports,Sports & Fitness,FitCore
+P00744,440,23289200.0,1828731.5,21460468.5,8.08362369337979,PixelPro Everyday Laptops,Electronics,PixelPro
+P00745,484,8847520.0,773244.0,8074276.0,8.582317073170731,RunX Essential Outdoor Sports,Sports & Fitness,RunX
+P00746,452,958240.0,78334.0,879906.0,8.220338983050848,AuraBeauty Modern Fragrances,Beauty & Personal Care,AuraBeauty
+P00747,466,6948060.0,574780.5,6373279.5,8.212025316455696,RunX Elite Yoga,Sports & Fitness,RunX
+P00748,380,1759400.0,144224.5,1615175.5,8.308270676691729,HomeNest Everyday Home Decor,Home & Kitchen,HomeNest
+P00749,440,2912800.0,249574.0,2663226.0,8.789473684210526,StreetLine Premium Shirts,Fashion,StreetLine
+P00750,478,9072440.0,755404.0,8317036.0,8.637820512820513,FlexFit Modern Sportswear,Sports & Fitness,FlexFit
+P00751,498,3779820.0,325231.5,3454588.5,8.560371517027864,StreetLine Essential Shirts,Fashion,StreetLine
+P00752,454,8557900.0,764367.5,7793532.5,8.516666666666667,ComfortCraft Pro Cookware,Home & Kitchen,ComfortCraft
+P00753,430,9804000.0,836760.0,8967240.0,8.800675675675675,KitchenPro Elite Storage,Home & Kitchen,KitchenPro
+P00754,442,5635500.0,411825.0,5223675.0,7.649122807017544,FitCore Modern Yoga,Sports & Fitness,FitCore
+P00755,470,1950500.0,165377.5,1785122.5,8.020477815699659,UrbanHome Pro Kitchen Appliances,Home & Kitchen,UrbanHome
+P00756,428,4382720.0,362496.0,4020224.0,7.996515679442509,SportEdge Premium Running,Sports & Fitness,SportEdge
+P00757,460,713000.0,52855.0,660145.0,7.342192691029901,TrendRoot Smart Jeans,Fashion,TrendRoot
+P00758,451,401390.0,33197.0,368193.0,8.2475884244373,BloomCare Everyday Personal Care,Beauty & Personal Care,BloomCare
+P00759,435,1827000.0,151830.0,1675170.0,7.671232876712328,StreetLine Classic Shirts,Fashion,StreetLine
+P00760,424,6122560.0,503234.0,5619326.0,8.790035587188612,UrbanHome Everyday Cookware,Home & Kitchen,UrbanHome
+P00761,488,1654320.0,136278.0,1518042.0,8.323262839879154,DermaCare Elite Personal Care,Beauty & Personal Care,DermaCare
+P00762,409,159510.0,12714.0,146796.0,8.052631578947368,PageTurner Smart Self Help,Books,PageTurner
+P00763,458,6471540.0,517158.0,5954382.0,7.962328767123288,FitCore Pro Running,Sports & Fitness,FitCore
+P00764,474,5550540.0,415119.5,5135420.5,7.81150159744409,RunX Advanced Running,Sports & Fitness,RunX
+P00765,460,892400.0,70422.0,821978.0,8.085808580858085,UrbanThread Smart Trousers,Fashion,UrbanThread
+P00766,468,15050880.0,1302480.0,13748400.0,8.634920634920634,ZenByte Premium Smartphones,Electronics,ZenByte
+P00767,461,4702200.0,375360.0,4326840.0,8.006430868167202,CasaLiving Classic Cookware,Home & Kitchen,CasaLiving
+P00768,493,1153620.0,96408.0,1057212.0,8.355048859934854,PageTurner Smart Self Help,Books,PageTurner
+P00769,395,7643250.0,627907.5,7015342.5,8.484848484848484,FitCore Pro Gym Equipment,Sports & Fitness,FitCore
+P00770,465,3143400.0,253838.0,2889562.0,8.273026315789474,StreetLine Smart T-Shirts,Fashion,StreetLine
+P00771,410,496100.0,40535.0,455565.0,8.041958041958042,KnowledgeHouse Pro Fiction,Books,KnowledgeHouse
+P00772,418,12790800.0,1018980.0,11771820.0,8.143382352941176,Voltix Pro Smartphones,Electronics,Voltix
+P00773,421,29457370.0,2263529.5,27193840.5,7.979094076655052,TechSphere Modern Headphones,Electronics,TechSphere
+P00774,497,1083460.0,88944.0,994516.0,8.152173913043478,GlowPure Premium Personal Care,Beauty & Personal Care,GlowPure
+P00775,418,2407680.0,196992.0,2210688.0,8.102836879432624,GlowPure Essential Haircare,Beauty & Personal Care,GlowPure
+P00776,465,6017100.0,513071.0,5504029.0,8.42443729903537,FitCore Ultra Yoga,Sports & Fitness,FitCore
+P00777,465,5324250.0,471740.0,4852510.0,8.488372093023257,ActivePro Advanced Yoga,Sports & Fitness,ActivePro
+P00778,466,479980.0,35226.0,444754.0,7.321428571428571,LearnPress Modern Business,Books,LearnPress
+P00779,465,8356050.0,729582.0,7626468.0,8.555194805194805,CasaLiving Elite Home Decor,Home & Kitchen,CasaLiving
+P00780,450,7834500.0,641558.5,7192941.5,8.08362369337979,ActivePro Ultra Gym Equipment,Sports & Fitness,ActivePro
+P00781,419,1215100.0,100775.0,1114325.0,8.2,TrendRoot Advanced Footwear,Fashion,TrendRoot
+P00782,465,1934400.0,171184.0,1763216.0,8.91891891891892,Voltix Advanced Laptops,Electronics,Voltix
+P00783,470,653300.0,50804.5,602495.5,8.173374613003096,PureSkin Ultra Makeup,Beauty & Personal Care,PureSkin
+P00784,418,14747040.0,1100736.0,13646304.0,7.654545454545454,Auralink Modern Accessories,Electronics,Auralink
+P00785,471,1526040.0,134298.0,1391742.0,8.594249201277956,ClassicFit Premium Shirts,Fashion,ClassicFit
+P00786,436,2738080.0,230476.0,2507604.0,8.193979933110368,SportEdge Essential Sportswear,Sports & Fitness,SportEdge
+P00787,488,1781200.0,136145.0,1645055.0,7.621212121212121,StyleCraft Premium Shirts,Fashion,StyleCraft
+P00788,487,336030.0,28393.5,307636.5,8.551401869158878,DermaCare Smart Haircare,Beauty & Personal Care,DermaCare
+P00789,464,3869760.0,342774.0,3526986.0,8.682539682539682,RunX Elite Outdoor Sports,Sports & Fitness,RunX
+P00790,454,1107760.0,89670.0,1018090.0,8.440677966101696,ReadMore Pro Business,Books,ReadMore
+P00791,462,900900.0,73515.0,827385.0,8.245901639344263,LearnPress Classic Fiction,Books,LearnPress
+P00792,504,3185280.0,263228.0,2922052.0,8.138138138138139,TrendRoot Pro Dresses,Fashion,TrendRoot
+P00793,462,877800.0,70015.0,807785.0,8.418530351437699,PageTurner Ultra Fiction,Books,PageTurner
+P00794,437,4304450.0,332930.0,3971520.0,7.928571428571429,KitchenPro Pro Storage,Home & Kitchen,KitchenPro
+P00795,466,484640.0,39832.0,444808.0,8.013245033112582,ClassicFit Elite Trousers,Fashion,ClassicFit
+P00796,473,6527400.0,580980.0,5946420.0,8.710191082802547,ActivePro Pro Sportswear,Sports & Fitness,ActivePro
+P00797,495,4177800.0,371360.0,3806440.0,8.558282208588958,SportEdge Classic Gym Equipment,Sports & Fitness,SportEdge
+P00798,430,451500.0,38587.5,412912.5,8.372093023255815,ClassicFit Classic Footwear,Fashion,ClassicFit
+P00799,430,28964800.0,2478848.0,26485952.0,8.310104529616725,ZenByte Pro Tablets,Electronics,ZenByte
+P00800,447,2136660.0,181640.0,1955020.0,8.629893238434164,DermaCare Essential Skincare,Beauty & Personal Care,DermaCare
+P00801,447,1671780.0,136884.0,1534896.0,8.0,ClassicFit Premium Shirts,Fashion,ClassicFit
+P00802,405,498150.0,38868.0,459282.0,7.803571428571429,DermaCare Classic Makeup,Beauty & Personal Care,DermaCare
+P00803,467,7724180.0,547474.0,7176706.0,7.077702702702703,UrbanHome Elite Cookware,Home & Kitchen,UrbanHome
+P00804,477,2647350.0,229770.0,2417580.0,8.535031847133759,DermaCare Modern Haircare,Beauty & Personal Care,DermaCare
+P00805,426,7744680.0,639936.0,7104744.0,8.362369337979095,FitCore Smart Sportswear,Sports & Fitness,FitCore
+P00806,433,324750.0,25500.0,299250.0,8.282312925170068,StyleCraft Advanced T-Shirts,Fashion,StyleCraft
+P00807,455,17936100.0,1574829.0,16361271.0,8.537414965986395,Auralink Modern Cameras,Electronics,Auralink
+P00808,388,2002080.0,160476.0,1841604.0,8.134328358208956,DermaCare Ultra Haircare,Beauty & Personal Care,DermaCare
+P00809,442,5326100.0,460310.0,4865790.0,8.501683501683502,SportEdge Modern Gym Equipment,Sports & Fitness,SportEdge
+P00810,452,6418400.0,516170.0,5902230.0,8.016666666666667,UrbanHome Classic Kitchen Appliances,Home & Kitchen,UrbanHome
+P00811,433,1299000.0,109200.0,1189800.0,8.172757475083056,ClassicFit Ultra T-Shirts,Fashion,ClassicFit
+P00812,472,2350560.0,178782.0,2171778.0,7.703125,UrbanThread Classic Dresses,Fashion,UrbanThread
+P00813,437,16579780.0,1252020.0,15327760.0,7.567114093959732,ZenByte Modern Smartwatches,Electronics,ZenByte
+P00814,465,2092500.0,179100.0,1913400.0,8.536977491961414,FlexFit Essential Sportswear,Sports & Fitness,FlexFit
+P00815,432,453600.0,36592.5,417007.5,8.10344827586207,InsightBooks Advanced Business,Books,InsightBooks
+P00816,469,12888120.0,1104696.0,11783424.0,8.676470588235293,ZenByte Classic Smartwatches,Electronics,ZenByte
+P00817,497,283290.0,22401.0,260889.0,8.048780487804878,ComfortCraft Smart Kitchen Appliances,Home & Kitchen,ComfortCraft
+P00818,457,33082230.0,2924556.0,30157674.0,8.846153846153847,Voltix Everyday Headphones,Electronics,Voltix
+P00819,447,9109860.0,734699.0,8375161.0,7.698412698412699,UrbanHome Modern Kitchen Appliances,Home & Kitchen,UrbanHome
+P00820,473,643280.0,48892.0,594388.0,7.564102564102564,UrbanHome Elite Kitchen Appliances,Home & Kitchen,UrbanHome
+P00821,452,1600080.0,127617.0,1472463.0,7.768166089965398,AuraBeauty Elite Personal Care,Beauty & Personal Care,AuraBeauty
+P00822,422,7494720.0,643800.0,6850920.0,8.697916666666666,CasaLiving Everyday Home Decor,Home & Kitchen,CasaLiving
+P00823,438,534360.0,44103.0,490257.0,8.355704697986576,KitchenPro Ultra Cookware,Home & Kitchen,KitchenPro
+P00824,410,754400.0,64584.0,689816.0,8.547169811320755,TrendRoot Pro Dresses,Fashion,TrendRoot
+P00825,482,4386200.0,380380.0,4005820.0,8.328173374613003,CasaLiving Premium Lighting,Home & Kitchen,CasaLiving
+P00826,448,7799680.0,631983.0,7167697.0,8.120689655172415,CasaLiving Smart Storage,Home & Kitchen,CasaLiving
+P00827,515,30112050.0,2382652.5,27729397.5,7.852852852852853,PixelPro Classic Accessories,Electronics,PixelPro
+P00828,447,7192230.0,641991.0,6550239.0,8.720930232558139,ActivePro Essential Gym Equipment,Sports & Fitness,ActivePro
+P00829,456,10200720.0,886970.5,9313749.5,8.5,HomeNest Everyday Furniture,Home & Kitchen,HomeNest
+P00830,522,93960.0,8235.0,85725.0,8.72754491017964,BloomCare Classic Fragrances,Beauty & Personal Care,BloomCare
+P00831,441,776160.0,62216.0,713944.0,7.8671328671328675,RunX Elite Running,Sports & Fitness,RunX
+P00832,444,9381720.0,875838.5,8505881.5,8.978494623655914,ComfortCraft Ultra Cookware,Home & Kitchen,ComfortCraft
+P00833,438,6416700.0,514215.0,5902485.0,7.849829351535837,ComfortCraft Essential Kitchen Appliances,Home & Kitchen,ComfortCraft
+P00834,471,8732340.0,736965.0,7995375.0,8.302180685358255,HomeNest Modern Cookware,Home & Kitchen,HomeNest
+P00835,453,4317090.0,397401.0,3919689.0,8.938906752411576,RunX Advanced Yoga,Sports & Fitness,RunX
+P00836,468,893880.0,69906.0,823974.0,7.919463087248322,FlexFit Elite Yoga,Sports & Fitness,FlexFit
+P00837,489,5667510.0,477508.0,5190002.0,8.236196319018404,TechSphere Premium Smartphones,Electronics,TechSphere
+P00838,434,4552660.0,358233.5,4194426.5,7.795138888888889,FlexFit Essential Outdoor Sports,Sports & Fitness,FlexFit
+P00839,460,1113200.0,88572.0,1024628.0,7.9769736842105265,KnowledgeHouse Elite Self Help,Books,KnowledgeHouse
+P00840,482,660340.0,51032.5,609307.5,7.766990291262136,KnowledgeHouse Elite Business,Books,KnowledgeHouse
+P00841,454,2360800.0,171340.0,2189460.0,7.288961038961039,DermaCare Advanced Haircare,Beauty & Personal Care,DermaCare
+P00842,457,895720.0,71246.0,824474.0,8.265993265993266,ReadMore Essential Academic,Books,ReadMore
+P00843,436,4120200.0,352957.5,3767242.5,8.642611683848797,UrbanHome Advanced Storage,Home & Kitchen,UrbanHome
+P00844,450,4918500.0,399491.5,4519008.5,8.016666666666667,SportEdge Classic Running,Sports & Fitness,SportEdge
+P00845,479,6610200.0,580980.0,6029220.0,8.457792207792208,SportEdge Modern Outdoor Sports,Sports & Fitness,SportEdge
+P00846,390,725400.0,59241.0,666159.0,8.191881918819188,GlowPure Essential Fragrances,Beauty & Personal Care,GlowPure
+P00847,495,2890800.0,263676.0,2627124.0,8.857142857142858,AuraBeauty Everyday Personal Care,Beauty & Personal Care,AuraBeauty
+P00848,441,251370.0,18696.0,232674.0,8.080985915492958,LearnPress Elite Academic,Books,LearnPress
+P00849,400,16268000.0,1309574.0,14958426.0,7.967625899280575,TechSphere Advanced Accessories,Electronics,TechSphere
+P00850,455,964600.0,75472.0,889128.0,7.946127946127946,InsightBooks Essential Self Help,Books,InsightBooks
+P00851,420,2730000.0,211575.0,2518425.0,8.152985074626866,ClassicFit Premium Dresses,Fashion,ClassicFit
+P00852,424,6296400.0,599940.0,5696460.0,9.163701067615659,ComfortCraft Modern Storage,Home & Kitchen,ComfortCraft
+P00853,481,11409320.0,912034.0,10497286.0,7.748447204968944,CasaLiving Pro Home Decor,Home & Kitchen,CasaLiving
+P00854,466,6286340.0,454613.0,5831727.0,7.582781456953643,FlexFit Everyday Running,Sports & Fitness,FlexFit
+P00855,487,11322750.0,1027650.0,10295100.0,8.915094339622641,HomeNest Premium Home Decor,Home & Kitchen,HomeNest
+P00856,432,10026720.0,857609.5,9169110.5,8.41296928327645,KitchenPro Pro Cookware,Home & Kitchen,KitchenPro
+P00857,405,1871100.0,149457.0,1721643.0,8.076923076923077,PureSkin Pro Fragrances,Beauty & Personal Care,PureSkin
+P00858,451,3238180.0,257403.0,2980777.0,7.808219178082192,ModeWear Essential Dresses,Fashion,ModeWear
+P00859,453,176670.0,12772.5,163897.5,7.140522875816994,PageTurner Premium Non-Fiction,Books,PageTurner
+P00860,469,595630.0,47307.5,548322.5,7.81150159744409,DermaCare Classic Fragrances,Beauty & Personal Care,DermaCare
+P00861,503,422520.0,35322.0,387198.0,8.03206997084548,InsightBooks Modern Self Help,Books,InsightBooks
+P00862,400,668000.0,61456.0,606544.0,9.112627986348123,AuraBeauty Smart Fragrances,Beauty & Personal Care,AuraBeauty
+P00863,448,797440.0,58295.0,739145.0,7.599337748344371,LearnPress Ultra Non-Fiction,Books,LearnPress
+P00864,450,6808500.0,476595.0,6331905.0,7.207792207792208,TechSphere Essential Tablets,Electronics,TechSphere
+P00865,482,3537880.0,268277.0,3269603.0,7.549668874172186,ClassicFit Everyday Footwear,Fashion,ClassicFit
+P00866,471,1483650.0,116077.5,1367572.5,7.728706624605678,FlexFit Modern Running,Sports & Fitness,FlexFit
+P00867,458,632040.0,52509.0,579531.0,8.355481727574752,LearnPress Modern Fiction,Books,LearnPress
+P00868,446,27562800.0,2030130.0,25532670.0,7.424242424242424,TechSphere Everyday Smartwatches,Electronics,TechSphere
+P00869,491,11283180.0,961713.0,10321467.0,8.181818181818182,KitchenPro Premium Kitchen Appliances,Home & Kitchen,KitchenPro
+P00870,453,8693070.0,714827.5,7978242.5,7.877813504823151,FitCore Elite Yoga,Sports & Fitness,FitCore
+P00871,396,3801600.0,317280.0,3484320.0,8.181818181818182,ComfortCraft Premium Lighting,Home & Kitchen,ComfortCraft
+P00872,417,3923970.0,319940.0,3604030.0,8.358490566037736,KitchenPro Modern Kitchen Appliances,Home & Kitchen,KitchenPro
+P00873,433,8707630.0,650558.5,8057071.5,7.813559322033898,PixelPro Modern Tablets,Electronics,PixelPro
+P00874,437,2674440.0,227970.0,2446470.0,8.515358361774744,KitchenPro Elite Lighting,Home & Kitchen,KitchenPro
+P00875,413,26968900.0,2128780.0,24840120.0,7.957746478873239,Auralink Advanced Laptops,Electronics,Auralink
+P00876,451,915530.0,71659.0,843871.0,7.664359861591696,ModeWear Advanced Footwear,Fashion,ModeWear
+P00877,508,401320.0,31995.0,369325.0,7.975460122699387,KnowledgeHouse Premium Technology,Books,KnowledgeHouse
+P00878,464,788800.0,65365.0,723435.0,8.3003300330033,PageTurner Pro Self Help,Books,PageTurner
+P00879,468,1535040.0,125788.0,1409252.0,8.277027027027026,AuraBeauty Elite Skincare,Beauty & Personal Care,AuraBeauty
+P00880,413,23499700.0,1937445.0,21562255.0,7.879858657243816,Auralink Essential Smartphones,Electronics,Auralink
+P00881,464,3976480.0,338515.0,3637965.0,8.457792207792208,CasaLiving Classic Kitchen Appliances,Home & Kitchen,CasaLiving
+P00882,463,416700.0,32715.0,383985.0,8.02675585284281,PageTurner Modern Academic,Books,PageTurner
+P00883,433,2515730.0,248668.0,2267062.0,9.436860068259385,TrendRoot Premium Jeans,Fashion,TrendRoot
+P00884,457,21191090.0,1780608.0,19410482.0,8.359872611464969,NovaTech Elite Tablets,Electronics,NovaTech
+P00885,431,3344560.0,272764.0,3071796.0,8.216783216783217,Auralink Classic Smartphones,Electronics,Auralink
+P00886,440,2684000.0,230275.0,2453725.0,8.39655172413793,ClassicFit Classic Dresses,Fashion,ClassicFit
+P00887,464,3192320.0,256968.0,2935352.0,8.295454545454545,ClassicFit Modern Trousers,Fashion,ClassicFit
+P00888,521,2974910.0,238678.0,2736232.0,8.049853372434018,StreetLine Elite Jeans,Fashion,StreetLine
+P00889,426,2347260.0,187340.0,2159920.0,7.967625899280575,CasaLiving Ultra Storage,Home & Kitchen,CasaLiving
+P00890,435,983100.0,74693.0,908407.0,7.56993006993007,AuraBeauty Premium Fragrances,Beauty & Personal Care,AuraBeauty
+P00891,427,22101520.0,1656320.0,20445200.0,7.535714285714286,PixelPro Modern Smartwatches,Electronics,PixelPro
+P00892,471,1756830.0,134653.0,1622177.0,7.621359223300971,ActivePro Modern Outdoor Sports,Sports & Fitness,ActivePro
+P00893,455,15083250.0,1226550.0,13856700.0,8.193979933110368,NovaTech Modern Smartphones,Electronics,NovaTech
+P00894,424,3366560.0,270357.0,3096203.0,7.9553264604811,ClassicFit Premium Footwear,Fashion,ClassicFit
+P00895,454,54480.0,4512.0,49968.0,8.46551724137931,InsightBooks Modern Technology,Books,InsightBooks
+P00896,471,2152470.0,175488.0,1976982.0,8.233333333333333,PureSkin Classic Fragrances,Beauty & Personal Care,PureSkin
+P00897,426,1316340.0,119737.5,1196602.5,8.97887323943662,BloomCare Everyday Skincare,Beauty & Personal Care,BloomCare
+P00898,465,1064850.0,83127.0,981723.0,8.06853582554517,KnowledgeHouse Essential Academic,Books,KnowledgeHouse
+P00899,407,1908830.0,158522.0,1750308.0,8.207171314741036,DermaCare Advanced Makeup,Beauty & Personal Care,DermaCare
+P00900,471,9825060.0,790594.0,9034466.0,8.157051282051283,UrbanHome Classic Lighting,Home & Kitchen,UrbanHome
+P00901,467,116750.0,9425.0,107325.0,8.104575163398692,PageTurner Advanced Business,Books,PageTurner
+P00902,422,2865380.0,240366.0,2625014.0,8.519163763066203,ModeWear Classic Trousers,Fashion,ModeWear
+P00903,464,283040.0,23515.5,259524.5,8.504823151125402,GlowPure Essential Skincare,Beauty & Personal Care,GlowPure
+P00904,406,24514280.0,1995559.0,22518721.0,7.992831541218638,ZenByte Everyday Laptops,Electronics,ZenByte
+P00905,422,3325360.0,273436.0,3051924.0,8.19112627986348,TrendRoot Smart Footwear,Fashion,TrendRoot
+P00906,494,143260.0,11948.0,131312.0,8.074433656957929,InsightBooks Modern Fiction,Books,InsightBooks
+P00907,483,3390660.0,270621.0,3120039.0,8.092948717948717,UrbanThread Ultra Footwear,Fashion,UrbanThread
+P00908,459,7591860.0,665735.0,6926125.0,8.523489932885907,FitCore Classic Running,Sports & Fitness,FitCore
+P00909,491,1453360.0,120028.0,1333332.0,8.474842767295597,StreetLine Pro Trousers,Fashion,StreetLine
+P00910,453,2337480.0,208206.0,2129274.0,8.766447368421053,StyleCraft Premium Jeans,Fashion,StyleCraft
+P00911,479,2874000.0,265800.0,2608200.0,9.153846153846153,ModeWear Advanced Jackets,Fashion,ModeWear
+P00912,460,5786800.0,516409.0,5270391.0,8.701923076923077,ActivePro Classic Running,Sports & Fitness,ActivePro
+P00913,444,5319120.0,407919.0,4911201.0,7.883333333333334,NovaTech Advanced Smartphones,Electronics,NovaTech
+P00914,444,586080.0,42834.0,543246.0,7.3720136518771335,DermaCare Smart Fragrances,Beauty & Personal Care,DermaCare
+P00915,472,2444960.0,209790.0,2235170.0,8.53035143769968,TrendRoot Premium Shirts,Fashion,TrendRoot
+P00916,391,21579290.0,1870941.0,19708349.0,8.73134328358209,Voltix Essential Cameras,Electronics,Voltix
+P00917,405,7265700.0,570492.0,6695208.0,7.907801418439717,FlexFit Essential Running,Sports & Fitness,FlexFit
+P00918,467,415630.0,33152.5,382477.5,7.807308970099668,ReadMore Premium Non-Fiction,Books,ReadMore
+P00919,439,2475960.0,194016.0,2281944.0,8.24915824915825,DermaCare Advanced Fragrances,Beauty & Personal Care,DermaCare
+P00920,417,4649550.0,337845.0,4311705.0,7.615658362989324,UrbanHome Ultra Furniture,Home & Kitchen,UrbanHome
+P00921,396,28009080.0,2415429.5,25593650.5,8.5,ZenByte Premium Smartphones,Electronics,ZenByte
+P00922,488,7232160.0,592059.0,6640101.0,8.312693498452012,FitCore Smart Running,Sports & Fitness,FitCore
+P00923,475,261250.0,23155.0,238095.0,8.724137931034482,ReadMore Smart Academic,Books,ReadMore
+P00924,400,300000.0,24675.0,275325.0,8.257575757575758,PureSkin Smart Haircare,Beauty & Personal Care,PureSkin
+P00925,413,1602440.0,138128.0,1464312.0,8.531468531468532,DermaCare Modern Haircare,Beauty & Personal Care,DermaCare
+P00926,475,441750.0,37200.0,404550.0,8.493589743589743,ReadMore Ultra Non-Fiction,Books,ReadMore
+P00927,441,27042120.0,2167662.0,24874458.0,7.9298245614035086,PixelPro Classic Headphones,Electronics,PixelPro
+P00928,431,2917870.0,226118.0,2691752.0,7.815699658703072,TrendRoot Advanced Jeans,Fashion,TrendRoot
+P00929,478,482780.0,35956.0,446824.0,7.914012738853503,TrendRoot Smart Dresses,Fashion,TrendRoot
+P00930,448,1160320.0,88060.0,1072260.0,7.6440677966101696,ModeWear Elite Dresses,Fashion,ModeWear
+P00931,443,2237150.0,179022.5,2058127.5,7.945205479452055,StreetLine Pro Shirts,Fashion,StreetLine
+P00932,417,275220.0,21153.0,254067.0,7.872340425531915,UrbanThread Pro Dresses,Fashion,UrbanThread
+P00933,503,6624510.0,568944.0,6055566.0,8.692307692307692,SportEdge Everyday Running,Sports & Fitness,SportEdge
+P00934,395,4420050.0,314998.5,4105051.5,7.178030303030303,TechSphere Smart Smartwatches,Electronics,TechSphere
+P00935,410,1053700.0,87637.0,966063.0,8.482142857142858,DermaCare Essential Haircare,Beauty & Personal Care,DermaCare
+P00936,390,951600.0,81374.0,870226.0,8.62781954887218,PageTurner Elite Technology,Books,PageTurner
+P00937,452,1437360.0,115593.0,1321767.0,8.362369337979095,PureSkin Advanced Haircare,Beauty & Personal Care,PureSkin
+P00938,452,1026040.0,78655.5,947384.5,8.14236111111111,InsightBooks Essential Fiction,Books,InsightBooks
+P00939,469,445550.0,34675.0,410875.0,7.715654952076678,LearnPress Modern Self Help,Books,LearnPress
+P00940,411,9169410.0,764117.5,8405292.5,8.416370106761565,HomeNest Everyday Lighting,Home & Kitchen,HomeNest
+P00941,486,5919480.0,487200.0,5432280.0,8.09968847352025,ComfortCraft Premium Storage,Home & Kitchen,ComfortCraft
+P00942,446,8224240.0,684124.0,7540116.0,8.47972972972973,ZenByte Smart Tablets,Electronics,ZenByte
+P00943,474,483480.0,37179.0,446301.0,7.837837837837838,LearnPress Smart Business,Books,LearnPress
+P00944,465,167400.0,14760.0,152640.0,8.844884488448844,ReadMore Premium Business,Books,ReadMore
+P00945,477,8447670.0,710171.0,7737499.0,8.380503144654089,SportEdge Everyday Running,Sports & Fitness,SportEdge
+P00946,452,894960.0,78705.0,816255.0,8.806451612903226,KnowledgeHouse Smart Academic,Books,KnowledgeHouse
+P00947,462,4268880.0,343728.0,3925152.0,8.125,HomeNest Advanced Cookware,Home & Kitchen,HomeNest
+P00948,499,1347300.0,117855.0,1229445.0,8.856304985337243,ClassicFit Premium Dresses,Fashion,ClassicFit
+P00949,433,1706020.0,122534.0,1583486.0,7.252559726962457,StreetLine Pro Trousers,Fashion,StreetLine
+P00950,458,20298560.0,1664216.0,18634344.0,8.288590604026846,PixelPro Everyday Smartphones,Electronics,PixelPro
+P00951,440,7994800.0,715898.0,7278902.0,8.505338078291816,ComfortCraft Everyday Storage,Home & Kitchen,ComfortCraft
+P00952,479,7697530.0,660477.0,7037053.0,8.417721518987342,CasaLiving Smart Furniture,Home & Kitchen,CasaLiving
+P00953,460,27627600.0,2108106.0,25519494.0,7.850162866449511,Voltix Ultra Laptops,Electronics,Voltix
+P00954,454,372280.0,30217.0,342063.0,8.297872340425531,ReadMore Advanced Self Help,Books,ReadMore
+P00955,461,295040.0,22528.0,272512.0,7.5,StyleCraft Classic Shirts,Fashion,StyleCraft
+P00956,457,8513910.0,672543.0,7841367.0,7.626262626262626,KitchenPro Smart Kitchen Appliances,Home & Kitchen,KitchenPro
+P00957,490,8766100.0,709338.5,8056761.5,7.740384615384615,CasaLiving Elite Furniture,Home & Kitchen,CasaLiving
+P00958,426,25704840.0,1945965.0,23758875.0,7.569444444444445,TechSphere Advanced Smartwatches,Electronics,TechSphere
+P00959,413,541030.0,42247.5,498782.5,7.593984962406015,LearnPress Essential Self Help,Books,LearnPress
+P00960,525,5958750.0,453432.5,5505317.5,7.552870090634441,FlexFit Elite Gym Equipment,Sports & Fitness,FlexFit
+P00961,428,6685360.0,520927.0,6164433.0,7.939068100358423,ZenByte Everyday Laptops,Electronics,ZenByte
+P00962,433,1286010.0,102168.0,1183842.0,7.8061224489795915,StreetLine Classic Trousers,Fashion,StreetLine
+P00963,483,478170.0,36729.0,441441.0,7.806748466257669,RunX Smart Gym Equipment,Sports & Fitness,RunX
+P00964,472,424800.0,33705.0,391095.0,8.060897435897436,LearnPress Pro Fiction,Books,LearnPress
+P00965,435,8565150.0,694072.5,7871077.5,7.775862068965517,Voltix Pro Cameras,Electronics,Voltix
+P00966,438,5128980.0,414534.0,4714446.0,8.421052631578947,CasaLiving Essential Cookware,Home & Kitchen,CasaLiving
+P00967,458,25084660.0,1971720.0,23112940.0,8.0,ZenByte Elite Laptops,Electronics,ZenByte
+P00968,478,215100.0,16560.0,198540.0,8.029315960912053,InsightBooks Advanced Business,Books,InsightBooks
+P00969,471,5915760.0,486700.0,5429060.0,8.327759197324415,FitCore Modern Yoga,Sports & Fitness,FitCore
+P00970,437,6703580.0,526929.0,6176651.0,7.750865051903114,KitchenPro Everyday Storage,Home & Kitchen,KitchenPro
+P00971,469,2269960.0,172062.0,2097898.0,7.8955696202531644,ModeWear Ultra Shirts,Fashion,ModeWear
+P00972,451,6963440.0,640760.0,6322680.0,8.376623376623376,SportEdge Everyday Yoga,Sports & Fitness,SportEdge
+P00973,455,9837100.0,861557.0,8975543.0,8.513513513513514,UrbanHome Classic Kitchen Appliances,Home & Kitchen,UrbanHome
+P00974,484,1171280.0,96316.0,1074964.0,8.08411214953271,GlowPure Classic Haircare,Beauty & Personal Care,GlowPure
+P00975,422,1021240.0,80465.0,940775.0,8.206521739130435,LearnPress Elite Technology,Books,LearnPress
+P00976,462,2245320.0,171072.0,2074248.0,7.901023890784983,AuraBeauty Everyday Skincare,Beauty & Personal Care,AuraBeauty
+P00977,436,7874160.0,607719.0,7266441.0,7.634228187919463,Voltix Elite Laptops,Electronics,Voltix
+P00978,441,1120140.0,84582.0,1035558.0,7.698675496688741,GlowPure Ultra Makeup,Beauty & Personal Care,GlowPure
+P00979,457,2997920.0,256168.0,2741752.0,8.486842105263158,ClassicFit Advanced Jackets,Fashion,ClassicFit
+P00980,508,11511280.0,944922.0,10566358.0,8.147590361445783,CasaLiving Ultra Kitchen Appliances,Home & Kitchen,CasaLiving
+P00981,469,2223060.0,188652.0,2034408.0,8.575851393188854,ActivePro Premium Yoga,Sports & Fitness,ActivePro
+P00982,429,827970.0,62628.5,765341.5,7.795698924731183,DermaCare Classic Makeup,Beauty & Personal Care,DermaCare
+P00983,429,7854990.0,613385.0,7241605.0,7.697841726618705,FlexFit Everyday Sportswear,Sports & Fitness,FlexFit
+P00984,447,129630.0,11049.0,118581.0,8.778501628664495,GlowPure Advanced Skincare,Beauty & Personal Care,GlowPure
+P00985,446,2042680.0,140377.0,1902303.0,7.2727272727272725,ModeWear Modern Jackets,Fashion,ModeWear
+P00986,411,1816620.0,144313.0,1672307.0,7.481060606060606,HomeNest Smart Cookware,Home & Kitchen,HomeNest
+P00987,427,1187060.0,92574.0,1094486.0,7.783505154639175,KitchenPro Advanced Furniture,Home & Kitchen,KitchenPro
+P00988,440,2582800.0,212200.5,2370599.5,8.221476510067115,TechSphere Pro Smartphones,Electronics,TechSphere
+P00989,457,1896550.0,154172.5,1742377.5,8.136942675159236,FitCore Elite Sportswear,Sports & Fitness,FitCore
+P00990,483,454020.0,36707.0,417313.0,8.205521472392638,KnowledgeHouse Classic Fiction,Books,KnowledgeHouse
+P00991,514,12670100.0,1067345.0,11602755.0,8.415697674418604,HomeNest Advanced Cookware,Home & Kitchen,HomeNest
+P00992,450,3654000.0,309372.0,3344628.0,8.284313725490197,ComfortCraft Modern Furniture,Home & Kitchen,ComfortCraft
+P00993,481,3140930.0,280790.0,2860140.0,8.908794788273616,FlexFit Smart Running,Sports & Fitness,FlexFit
+P00994,406,6808620.0,528255.0,6280365.0,7.617328519855596,FitCore Smart Running,Sports & Fitness,FitCore
+P00995,453,2799540.0,236076.0,2563464.0,8.709677419354838,SportEdge Classic Gym Equipment,Sports & Fitness,SportEdge
+P00996,484,5106200.0,442045.0,4664155.0,8.616352201257861,SportEdge Classic Gym Equipment,Sports & Fitness,SportEdge
+P00997,445,213600.0,17952.0,195648.0,8.020833333333334,AuraBeauty Everyday Makeup,Beauty & Personal Care,AuraBeauty
+P00998,499,11332290.0,935652.0,10396638.0,8.323262839879154,ComfortCraft Ultra Storage,Home & Kitchen,ComfortCraft
+P00999,490,352800.0,32148.0,320652.0,9.125,PureSkin Smart Makeup,Beauty & Personal Care,PureSkin
+P01000,469,989590.0,83450.5,906139.5,8.646864686468646,PageTurner Premium Technology,Books,PageTurner

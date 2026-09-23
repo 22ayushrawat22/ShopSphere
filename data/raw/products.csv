@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,selling_price,cost_price,stock_quantity,rating,launch_date
+P00001,KnowledgeHouse Ultra Fiction,Books,Fiction,KnowledgeHouse,1100,790,377,3.2,2023-06-22
+P00002,KnowledgeHouse Modern Self Help,Books,Self Help,KnowledgeHouse,1830,1440,47,3.5,2023-02-08
+P00003,FitCore Everyday Sportswear,Sports & Fitness,Sportswear,FitCore,6760,3710,359,4.0,2024-03-03
+P00004,TrendRoot Ultra Trousers,Fashion,Trousers,TrendRoot,6930,3440,388,4.4,2024-01-16
+P00005,ReadMore Ultra Business,Books,Business,ReadMore,740,540,390,3.7,2023-12-13
+P00006,NovaTech Essential Smartwatches,Electronics,Smartwatches,NovaTech,45380,26720,413,2.9,2023-08-05
+P00007,GlowPure Pro Personal Care,Beauty & Personal Care,Personal Care,GlowPure,800,490,424,4.1,2023-06-09
+P00008,KitchenPro Classic Home Decor,Home & Kitchen,Home Decor,KitchenPro,1700,970,395,3.6,2025-04-27
+P00009,PixelPro Classic Accessories,Electronics,Accessories,PixelPro,50120,35220,325,4.4,2023-05-16
+P00010,StreetLine Smart Jeans,Fashion,Jeans,StreetLine,5790,4090,479,4.2,2024-10-17
+P00011,ZenByte Advanced Tablets,Electronics,Tablets,ZenByte,70310,38310,83,3.9,2023-02-19
+P00012,ComfortCraft Smart Lighting,Home & Kitchen,Lighting,ComfortCraft,22630,15540,393,4.3,2023-02-16
+P00013,UrbanThread Essential Jackets,Fashion,Jackets,UrbanThread,3590,2540,108,4.6,2023-05-26
+P00014,ActivePro Elite Yoga,Sports & Fitness,Yoga,ActivePro,13210,6480,329,3.9,2023-12-06
+P00015,KitchenPro Everyday Furniture,Home & Kitchen,Furniture,KitchenPro,17860,12650,299,3.8,2023-12-28
+P00016,RunX Smart Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,4780,2970,46,4.3,2025-02-24
+P00017,ZenByte Advanced Laptops,Electronics,Laptops,ZenByte,55630,32890,197,3.8,2023-02-11
+P00018,AuraBeauty Everyday Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,240,130,58,4.2,2025-05-21
+P00019,RunX Classic Yoga,Sports & Fitness,Yoga,RunX,9870,6390,232,2.6,2023-11-05
+P00020,ReadMore Everyday Academic,Books,Academic,ReadMore,830,520,54,4.5,2025-04-26
+P00021,ComfortCraft Modern Lighting,Home & Kitchen,Lighting,ComfortCraft,6720,5020,390,3.3,2024-10-13
+P00022,FlexFit Essential Running,Sports & Fitness,Running,FlexFit,16260,12900,475,3.7,2023-12-09
+P00023,HomeNest Smart Furniture,Home & Kitchen,Furniture,HomeNest,18790,8800,43,4.3,2024-11-28
+P00024,Auralink Advanced Accessories,Electronics,Accessories,Auralink,17130,9750,484,4.0,2024-03-08
+P00025,ComfortCraft Pro Home Decor,Home & Kitchen,Home Decor,ComfortCraft,7140,3390,386,4.3,2023-01-11
+P00026,StreetLine Pro Footwear,Fashion,Footwear,StreetLine,5800,3320,224,4.6,2023-09-06
+P00027,DermaCare Smart Skincare,Beauty & Personal Care,Skincare,DermaCare,670,460,301,4.0,2024-10-18
+P00028,FitCore Classic Gym Equipment,Sports & Fitness,Gym Equipment,FitCore,2180,1570,463,2.9,2024-06-12
+P00029,ComfortCraft Smart Cookware,Home & Kitchen,Cookware,ComfortCraft,9320,5270,109,4.0,2024-03-07
+P00030,LearnPress Elite Self Help,Books,Self Help,LearnPress,1100,580,413,3.8,2023-08-30
+P00031,ZenByte Pro Smartphones,Electronics,Smartphones,ZenByte,46740,30460,239,4.5,2023-12-01
+P00032,ZenByte Classic Cameras,Electronics,Cameras,ZenByte,8240,5430,173,4.4,2024-06-06
+P00033,PixelPro Smart Laptops,Electronics,Laptops,PixelPro,70590,45390,216,3.4,2023-06-08
+P00034,GlowPure Elite Haircare,Beauty & Personal Care,Haircare,GlowPure,4660,3570,333,5.0,2023-05-25
+P00035,PixelPro Advanced Smartphones,Electronics,Smartphones,PixelPro,53570,33750,109,4.5,2024-08-13
+P00036,TechSphere Premium Laptops,Electronics,Laptops,TechSphere,51470,36400,401,4.3,2023-05-31
+P00037,ComfortCraft Elite Storage,Home & Kitchen,Storage,ComfortCraft,5270,3870,111,4.7,2024-07-11
+P00038,FitCore Essential Sportswear,Sports & Fitness,Sportswear,FitCore,2120,1660,244,4.0,2024-06-18
+P00039,FitCore Everyday Gym Equipment,Sports & Fitness,Gym Equipment,FitCore,2880,1450,35,4.1,2024-02-15
+P00040,InsightBooks Classic Non-Fiction,Books,Non-Fiction,InsightBooks,2430,1730,304,2.9,2023-03-09
+P00041,ZenByte Modern Smartwatches,Electronics,Smartwatches,ZenByte,74380,45890,478,3.6,2024-12-14
+P00042,ReadMore Smart Academic,Books,Academic,ReadMore,1190,790,343,4.2,2025-04-13
+P00043,GlowPure Premium Makeup,Beauty & Personal Care,Makeup,GlowPure,3900,2270,288,4.9,2023-07-13
+P00044,PixelPro Everyday Tablets,Electronics,Tablets,PixelPro,35060,26420,178,4.5,2024-08-11
+P00045,StreetLine Advanced Jeans,Fashion,Jeans,StreetLine,3890,1980,360,3.6,2023-05-03
+P00046,KnowledgeHouse Everyday Self Help,Books,Self Help,KnowledgeHouse,1330,630,53,4.7,2025-05-07
+P00047,UrbanThread Classic Jeans,Fashion,Jeans,UrbanThread,6380,3870,139,3.6,2024-03-31
+P00048,StreetLine Smart Footwear,Fashion,Footwear,StreetLine,5930,3430,135,4.0,2024-07-15
+P00049,HomeNest Pro Cookware,Home & Kitchen,Cookware,HomeNest,9270,7270,170,4.3,2025-06-15
+P00050,PageTurner Elite Technology,Books,Technology,PageTurner,2360,1310,287,2.7,2023-10-26
+P00051,PixelPro Everyday Cameras,Electronics,Cameras,PixelPro,5020,2550,298,4.0,2023-04-19
+P00052,GlowPure Ultra Haircare,Beauty & Personal Care,Haircare,GlowPure,3140,1520,407,4.8,2023-03-13
+P00053,PixelPro Smart Headphones,Electronics,Headphones,PixelPro,13770,9310,286,4.5,2023-12-21
+P00054,DermaCare Smart Personal Care,Beauty & Personal Care,Personal Care,DermaCare,1480,680,415,3.4,2024-03-25
+P00055,DermaCare Essential Skincare,Beauty & Personal Care,Skincare,DermaCare,3520,1830,442,4.3,2023-05-04
+P00056,StyleCraft Classic Jeans,Fashion,Jeans,StyleCraft,3430,1700,439,3.9,2023-12-28
+P00057,ModeWear Essential Jackets,Fashion,Jackets,ModeWear,2800,1440,446,3.5,2023-06-06
+P00058,PixelPro Pro Cameras,Electronics,Cameras,PixelPro,43320,30430,35,4.7,2024-08-13
+P00059,ComfortCraft Pro Kitchen Appliances,Home & Kitchen,Kitchen Appliances,ComfortCraft,22470,10260,274,3.7,2024-03-07
+P00060,Voltix Advanced Smartphones,Electronics,Smartphones,Voltix,76400,35380,135,2.9,2024-12-05
+P00061,RunX Essential Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,14550,8550,261,3.2,2024-07-20
+P00062,RunX Premium Gym Equipment,Sports & Fitness,Gym Equipment,RunX,14540,11620,473,4.4,2023-09-10
+P00063,PageTurner Essential Academic,Books,Academic,PageTurner,1870,1450,340,4.6,2024-07-29
+P00064,FitCore Ultra Yoga,Sports & Fitness,Yoga,FitCore,16870,11670,209,3.7,2024-07-05
+P00065,LearnPress Advanced Technology,Books,Technology,LearnPress,880,570,481,3.8,2023-11-22
+P00066,LearnPress Modern Non-Fiction,Books,Non-Fiction,LearnPress,1330,870,426,2.5,2024-02-19
+P00067,UrbanHome Modern Furniture,Home & Kitchen,Furniture,UrbanHome,20080,11460,238,3.9,2023-04-21
+P00068,LearnPress Elite Non-Fiction,Books,Non-Fiction,LearnPress,800,460,145,4.0,2023-09-23
+P00069,ReadMore Classic Self Help,Books,Self Help,ReadMore,1060,600,115,4.4,2025-04-09
+P00070,UrbanThread Smart T-Shirts,Fashion,T-Shirts,UrbanThread,4190,2460,393,3.1,2024-01-16
+P00071,DermaCare Pro Personal Care,Beauty & Personal Care,Personal Care,DermaCare,4200,2770,75,4.2,2023-09-11
+P00072,NovaTech Pro Accessories,Electronics,Accessories,NovaTech,28980,21400,490,4.2,2024-12-19
+P00073,BloomCare Smart Skincare,Beauty & Personal Care,Skincare,BloomCare,1140,730,410,3.9,2024-08-12
+P00074,FlexFit Essential Sportswear,Sports & Fitness,Sportswear,FlexFit,14750,8640,368,4.5,2024-02-24
+P00075,PureSkin Advanced Personal Care,Beauty & Personal Care,Personal Care,PureSkin,4040,2600,384,3.5,2025-05-15
+P00076,LearnPress Elite Technology,Books,Technology,LearnPress,1080,760,39,4.2,2023-12-08
+P00077,StreetLine Essential Jeans,Fashion,Jeans,StreetLine,7620,4660,70,3.3,2024-05-18
+P00078,DermaCare Classic Haircare,Beauty & Personal Care,Haircare,DermaCare,3550,2330,277,3.9,2023-03-28
+P00079,TechSphere Pro Laptops,Electronics,Laptops,TechSphere,76860,36040,10,4.5,2023-12-22
+P00080,SportEdge Premium Outdoor Sports,Sports & Fitness,Outdoor Sports,SportEdge,11780,8190,199,4.5,2023-02-19
+P00081,BloomCare Modern Personal Care,Beauty & Personal Care,Personal Care,BloomCare,1960,1230,139,3.9,2024-05-05
+P00082,Voltix Pro Smartwatches,Electronics,Smartwatches,Voltix,21930,11090,470,3.2,2024-09-15
+P00083,FitCore Pro Sportswear,Sports & Fitness,Sportswear,FitCore,19640,11830,13,3.1,2024-02-20
+P00084,PureSkin Advanced Haircare,Beauty & Personal Care,Haircare,PureSkin,560,400,167,3.4,2023-04-13
+P00085,UrbanHome Ultra Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,24840,11600,215,3.5,2023-11-24
+P00086,NovaTech Everyday Smartwatches,Electronics,Smartwatches,NovaTech,7130,3210,179,3.5,2025-05-31
+P00087,ZenByte Premium Accessories,Electronics,Accessories,ZenByte,4370,2040,102,4.4,2024-05-03
+P00088,ActivePro Advanced Gym Equipment,Sports & Fitness,Gym Equipment,ActivePro,15770,8920,288,4.7,2023-11-27
+P00089,AuraBeauty Advanced Makeup,Beauty & Personal Care,Makeup,AuraBeauty,5110,3000,382,4.2,2025-02-14
+P00090,UrbanThread Modern Jeans,Fashion,Jeans,UrbanThread,510,240,294,4.2,2024-09-06
+P00091,DermaCare Classic Fragrances,Beauty & Personal Care,Fragrances,DermaCare,5000,2790,321,3.5,2024-12-13
+P00092,LearnPress Classic Technology,Books,Technology,LearnPress,2420,1270,177,4.0,2023-08-10
+P00093,KnowledgeHouse Everyday Technology,Books,Technology,KnowledgeHouse,1500,1190,215,4.4,2024-02-16
+P00094,Voltix Elite Smartwatches,Electronics,Smartwatches,Voltix,20350,13180,375,4.0,2023-08-05
+P00095,LearnPress Everyday Technology,Books,Technology,LearnPress,2080,1330,422,4.3,2024-01-19
+P00096,KitchenPro Classic Kitchen Appliances,Home & Kitchen,Kitchen Appliances,KitchenPro,9340,4590,124,4.3,2025-05-22
+P00097,SportEdge Essential Sportswear,Sports & Fitness,Sportswear,SportEdge,1190,750,166,3.4,2025-04-17
+P00098,StreetLine Essential Jeans,Fashion,Jeans,StreetLine,2590,1270,359,4.5,2024-02-13
+P00099,FlexFit Smart Running,Sports & Fitness,Running,FlexFit,3060,2190,208,3.9,2025-06-27
+P00100,ModeWear Elite Footwear,Fashion,Footwear,ModeWear,3970,2070,47,3.6,2024-10-27
+P00101,AuraBeauty Modern Haircare,Beauty & Personal Care,Haircare,AuraBeauty,3170,2010,271,3.7,2025-06-25
+P00102,ReadMore Essential Self Help,Books,Self Help,ReadMore,1960,1380,128,3.5,2024-09-12
+P00103,ReadMore Classic Non-Fiction,Books,Non-Fiction,ReadMore,2290,1070,353,3.4,2024-07-16
+P00104,ModeWear Ultra Footwear,Fashion,Footwear,ModeWear,6240,3700,389,4.0,2023-12-07
+P00105,KitchenPro Ultra Cookware,Home & Kitchen,Cookware,KitchenPro,7650,5150,154,2.7,2023-08-03
+P00106,RunX Premium Gym Equipment,Sports & Fitness,Gym Equipment,RunX,2040,1240,357,4.7,2025-03-02
+P00107,KnowledgeHouse Premium Business,Books,Business,KnowledgeHouse,2450,1720,245,3.9,2025-02-05
+P00108,StreetLine Elite T-Shirts,Fashion,T-Shirts,StreetLine,1230,630,205,3.9,2023-05-22
+P00109,ActivePro Advanced Running,Sports & Fitness,Running,ActivePro,18690,8740,43,4.9,2023-03-15
+P00110,TechSphere Modern Tablets,Electronics,Tablets,TechSphere,78440,41040,115,4.3,2023-06-20
+P00111,PureSkin Ultra Fragrances,Beauty & Personal Care,Fragrances,PureSkin,4970,2250,156,4.1,2023-08-26
+P00112,ZenByte Classic Tablets,Electronics,Tablets,ZenByte,27540,16000,135,4.2,2023-09-06
+P00113,StyleCraft Everyday Shirts,Fashion,Shirts,StyleCraft,910,680,209,3.9,2024-10-17
+P00114,RunX Premium Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,7840,5480,144,4.2,2023-04-09
+P00115,DermaCare Ultra Skincare,Beauty & Personal Care,Skincare,DermaCare,5270,3130,411,4.6,2024-08-20
+P00116,BloomCare Smart Skincare,Beauty & Personal Care,Skincare,BloomCare,5460,4080,136,4.4,2024-08-15
+P00117,PixelPro Ultra Smartphones,Electronics,Smartphones,PixelPro,78290,42110,291,4.6,2024-12-28
+P00118,PureSkin Ultra Skincare,Beauty & Personal Care,Skincare,PureSkin,5880,3880,139,4.0,2025-04-01
+P00119,GlowPure Modern Fragrances,Beauty & Personal Care,Fragrances,GlowPure,480,230,376,3.7,2024-01-26
+P00120,HomeNest Smart Cookware,Home & Kitchen,Cookware,HomeNest,22300,11320,294,4.1,2025-05-09
+P00121,ZenByte Ultra Accessories,Electronics,Accessories,ZenByte,75830,59600,387,3.4,2023-01-18
+P00122,RunX Advanced Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,19430,12580,416,3.9,2023-06-27
+P00123,Voltix Pro Smartwatches,Electronics,Smartwatches,Voltix,43990,30250,53,4.5,2025-04-14
+P00124,UrbanHome Ultra Storage,Home & Kitchen,Storage,UrbanHome,21910,10280,416,4.3,2024-02-19
+P00125,NovaTech Essential Smartwatches,Electronics,Smartwatches,NovaTech,33380,22930,496,4.3,2024-06-12
+P00126,FlexFit Elite Running,Sports & Fitness,Running,FlexFit,13790,10770,265,3.7,2023-06-23
+P00127,GlowPure Smart Fragrances,Beauty & Personal Care,Fragrances,GlowPure,2340,1420,474,3.6,2024-03-31
+P00128,KnowledgeHouse Premium Business,Books,Business,KnowledgeHouse,1080,600,159,4.0,2024-11-06
+P00129,FitCore Smart Outdoor Sports,Sports & Fitness,Outdoor Sports,FitCore,3970,2530,60,4.2,2023-09-03
+P00130,ClassicFit Ultra Trousers,Fashion,Trousers,ClassicFit,4470,2470,212,4.4,2024-12-05
+P00131,PureSkin Everyday Haircare,Beauty & Personal Care,Haircare,PureSkin,1330,890,471,4.1,2023-01-06
+P00132,KnowledgeHouse Ultra Non-Fiction,Books,Non-Fiction,KnowledgeHouse,1800,1230,403,4.0,2024-02-14
+P00133,ZenByte Ultra Headphones,Electronics,Headphones,ZenByte,77230,46110,337,3.9,2025-02-16
+P00134,TrendRoot Elite Trousers,Fashion,Trousers,TrendRoot,3130,2140,390,4.0,2023-10-05
+P00135,DermaCare Smart Makeup,Beauty & Personal Care,Makeup,DermaCare,4830,3220,438,4.3,2025-02-27
+P00136,ZenByte Elite Headphones,Electronics,Headphones,ZenByte,50270,33420,339,4.4,2023-06-15
+P00137,InsightBooks Premium Non-Fiction,Books,Non-Fiction,InsightBooks,620,390,302,3.7,2024-04-08
+P00138,TechSphere Classic Accessories,Electronics,Accessories,TechSphere,69240,33330,7,4.3,2025-02-27
+P00139,GlowPure Elite Haircare,Beauty & Personal Care,Haircare,GlowPure,2320,1580,354,3.8,2023-11-05
+P00140,Voltix Everyday Accessories,Electronics,Accessories,Voltix,50110,23350,320,4.2,2023-08-26
+P00141,GlowPure Modern Personal Care,Beauty & Personal Care,Personal Care,GlowPure,710,510,350,4.6,2024-08-03
+P00142,UrbanThread Pro Footwear,Fashion,Footwear,UrbanThread,1110,590,360,4.5,2023-09-08
+P00143,AuraBeauty Premium Haircare,Beauty & Personal Care,Haircare,AuraBeauty,530,360,28,3.6,2025-04-17
+P00144,KitchenPro Smart Storage,Home & Kitchen,Storage,KitchenPro,17600,11540,349,4.4,2025-04-03
+P00145,UrbanThread Modern Shirts,Fashion,Shirts,UrbanThread,7430,4950,349,3.5,2023-01-01
+P00146,ActivePro Elite Gym Equipment,Sports & Fitness,Gym Equipment,ActivePro,8570,5480,341,2.7,2024-05-18
+P00147,BloomCare Advanced Makeup,Beauty & Personal Care,Makeup,BloomCare,760,490,176,4.8,2025-01-29
+P00148,UrbanHome Ultra Lighting,Home & Kitchen,Lighting,UrbanHome,15170,7650,101,5.0,2023-01-31
+P00149,DermaCare Pro Skincare,Beauty & Personal Care,Skincare,DermaCare,4840,3260,151,4.9,2023-06-23
+P00150,UrbanHome Ultra Cookware,Home & Kitchen,Cookware,UrbanHome,460,280,351,4.3,2024-07-17
+P00151,ZenByte Elite Tablets,Electronics,Tablets,ZenByte,37810,19980,117,4.1,2024-04-22
+P00152,KitchenPro Modern Furniture,Home & Kitchen,Furniture,KitchenPro,8410,4730,369,4.3,2024-01-07
+P00153,KnowledgeHouse Premium Non-Fiction,Books,Non-Fiction,KnowledgeHouse,1360,710,17,4.1,2023-03-31
+P00154,KnowledgeHouse Ultra Non-Fiction,Books,Non-Fiction,KnowledgeHouse,1440,780,89,3.4,2024-01-10
+P00155,FlexFit Everyday Yoga,Sports & Fitness,Yoga,FlexFit,9180,4680,131,4.6,2025-05-31
+P00156,AuraBeauty Classic Makeup,Beauty & Personal Care,Makeup,AuraBeauty,3990,1850,72,4.3,2023-05-03
+P00157,ClassicFit Pro Jackets,Fashion,Jackets,ClassicFit,7230,3750,187,3.1,2023-05-14
+P00158,AuraBeauty Everyday Skincare,Beauty & Personal Care,Skincare,AuraBeauty,1160,740,344,4.3,2025-01-24
+P00159,UrbanHome Essential Home Decor,Home & Kitchen,Home Decor,UrbanHome,3750,2110,241,2.8,2023-04-18
+P00160,FlexFit Smart Yoga,Sports & Fitness,Yoga,FlexFit,2320,1340,237,4.6,2025-04-07
+P00161,UrbanHome Classic Lighting,Home & Kitchen,Lighting,UrbanHome,4780,3750,19,3.6,2023-07-15
+P00162,GlowPure Smart Skincare,Beauty & Personal Care,Skincare,GlowPure,4550,3420,232,3.8,2023-07-19
+P00163,LearnPress Pro Academic,Books,Academic,LearnPress,730,360,335,3.1,2025-01-08
+P00164,PureSkin Ultra Personal Care,Beauty & Personal Care,Personal Care,PureSkin,420,230,111,3.9,2025-05-04
+P00165,StreetLine Classic Jackets,Fashion,Jackets,StreetLine,5920,3970,461,4.8,2023-09-14
+P00166,UrbanHome Ultra Cookware,Home & Kitchen,Cookware,UrbanHome,6420,2960,485,4.4,2024-02-16
+P00167,DermaCare Modern Skincare,Beauty & Personal Care,Skincare,DermaCare,320,250,170,3.5,2025-03-30
+P00168,TrendRoot Smart Jackets,Fashion,Jackets,TrendRoot,860,440,283,3.4,2024-10-19
+P00169,StyleCraft Essential Jackets,Fashion,Jackets,StyleCraft,6640,4970,461,4.1,2023-11-26
+P00170,KitchenPro Everyday Furniture,Home & Kitchen,Furniture,KitchenPro,8410,4380,56,4.2,2025-04-17
+P00171,NovaTech Essential Laptops,Electronics,Laptops,NovaTech,31490,18700,8,3.4,2023-11-09
+P00172,ZenByte Pro Laptops,Electronics,Laptops,ZenByte,69260,52650,32,3.9,2024-04-29
+P00173,ComfortCraft Classic Home Decor,Home & Kitchen,Home Decor,ComfortCraft,15010,9360,484,4.1,2024-09-11
+P00174,LearnPress Ultra Academic,Books,Academic,LearnPress,1980,1140,15,3.0,2024-08-03
+P00175,PureSkin Classic Fragrances,Beauty & Personal Care,Fragrances,PureSkin,4170,2300,227,3.1,2024-11-11
+P00176,Auralink Advanced Headphones,Electronics,Headphones,Auralink,8910,6730,319,4.1,2025-03-15
+P00177,SportEdge Modern Yoga,Sports & Fitness,Yoga,SportEdge,17640,12290,258,4.1,2024-12-02
+P00178,ZenByte Classic Accessories,Electronics,Accessories,ZenByte,72560,39740,110,3.9,2023-07-07
+P00179,StreetLine Elite Trousers,Fashion,Trousers,StreetLine,3570,2340,48,3.7,2024-01-21
+P00180,CasaLiving Essential Lighting,Home & Kitchen,Lighting,CasaLiving,5200,2910,242,3.0,2023-12-16
+P00181,TechSphere Classic Smartphones,Electronics,Smartphones,TechSphere,49140,25350,284,3.0,2023-04-10
+P00182,RunX Classic Sportswear,Sports & Fitness,Sportswear,RunX,13710,9270,340,4.7,2024-06-09
+P00183,AuraBeauty Modern Skincare,Beauty & Personal Care,Skincare,AuraBeauty,2710,1830,295,4.0,2023-02-02
+P00184,ModeWear Smart Footwear,Fashion,Footwear,ModeWear,7240,5520,432,4.0,2025-05-10
+P00185,Voltix Modern Accessories,Electronics,Accessories,Voltix,29940,15490,432,4.0,2023-12-24
+P00186,FlexFit Premium Sportswear,Sports & Fitness,Sportswear,FlexFit,9010,7120,139,4.2,2023-12-09
+P00187,CasaLiving Premium Kitchen Appliances,Home & Kitchen,Kitchen Appliances,CasaLiving,6140,3040,289,4.2,2023-01-12
+P00188,ZenByte Premium Laptops,Electronics,Laptops,ZenByte,12330,6640,110,3.8,2023-04-21
+P00189,DermaCare Essential Makeup,Beauty & Personal Care,Makeup,DermaCare,2700,1480,397,4.7,2023-04-02
+P00190,FitCore Advanced Running,Sports & Fitness,Running,FitCore,5410,2900,25,4.2,2023-12-22
+P00191,UrbanHome Elite Storage,Home & Kitchen,Storage,UrbanHome,20090,12960,139,3.5,2023-04-15
+P00192,RunX Pro Running,Sports & Fitness,Running,RunX,3880,2720,347,4.1,2023-02-18
+P00193,FitCore Smart Yoga,Sports & Fitness,Yoga,FitCore,13200,6010,28,2.7,2024-05-28
+P00194,KitchenPro Ultra Furniture,Home & Kitchen,Furniture,KitchenPro,9680,6630,3,4.0,2023-04-21
+P00195,DermaCare Pro Haircare,Beauty & Personal Care,Haircare,DermaCare,4510,2500,256,4.0,2025-03-09
+P00196,KnowledgeHouse Pro Technology,Books,Technology,KnowledgeHouse,270,170,235,4.6,2024-01-05
+P00197,UrbanHome Modern Home Decor,Home & Kitchen,Home Decor,UrbanHome,13450,7420,213,3.6,2024-03-08
+P00198,AuraBeauty Advanced Skincare,Beauty & Personal Care,Skincare,AuraBeauty,5210,3330,353,4.6,2025-01-24
+P00199,NovaTech Smart Smartwatches,Electronics,Smartwatches,NovaTech,57400,34090,268,3.1,2023-11-29
+P00200,CasaLiving Smart Lighting,Home & Kitchen,Lighting,CasaLiving,11110,5860,39,4.0,2025-04-17
+P00201,Auralink Smart Tablets,Electronics,Tablets,Auralink,46090,31210,490,4.4,2023-07-25
+P00202,UrbanThread Advanced Shirts,Fashion,Shirts,UrbanThread,2400,1750,308,3.3,2025-06-06
+P00203,PageTurner Elite Fiction,Books,Fiction,PageTurner,2000,1070,389,4.1,2025-06-14
+P00204,LearnPress Essential Self Help,Books,Self Help,LearnPress,1390,1040,34,3.9,2025-01-04
+P00205,ReadMore Modern Technology,Books,Technology,ReadMore,330,220,37,3.6,2024-01-13
+P00206,GlowPure Essential Skincare,Beauty & Personal Care,Skincare,GlowPure,2500,1930,442,4.8,2025-01-04
+P00207,Auralink Everyday Tablets,Electronics,Tablets,Auralink,50690,32340,283,4.7,2024-09-24
+P00208,InsightBooks Modern Fiction,Books,Fiction,InsightBooks,870,600,243,4.0,2023-10-23
+P00209,NovaTech Essential Smartwatches,Electronics,Smartwatches,NovaTech,11350,7080,88,2.9,2023-05-27
+P00210,InsightBooks Everyday Business,Books,Business,InsightBooks,2240,1310,186,3.8,2023-05-31
+P00211,UrbanHome Essential Storage,Home & Kitchen,Storage,UrbanHome,22450,13260,404,4.1,2024-10-31
+P00212,CasaLiving Classic Cookware,Home & Kitchen,Cookware,CasaLiving,18480,10400,145,3.5,2024-07-04
+P00213,PageTurner Essential Self Help,Books,Self Help,PageTurner,430,260,72,4.6,2024-10-20
+P00214,UrbanHome Advanced Lighting,Home & Kitchen,Lighting,UrbanHome,19700,10870,43,3.6,2024-09-30
+P00215,DermaCare Everyday Makeup,Beauty & Personal Care,Makeup,DermaCare,920,530,216,4.0,2024-12-26
+P00216,Voltix Advanced Headphones,Electronics,Headphones,Voltix,28370,19300,392,3.9,2023-03-26
+P00217,StyleCraft Classic Shirts,Fashion,Shirts,StyleCraft,2720,1370,51,4.0,2023-06-02
+P00218,FitCore Essential Sportswear,Sports & Fitness,Sportswear,FitCore,4540,2680,78,3.3,2023-04-05
+P00219,PageTurner Elite Self Help,Books,Self Help,PageTurner,280,180,346,4.3,2024-09-17
+P00220,AuraBeauty Elite Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,2070,1270,158,4.7,2024-06-11
+P00221,AuraBeauty Modern Haircare,Beauty & Personal Care,Haircare,AuraBeauty,3760,2400,144,4.3,2023-06-19
+P00222,SportEdge Advanced Sportswear,Sports & Fitness,Sportswear,SportEdge,6790,3530,70,4.5,2024-01-22
+P00223,TechSphere Essential Cameras,Electronics,Cameras,TechSphere,72980,34520,364,4.4,2023-10-25
+P00224,NovaTech Advanced Headphones,Electronics,Headphones,NovaTech,36060,23180,262,3.3,2023-10-23
+P00225,DermaCare Elite Skincare,Beauty & Personal Care,Skincare,DermaCare,3010,1430,212,3.0,2025-04-13
+P00226,ActivePro Pro Yoga,Sports & Fitness,Yoga,ActivePro,2920,1950,14,3.7,2024-11-27
+P00227,ZenByte Essential Accessories,Electronics,Accessories,ZenByte,19440,14620,146,4.6,2023-08-06
+P00228,PureSkin Elite Haircare,Beauty & Personal Care,Haircare,PureSkin,5190,4140,40,2.8,2024-10-17
+P00229,StyleCraft Everyday Jackets,Fashion,Jackets,StyleCraft,6260,3670,216,3.2,2023-10-13
+P00230,CasaLiving Classic Furniture,Home & Kitchen,Furniture,CasaLiving,1760,1260,327,4.4,2024-03-08
+P00231,GlowPure Elite Skincare,Beauty & Personal Care,Skincare,GlowPure,5040,3090,323,4.0,2024-12-19
+P00232,StyleCraft Ultra Footwear,Fashion,Footwear,StyleCraft,3820,3050,180,3.5,2024-01-24
+P00233,GlowPure Everyday Haircare,Beauty & Personal Care,Haircare,GlowPure,3100,2410,269,4.0,2023-04-28
+P00234,FitCore Pro Sportswear,Sports & Fitness,Sportswear,FitCore,15660,12290,198,4.8,2024-11-19
+P00235,HomeNest Essential Lighting,Home & Kitchen,Lighting,HomeNest,2410,1640,375,4.2,2025-05-04
+P00236,Auralink Essential Accessories,Electronics,Accessories,Auralink,17790,13960,279,3.7,2023-06-02
+P00237,InsightBooks Elite Non-Fiction,Books,Non-Fiction,InsightBooks,850,440,32,4.2,2023-03-20
+P00238,AuraBeauty Smart Skincare,Beauty & Personal Care,Skincare,AuraBeauty,510,270,453,2.9,2025-04-19
+P00239,UrbanHome Everyday Home Decor,Home & Kitchen,Home Decor,UrbanHome,15710,11180,385,4.2,2023-01-23
+P00240,HomeNest Essential Kitchen Appliances,Home & Kitchen,Kitchen Appliances,HomeNest,9150,6920,188,3.9,2023-05-25
+P00241,PureSkin Essential Fragrances,Beauty & Personal Care,Fragrances,PureSkin,1680,1050,254,3.7,2024-01-03
+P00242,FitCore Pro Yoga,Sports & Fitness,Yoga,FitCore,2840,1840,421,3.4,2023-09-16
+P00243,HomeNest Classic Kitchen Appliances,Home & Kitchen,Kitchen Appliances,HomeNest,10940,6220,156,3.9,2024-09-23
+P00244,PageTurner Elite Business,Books,Business,PageTurner,1540,990,372,4.5,2025-01-24
+P00245,UrbanHome Ultra Home Decor,Home & Kitchen,Home Decor,UrbanHome,21150,9670,485,3.0,2025-01-17
+P00246,InsightBooks Essential Academic,Books,Academic,InsightBooks,2200,1140,347,3.3,2023-11-29
+P00247,Auralink Elite Laptops,Electronics,Laptops,Auralink,4860,3670,120,4.3,2024-09-14
+P00248,UrbanHome Modern Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,1260,740,347,3.9,2023-04-02
+P00249,UrbanHome Classic Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,19010,14290,187,3.8,2023-09-13
+P00250,PageTurner Classic Technology,Books,Technology,PageTurner,210,110,255,4.0,2024-08-11
+P00251,RunX Ultra Running,Sports & Fitness,Running,RunX,14870,10780,313,3.6,2023-01-04
+P00252,GlowPure Advanced Haircare,Beauty & Personal Care,Haircare,GlowPure,760,490,460,4.2,2024-08-29
+P00253,ZenByte Essential Accessories,Electronics,Accessories,ZenByte,45840,25290,281,4.0,2024-02-16
+P00254,KitchenPro Essential Furniture,Home & Kitchen,Furniture,KitchenPro,16870,12170,102,4.4,2024-12-07
+P00255,ModeWear Premium Jackets,Fashion,Jackets,ModeWear,3260,1980,188,3.9,2024-03-19
+P00256,FlexFit Classic Gym Equipment,Sports & Fitness,Gym Equipment,FlexFit,2400,1660,367,4.3,2024-10-19
+P00257,SportEdge Modern Outdoor Sports,Sports & Fitness,Outdoor Sports,SportEdge,2670,2020,162,4.2,2025-05-13
+P00258,BloomCare Essential Fragrances,Beauty & Personal Care,Fragrances,BloomCare,1200,590,399,4.0,2025-01-26
+P00259,ActivePro Pro Gym Equipment,Sports & Fitness,Gym Equipment,ActivePro,16730,8050,28,4.4,2023-08-29
+P00260,RunX Advanced Gym Equipment,Sports & Fitness,Gym Equipment,RunX,5560,3820,363,3.5,2023-10-22
+P00261,FitCore Ultra Yoga,Sports & Fitness,Yoga,FitCore,6680,3860,282,3.6,2024-04-05
+P00262,LearnPress Everyday Technology,Books,Technology,LearnPress,480,300,86,4.1,2023-12-05
+P00263,ActivePro Modern Gym Equipment,Sports & Fitness,Gym Equipment,ActivePro,11310,5710,288,2.9,2023-04-01
+P00264,NovaTech Modern Smartphones,Electronics,Smartphones,NovaTech,34990,20020,392,4.1,2025-06-18
+P00265,SportEdge Everyday Running,Sports & Fitness,Running,SportEdge,9740,5600,154,3.9,2025-04-22
+P00266,ReadMore Elite Business,Books,Business,ReadMore,400,220,80,3.9,2023-04-05
+P00267,DermaCare Essential Fragrances,Beauty & Personal Care,Fragrances,DermaCare,5120,3840,441,4.2,2024-05-02
+P00268,InsightBooks Advanced Technology,Books,Technology,InsightBooks,1620,1000,54,3.7,2023-03-30
+P00269,AuraBeauty Elite Skincare,Beauty & Personal Care,Skincare,AuraBeauty,2180,1640,25,3.6,2023-03-19
+P00270,PureSkin Smart Personal Care,Beauty & Personal Care,Personal Care,PureSkin,1460,750,478,4.1,2025-06-26
+P00271,KitchenPro Elite Furniture,Home & Kitchen,Furniture,KitchenPro,17070,10870,450,3.6,2025-01-10
+P00272,TechSphere Everyday Smartphones,Electronics,Smartphones,TechSphere,60230,27810,110,4.1,2025-02-20
+P00273,Voltix Elite Smartphones,Electronics,Smartphones,Voltix,78620,38620,334,4.2,2025-04-05
+P00274,HomeNest Classic Home Decor,Home & Kitchen,Home Decor,HomeNest,14320,10780,135,4.3,2023-09-02
+P00275,GlowPure Pro Makeup,Beauty & Personal Care,Makeup,GlowPure,570,340,99,3.7,2023-03-30
+P00276,UrbanHome Everyday Cookware,Home & Kitchen,Cookware,UrbanHome,14960,7970,143,4.4,2025-02-27
+P00277,FitCore Advanced Sportswear,Sports & Fitness,Sportswear,FitCore,3420,2260,406,4.8,2023-05-05
+P00278,ActivePro Smart Yoga,Sports & Fitness,Yoga,ActivePro,19990,12430,256,2.9,2023-10-16
+P00279,ZenByte Essential Laptops,Electronics,Laptops,ZenByte,62390,38570,76,4.1,2023-04-17
+P00280,RunX Modern Gym Equipment,Sports & Fitness,Gym Equipment,RunX,10690,7940,315,4.3,2023-04-16
+P00281,CasaLiving Everyday Home Decor,Home & Kitchen,Home Decor,CasaLiving,16900,10370,362,4.0,2024-01-01
+P00282,AuraBeauty Essential Skincare,Beauty & Personal Care,Skincare,AuraBeauty,5670,4320,213,4.1,2024-09-19
+P00283,KnowledgeHouse Modern Academic,Books,Academic,KnowledgeHouse,2040,1440,335,4.3,2023-07-06
+P00284,ActivePro Premium Sportswear,Sports & Fitness,Sportswear,ActivePro,19370,12240,268,4.1,2025-06-03
+P00285,ActivePro Smart Outdoor Sports,Sports & Fitness,Outdoor Sports,ActivePro,1280,770,358,3.2,2024-01-18
+P00286,Voltix Pro Smartwatches,Electronics,Smartwatches,Voltix,20150,13210,104,3.8,2025-06-18
+P00287,FitCore Advanced Outdoor Sports,Sports & Fitness,Outdoor Sports,FitCore,17250,12550,166,4.9,2023-03-03
+P00288,PureSkin Essential Personal Care,Beauty & Personal Care,Personal Care,PureSkin,1570,1000,272,3.7,2023-05-08
+P00289,CasaLiving Modern Lighting,Home & Kitchen,Lighting,CasaLiving,16060,11770,126,3.6,2024-10-13
+P00290,CasaLiving Ultra Furniture,Home & Kitchen,Furniture,CasaLiving,23300,16950,360,3.9,2025-06-25
+P00291,BloomCare Ultra Makeup,Beauty & Personal Care,Makeup,BloomCare,2510,1900,346,4.0,2025-05-28
+P00292,DermaCare Ultra Makeup,Beauty & Personal Care,Makeup,DermaCare,490,340,365,3.1,2025-03-23
+P00293,PureSkin Smart Makeup,Beauty & Personal Care,Makeup,PureSkin,1800,920,138,4.6,2024-05-06
+P00294,PageTurner Classic Technology,Books,Technology,PageTurner,1080,770,342,4.6,2024-02-10
+P00295,StyleCraft Premium Footwear,Fashion,Footwear,StyleCraft,1120,730,367,3.9,2023-11-14
+P00296,KnowledgeHouse Everyday Non-Fiction,Books,Non-Fiction,KnowledgeHouse,750,490,478,4.5,2024-05-03
+P00297,DermaCare Ultra Fragrances,Beauty & Personal Care,Fragrances,DermaCare,2780,1950,30,4.6,2024-01-06
+P00298,Auralink Smart Cameras,Electronics,Cameras,Auralink,70440,38140,435,4.6,2024-02-17
+P00299,StyleCraft Premium Trousers,Fashion,Trousers,StyleCraft,7150,4730,253,3.4,2024-09-06
+P00300,KnowledgeHouse Premium Technology,Books,Technology,KnowledgeHouse,1320,790,54,4.6,2023-07-23
+P00301,UrbanHome Everyday Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,17380,10900,480,3.3,2024-04-11
+P00302,RunX Smart Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,3940,2700,374,3.9,2024-12-11
+P00303,KitchenPro Premium Lighting,Home & Kitchen,Lighting,KitchenPro,24340,16600,151,4.1,2024-05-06
+P00304,TrendRoot Pro Shirts,Fashion,Shirts,TrendRoot,7070,4600,167,3.1,2023-04-23
+P00305,PageTurner Advanced Fiction,Books,Fiction,PageTurner,2060,1410,127,2.7,2023-01-15
+P00306,PureSkin Ultra Haircare,Beauty & Personal Care,Haircare,PureSkin,2850,1980,370,4.1,2024-12-12
+P00307,CasaLiving Smart Lighting,Home & Kitchen,Lighting,CasaLiving,2240,1270,238,3.6,2025-05-24
+P00308,AuraBeauty Classic Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,5380,2580,151,3.7,2023-06-05
+P00309,StyleCraft Elite Shirts,Fashion,Shirts,StyleCraft,1550,990,310,3.8,2023-04-24
+P00310,InsightBooks Everyday Self Help,Books,Self Help,InsightBooks,990,530,348,4.3,2025-04-15
+P00311,TechSphere Everyday Tablets,Electronics,Tablets,TechSphere,47720,36870,288,3.2,2023-11-28
+P00312,ActivePro Modern Sportswear,Sports & Fitness,Sportswear,ActivePro,17840,13340,167,4.5,2025-02-24
+P00313,DermaCare Modern Skincare,Beauty & Personal Care,Skincare,DermaCare,4150,3190,261,3.9,2024-02-16
+P00314,PixelPro Everyday Smartwatches,Electronics,Smartwatches,PixelPro,54750,35050,29,4.0,2023-07-25
+P00315,KnowledgeHouse Pro Technology,Books,Technology,KnowledgeHouse,1140,590,381,3.5,2024-06-26
+P00316,TechSphere Essential Smartphones,Electronics,Smartphones,TechSphere,8660,5290,30,4.6,2023-04-17
+P00317,NovaTech Ultra Smartwatches,Electronics,Smartwatches,NovaTech,53890,39720,69,4.3,2024-01-15
+P00318,InsightBooks Essential Academic,Books,Academic,InsightBooks,1670,1070,469,4.6,2024-07-28
+P00319,BloomCare Advanced Skincare,Beauty & Personal Care,Skincare,BloomCare,5500,2740,60,3.4,2024-03-18
+P00320,FlexFit Advanced Outdoor Sports,Sports & Fitness,Outdoor Sports,FlexFit,7550,3830,387,2.8,2023-09-03
+P00321,ComfortCraft Pro Storage,Home & Kitchen,Storage,ComfortCraft,17630,11760,117,3.5,2024-11-11
+P00322,CasaLiving Smart Furniture,Home & Kitchen,Furniture,CasaLiving,23960,12750,16,4.4,2025-04-23
+P00323,GlowPure Smart Personal Care,Beauty & Personal Care,Personal Care,GlowPure,1840,1430,304,2.9,2024-04-14
+P00324,ActivePro Premium Running,Sports & Fitness,Running,ActivePro,13430,8680,276,3.5,2025-04-01
+P00325,Auralink Ultra Laptops,Electronics,Laptops,Auralink,30990,15940,374,4.1,2023-01-13
+P00326,RunX Smart Sportswear,Sports & Fitness,Sportswear,RunX,10140,5000,338,4.0,2025-05-11
+P00327,AuraBeauty Premium Makeup,Beauty & Personal Care,Makeup,AuraBeauty,4710,2200,450,4.3,2024-04-10
+P00328,ClassicFit Pro Footwear,Fashion,Footwear,ClassicFit,4850,3040,497,3.7,2023-06-10
+P00329,InsightBooks Everyday Academic,Books,Academic,InsightBooks,1400,780,209,3.3,2023-07-28
+P00330,BloomCare Elite Haircare,Beauty & Personal Care,Haircare,BloomCare,2120,1070,153,4.5,2024-02-15
+P00331,ModeWear Premium Jackets,Fashion,Jackets,ModeWear,4910,3220,213,4.0,2023-06-29
+P00332,StyleCraft Ultra Trousers,Fashion,Trousers,StyleCraft,1960,1340,40,4.6,2023-06-16
+P00333,ComfortCraft Smart Cookware,Home & Kitchen,Cookware,ComfortCraft,1890,1330,344,4.1,2025-05-09
+P00334,NovaTech Smart Accessories,Electronics,Accessories,NovaTech,77320,42250,286,3.5,2023-08-30
+P00335,StreetLine Ultra Jackets,Fashion,Jackets,StreetLine,7750,6160,479,3.4,2024-02-28
+P00336,InsightBooks Smart Fiction,Books,Fiction,InsightBooks,940,620,122,4.0,2024-03-13
+P00337,UrbanHome Everyday Storage,Home & Kitchen,Storage,UrbanHome,21460,14470,133,3.7,2023-11-24
+P00338,GlowPure Elite Fragrances,Beauty & Personal Care,Fragrances,GlowPure,2770,1330,189,3.7,2024-06-16
+P00339,PixelPro Advanced Tablets,Electronics,Tablets,PixelPro,2420,1720,478,4.1,2023-11-13
+P00340,ReadMore Advanced Business,Books,Business,ReadMore,900,620,194,4.1,2024-02-15
+P00341,TrendRoot Essential Trousers,Fashion,Trousers,TrendRoot,2410,1280,250,4.7,2025-02-24
+P00342,InsightBooks Elite Academic,Books,Academic,InsightBooks,790,430,180,3.3,2025-01-28
+P00343,InsightBooks Advanced Self Help,Books,Self Help,InsightBooks,2320,1050,490,3.0,2024-01-26
+P00344,NovaTech Premium Accessories,Electronics,Accessories,NovaTech,1140,750,431,4.1,2023-03-20
+P00345,PixelPro Premium Cameras,Electronics,Cameras,PixelPro,28970,18050,191,3.0,2023-05-24
+P00346,LearnPress Elite Academic,Books,Academic,LearnPress,2100,1670,272,4.0,2024-10-20
+P00347,Auralink Ultra Smartphones,Electronics,Smartphones,Auralink,70520,32290,8,4.0,2024-03-05
+P00348,InsightBooks Advanced Academic,Books,Academic,InsightBooks,540,260,268,3.3,2023-03-10
+P00349,TrendRoot Ultra Dresses,Fashion,Dresses,TrendRoot,6980,4720,407,3.8,2023-01-06
+P00350,UrbanHome Modern Storage,Home & Kitchen,Storage,UrbanHome,8170,3700,115,3.6,2024-06-02
+P00351,ZenByte Premium Cameras,Electronics,Cameras,ZenByte,12560,8270,193,4.0,2023-07-23
+P00352,NovaTech Advanced Cameras,Electronics,Cameras,NovaTech,11140,6960,222,4.2,2024-02-11
+P00353,HomeNest Everyday Home Decor,Home & Kitchen,Home Decor,HomeNest,1590,1140,461,4.5,2023-09-09
+P00354,RunX Premium Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,2690,1510,143,4.6,2024-11-17
+P00355,ActivePro Essential Running,Sports & Fitness,Running,ActivePro,760,350,300,3.3,2025-05-07
+P00356,KnowledgeHouse Ultra Business,Books,Business,KnowledgeHouse,760,460,290,4.4,2024-10-26
+P00357,AuraBeauty Pro Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,1300,680,352,4.3,2025-05-21
+P00358,FitCore Classic Yoga,Sports & Fitness,Yoga,FitCore,14570,10470,38,3.7,2023-01-16
+P00359,SportEdge Essential Sportswear,Sports & Fitness,Sportswear,SportEdge,1220,710,401,4.9,2023-06-23
+P00360,AuraBeauty Everyday Haircare,Beauty & Personal Care,Haircare,AuraBeauty,3220,2090,348,4.1,2023-04-27
+P00361,BloomCare Ultra Skincare,Beauty & Personal Care,Skincare,BloomCare,2170,1190,42,3.6,2023-08-20
+P00362,PureSkin Essential Haircare,Beauty & Personal Care,Haircare,PureSkin,3100,2360,2,4.7,2025-04-27
+P00363,AuraBeauty Classic Makeup,Beauty & Personal Care,Makeup,AuraBeauty,1240,950,220,3.9,2023-02-25
+P00364,SportEdge Classic Sportswear,Sports & Fitness,Sportswear,SportEdge,1110,850,283,3.1,2024-07-27
+P00365,SportEdge Premium Yoga,Sports & Fitness,Yoga,SportEdge,9810,6430,398,3.1,2025-06-23
+P00366,FlexFit Everyday Gym Equipment,Sports & Fitness,Gym Equipment,FlexFit,5810,3250,86,3.3,2025-05-08
+P00367,UrbanHome Advanced Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,2270,1680,141,3.8,2023-08-19
+P00368,AuraBeauty Ultra Skincare,Beauty & Personal Care,Skincare,AuraBeauty,2170,1190,253,4.1,2024-10-29
+P00369,UrbanThread Advanced Trousers,Fashion,Trousers,UrbanThread,2800,2230,202,3.7,2023-07-17
+P00370,RunX Elite Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,11220,7280,421,4.5,2023-03-06
+P00371,RunX Essential Gym Equipment,Sports & Fitness,Gym Equipment,RunX,6830,4320,90,4.7,2024-04-23
+P00372,UrbanHome Modern Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,8140,5580,143,4.4,2024-07-20
+P00373,GlowPure Modern Makeup,Beauty & Personal Care,Makeup,GlowPure,1790,1060,279,3.4,2023-03-03
+P00374,SportEdge Smart Running,Sports & Fitness,Running,SportEdge,14620,7610,425,4.2,2024-07-09
+P00375,DermaCare Ultra Fragrances,Beauty & Personal Care,Fragrances,DermaCare,2130,1520,78,4.2,2023-11-23
+P00376,PureSkin Modern Skincare,Beauty & Personal Care,Skincare,PureSkin,4080,2430,273,4.0,2024-01-23
+P00377,LearnPress Premium Business,Books,Business,LearnPress,1570,870,415,4.0,2023-06-09
+P00378,KnowledgeHouse Smart Fiction,Books,Fiction,KnowledgeHouse,1550,1150,313,2.9,2024-07-03
+P00379,InsightBooks Essential Academic,Books,Academic,InsightBooks,1860,1420,50,3.5,2025-05-19
+P00380,FlexFit Modern Sportswear,Sports & Fitness,Sportswear,FlexFit,19100,13800,191,3.8,2024-09-23
+P00381,LearnPress Advanced Self Help,Books,Self Help,LearnPress,1510,680,247,3.2,2023-08-29
+P00382,GlowPure Advanced Skincare,Beauty & Personal Care,Skincare,GlowPure,3000,2070,233,4.3,2024-01-03
+P00383,RunX Elite Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,3450,2230,356,3.9,2023-09-10
+P00384,NovaTech Classic Headphones,Electronics,Headphones,NovaTech,3260,1640,331,3.2,2023-10-03
+P00385,StyleCraft Everyday Footwear,Fashion,Footwear,StyleCraft,1730,1050,169,4.0,2024-10-02
+P00386,PureSkin Advanced Haircare,Beauty & Personal Care,Haircare,PureSkin,1680,970,221,3.8,2023-02-08
+P00387,PageTurner Elite Self Help,Books,Self Help,PageTurner,1860,1230,360,3.5,2023-10-06
+P00388,HomeNest Modern Lighting,Home & Kitchen,Lighting,HomeNest,3530,1840,274,3.4,2024-05-31
+P00389,UrbanHome Classic Furniture,Home & Kitchen,Furniture,UrbanHome,8800,4970,250,4.0,2024-10-01
+P00390,LearnPress Pro Technology,Books,Technology,LearnPress,1710,1020,178,3.7,2024-01-21
+P00391,DermaCare Ultra Personal Care,Beauty & Personal Care,Personal Care,DermaCare,5180,3070,344,3.3,2024-02-19
+P00392,Voltix Classic Laptops,Electronics,Laptops,Voltix,24290,16260,72,4.0,2023-09-05
+P00393,DermaCare Modern Personal Care,Beauty & Personal Care,Personal Care,DermaCare,3290,2140,249,4.1,2023-06-17
+P00394,PageTurner Everyday Academic,Books,Academic,PageTurner,780,490,71,3.4,2024-08-17
+P00395,GlowPure Essential Personal Care,Beauty & Personal Care,Personal Care,GlowPure,230,140,99,4.4,2023-03-02
+P00396,SportEdge Pro Sportswear,Sports & Fitness,Sportswear,SportEdge,16360,10710,430,3.9,2025-01-01
+P00397,TrendRoot Premium T-Shirts,Fashion,T-Shirts,TrendRoot,6820,3640,149,2.9,2023-12-12
+P00398,StreetLine Advanced Dresses,Fashion,Dresses,StreetLine,6700,4290,380,4.3,2023-11-07
+P00399,BloomCare Classic Personal Care,Beauty & Personal Care,Personal Care,BloomCare,4840,3680,396,4.0,2024-12-16
+P00400,HomeNest Elite Home Decor,Home & Kitchen,Home Decor,HomeNest,18100,13100,217,3.2,2024-06-27
+P00401,ReadMore Premium Non-Fiction,Books,Non-Fiction,ReadMore,1940,1370,441,4.4,2024-04-19
+P00402,DermaCare Smart Skincare,Beauty & Personal Care,Skincare,DermaCare,4970,2780,440,4.2,2023-12-20
+P00403,PageTurner Modern Business,Books,Business,PageTurner,670,350,416,3.4,2023-12-13
+P00404,Voltix Everyday Tablets,Electronics,Tablets,Voltix,37140,21950,86,3.7,2023-02-06
+P00405,ReadMore Modern Technology,Books,Technology,ReadMore,1200,560,263,4.8,2023-10-28
+P00406,PageTurner Pro Fiction,Books,Fiction,PageTurner,340,150,443,4.2,2024-09-10
+P00407,PageTurner Advanced Non-Fiction,Books,Non-Fiction,PageTurner,1420,720,389,4.4,2024-05-24
+P00408,DermaCare Modern Fragrances,Beauty & Personal Care,Fragrances,DermaCare,5330,3760,212,3.8,2024-03-08
+P00409,NovaTech Pro Cameras,Electronics,Cameras,NovaTech,67880,36490,355,4.6,2023-04-18
+P00410,UrbanHome Essential Storage,Home & Kitchen,Storage,UrbanHome,19270,15400,396,4.4,2024-03-09
+P00411,TechSphere Essential Cameras,Electronics,Cameras,TechSphere,8600,4490,203,3.5,2024-06-29
+P00412,PureSkin Ultra Haircare,Beauty & Personal Care,Haircare,PureSkin,2790,1420,172,4.0,2025-03-02
+P00413,ModeWear Essential Dresses,Fashion,Dresses,ModeWear,7620,4280,24,2.9,2024-09-12
+P00414,KnowledgeHouse Classic Business,Books,Business,KnowledgeHouse,750,480,0,4.9,2025-04-12
+P00415,DermaCare Ultra Haircare,Beauty & Personal Care,Haircare,DermaCare,1450,720,448,3.6,2024-05-29
+P00416,ReadMore Classic Technology,Books,Technology,ReadMore,1620,920,332,3.3,2023-02-12
+P00417,DermaCare Pro Makeup,Beauty & Personal Care,Makeup,DermaCare,5520,4240,48,2.6,2023-06-29
+P00418,DermaCare Modern Skincare,Beauty & Personal Care,Skincare,DermaCare,2000,1240,227,2.7,2024-02-10
+P00419,KnowledgeHouse Pro Technology,Books,Technology,KnowledgeHouse,640,400,117,3.8,2023-10-05
+P00420,KnowledgeHouse Essential Fiction,Books,Fiction,KnowledgeHouse,1600,790,70,3.8,2025-06-20
+P00421,ClassicFit Advanced Footwear,Fashion,Footwear,ClassicFit,860,530,4,4.1,2024-02-17
+P00422,StreetLine Smart Trousers,Fashion,Trousers,StreetLine,5440,2930,470,3.8,2023-03-01
+P00423,PageTurner Classic Business,Books,Business,PageTurner,510,380,63,4.1,2023-06-18
+P00424,PureSkin Essential Makeup,Beauty & Personal Care,Makeup,PureSkin,1300,930,330,3.1,2024-11-06
+P00425,FlexFit Modern Sportswear,Sports & Fitness,Sportswear,FlexFit,9590,5060,353,2.8,2024-06-21
+P00426,PageTurner Everyday Technology,Books,Technology,PageTurner,2190,1610,200,3.6,2024-05-02
+P00427,PixelPro Elite Accessories,Electronics,Accessories,PixelPro,50880,38700,255,4.1,2024-11-08
+P00428,NovaTech Essential Tablets,Electronics,Tablets,NovaTech,41780,31490,440,4.4,2025-03-05
+P00429,BloomCare Advanced Makeup,Beauty & Personal Care,Makeup,BloomCare,4010,1870,394,3.1,2023-06-29
+P00430,FitCore Ultra Running,Sports & Fitness,Running,FitCore,7320,5750,30,4.7,2024-08-21
+P00431,AuraBeauty Everyday Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,3550,2310,205,3.1,2025-06-14
+P00432,FlexFit Advanced Sportswear,Sports & Fitness,Sportswear,FlexFit,9340,7200,40,4.0,2023-10-23
+P00433,StyleCraft Everyday Jackets,Fashion,Jackets,StyleCraft,2980,1980,324,4.3,2024-01-31
+P00434,KnowledgeHouse Ultra Academic,Books,Academic,KnowledgeHouse,1890,1030,433,3.5,2023-03-10
+P00435,ModeWear Classic T-Shirts,Fashion,T-Shirts,ModeWear,4010,2350,28,3.6,2024-11-08
+P00436,PageTurner Classic Academic,Books,Academic,PageTurner,150,80,359,2.7,2023-01-03
+P00437,BloomCare Everyday Makeup,Beauty & Personal Care,Makeup,BloomCare,2270,1680,64,4.3,2025-03-18
+P00438,HomeNest Premium Lighting,Home & Kitchen,Lighting,HomeNest,11180,5790,139,4.0,2025-04-16
+P00439,ComfortCraft Classic Lighting,Home & Kitchen,Lighting,ComfortCraft,16460,10550,184,3.0,2023-11-03
+P00440,RunX Advanced Gym Equipment,Sports & Fitness,Gym Equipment,RunX,8610,4560,457,4.1,2024-07-19
+P00441,PageTurner Everyday Fiction,Books,Fiction,PageTurner,110,90,441,2.7,2024-10-31
+P00442,Voltix Pro Smartwatches,Electronics,Smartwatches,Voltix,19970,14730,491,4.5,2023-04-19
+P00443,ActivePro Essential Outdoor Sports,Sports & Fitness,Outdoor Sports,ActivePro,8380,5480,368,3.7,2024-05-27
+P00444,Voltix Classic Tablets,Electronics,Tablets,Voltix,66100,37300,26,3.4,2024-05-02
+P00445,SportEdge Classic Running,Sports & Fitness,Running,SportEdge,15490,7700,396,4.4,2023-07-13
+P00446,ComfortCraft Elite Cookware,Home & Kitchen,Cookware,ComfortCraft,460,310,149,4.0,2024-04-11
+P00447,ComfortCraft Smart Lighting,Home & Kitchen,Lighting,ComfortCraft,15400,10340,497,3.9,2025-02-26
+P00448,TrendRoot Smart Footwear,Fashion,Footwear,TrendRoot,1530,1220,209,2.8,2024-04-25
+P00449,FitCore Essential Yoga,Sports & Fitness,Yoga,FitCore,300,160,192,4.5,2024-09-26
+P00450,KnowledgeHouse Smart Technology,Books,Technology,KnowledgeHouse,2270,1030,214,3.9,2024-05-21
+P00451,ZenByte Ultra Laptops,Electronics,Laptops,ZenByte,12490,9800,118,4.5,2024-09-17
+P00452,RunX Elite Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,3030,1810,258,3.3,2024-04-04
+P00453,BloomCare Modern Skincare,Beauty & Personal Care,Skincare,BloomCare,660,430,493,3.2,2025-05-11
+P00454,CasaLiving Pro Kitchen Appliances,Home & Kitchen,Kitchen Appliances,CasaLiving,23160,11780,167,3.7,2023-07-17
+P00455,HomeNest Smart Furniture,Home & Kitchen,Furniture,HomeNest,4660,2460,299,3.2,2023-10-26
+P00456,TechSphere Elite Laptops,Electronics,Laptops,TechSphere,41460,27270,274,3.7,2024-10-15
+P00457,StreetLine Elite Trousers,Fashion,Trousers,StreetLine,2470,1240,46,3.3,2024-08-11
+P00458,LearnPress Premium Technology,Books,Technology,LearnPress,980,500,167,3.3,2023-09-28
+P00459,ReadMore Pro Non-Fiction,Books,Non-Fiction,ReadMore,2200,1720,153,3.6,2025-06-03
+P00460,ModeWear Elite T-Shirts,Fashion,T-Shirts,ModeWear,4850,2610,127,3.1,2024-04-12
+P00461,PixelPro Classic Accessories,Electronics,Accessories,PixelPro,1870,1460,399,4.8,2024-09-22
+P00462,ModeWear Essential Shirts,Fashion,Shirts,ModeWear,5920,3430,330,3.1,2025-05-01
+P00463,FitCore Premium Yoga,Sports & Fitness,Yoga,FitCore,2360,1720,330,3.9,2023-01-01
+P00464,StreetLine Classic T-Shirts,Fashion,T-Shirts,StreetLine,650,310,25,3.3,2024-04-17
+P00465,SportEdge Elite Outdoor Sports,Sports & Fitness,Outdoor Sports,SportEdge,1220,810,218,3.4,2024-03-21
+P00466,StreetLine Ultra Shirts,Fashion,Shirts,StreetLine,3950,1940,17,4.1,2023-11-23
+P00467,RunX Elite Gym Equipment,Sports & Fitness,Gym Equipment,RunX,13750,6750,245,3.0,2024-10-29
+P00468,KitchenPro Pro Storage,Home & Kitchen,Storage,KitchenPro,6740,3880,408,4.0,2025-06-19
+P00469,KnowledgeHouse Pro Self Help,Books,Self Help,KnowledgeHouse,1570,990,400,3.9,2024-05-15
+P00470,RunX Pro Sportswear,Sports & Fitness,Sportswear,RunX,9110,6710,163,4.1,2024-12-23
+P00471,Voltix Premium Accessories,Electronics,Accessories,Voltix,62120,38190,392,4.1,2024-11-17
+P00472,UrbanThread Smart Shirts,Fashion,Shirts,UrbanThread,5680,4060,273,4.4,2024-11-17
+P00473,PageTurner Modern Fiction,Books,Fiction,PageTurner,1690,1140,429,4.9,2023-11-28
+P00474,StyleCraft Modern Shirts,Fashion,Shirts,StyleCraft,2900,1500,357,3.7,2025-03-05
+P00475,RunX Modern Running,Sports & Fitness,Running,RunX,18720,14040,485,3.4,2025-01-05
+P00476,AuraBeauty Advanced Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,4170,3280,28,3.5,2023-09-21
+P00477,TrendRoot Elite T-Shirts,Fashion,T-Shirts,TrendRoot,300,210,314,3.4,2023-05-12
+P00478,ClassicFit Advanced Jeans,Fashion,Jeans,ClassicFit,7830,4060,444,3.7,2024-03-16
+P00479,Auralink Advanced Laptops,Electronics,Laptops,Auralink,14840,7480,440,3.7,2025-03-11
+P00480,ZenByte Pro Headphones,Electronics,Headphones,ZenByte,77110,58960,154,3.7,2024-06-04
+P00481,ModeWear Elite Footwear,Fashion,Footwear,ModeWear,5620,3870,362,4.7,2023-05-26
+P00482,ReadMore Smart Self Help,Books,Self Help,ReadMore,820,550,375,4.2,2023-12-31
+P00483,ClassicFit Premium Shirts,Fashion,Shirts,ClassicFit,6050,2830,200,4.5,2024-04-27
+P00484,ActivePro Modern Running,Sports & Fitness,Running,ActivePro,10680,5100,495,4.1,2023-12-15
+P00485,KnowledgeHouse Elite Self Help,Books,Self Help,KnowledgeHouse,680,470,39,3.5,2023-11-06
+P00486,HomeNest Essential Furniture,Home & Kitchen,Furniture,HomeNest,14840,11810,107,3.5,2023-08-17
+P00487,Voltix Classic Headphones,Electronics,Headphones,Voltix,470,370,224,4.3,2023-02-07
+P00488,ModeWear Pro Trousers,Fashion,Trousers,ModeWear,3180,1940,51,4.4,2023-03-13
+P00489,ActivePro Elite Gym Equipment,Sports & Fitness,Gym Equipment,ActivePro,2660,1380,17,3.6,2024-01-16
+P00490,HomeNest Classic Kitchen Appliances,Home & Kitchen,Kitchen Appliances,HomeNest,11400,8440,192,3.3,2025-01-08
+P00491,NovaTech Essential Tablets,Electronics,Tablets,NovaTech,78160,35570,457,3.9,2023-04-24
+P00492,ZenByte Advanced Smartwatches,Electronics,Smartwatches,ZenByte,79900,39040,80,3.0,2024-12-08
+P00493,KitchenPro Pro Furniture,Home & Kitchen,Furniture,KitchenPro,23040,13960,473,4.3,2024-10-05
+P00494,CasaLiving Ultra Lighting,Home & Kitchen,Lighting,CasaLiving,7980,6120,201,4.1,2025-06-13
+P00495,GlowPure Essential Haircare,Beauty & Personal Care,Haircare,GlowPure,180,120,150,4.4,2023-10-30
+P00496,InsightBooks Smart Self Help,Books,Self Help,InsightBooks,500,400,87,4.1,2024-08-19
+P00497,NovaTech Ultra Smartwatches,Electronics,Smartwatches,NovaTech,52400,33280,458,4.2,2025-02-06
+P00498,Auralink Pro Cameras,Electronics,Cameras,Auralink,24530,16440,195,3.8,2024-09-12
+P00499,AuraBeauty Elite Skincare,Beauty & Personal Care,Skincare,AuraBeauty,3960,2800,428,3.6,2024-01-15
+P00500,ZenByte Classic Laptops,Electronics,Laptops,ZenByte,11530,6530,413,4.0,2023-08-18
+P00501,FlexFit Premium Gym Equipment,Sports & Fitness,Gym Equipment,FlexFit,12930,6640,214,4.7,2023-01-09
+P00502,LearnPress Smart Business,Books,Business,LearnPress,2050,1430,202,4.6,2023-06-15
+P00503,LearnPress Modern Fiction,Books,Fiction,LearnPress,2220,1150,346,4.8,2024-10-22
+P00504,ModeWear Advanced T-Shirts,Fashion,T-Shirts,ModeWear,1670,770,413,3.4,2023-12-06
+P00505,NovaTech Pro Smartwatches,Electronics,Smartwatches,NovaTech,26760,12070,321,3.3,2023-10-01
+P00506,RunX Classic Yoga,Sports & Fitness,Yoga,RunX,3100,2060,203,4.0,2025-03-15
+P00507,UrbanHome Premium Home Decor,Home & Kitchen,Home Decor,UrbanHome,23150,13470,267,4.3,2024-12-22
+P00508,PixelPro Advanced Smartwatches,Electronics,Smartwatches,PixelPro,74560,44310,388,4.7,2023-03-20
+P00509,Auralink Classic Smartphones,Electronics,Smartphones,Auralink,37800,18760,450,3.7,2025-05-15
+P00510,PureSkin Elite Makeup,Beauty & Personal Care,Makeup,PureSkin,4840,2840,19,3.4,2024-01-23
+P00511,BloomCare Modern Haircare,Beauty & Personal Care,Haircare,BloomCare,5730,3190,19,3.8,2023-07-08
+P00512,KitchenPro Premium Lighting,Home & Kitchen,Lighting,KitchenPro,24640,15610,137,4.5,2024-12-10
+P00513,Voltix Ultra Headphones,Electronics,Headphones,Voltix,37040,18710,439,4.2,2023-07-27
+P00514,PixelPro Advanced Accessories,Electronics,Accessories,PixelPro,39680,18210,226,4.3,2024-12-22
+P00515,UrbanHome Modern Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,21350,16410,226,3.4,2025-04-05
+P00516,BloomCare Essential Fragrances,Beauty & Personal Care,Fragrances,BloomCare,610,380,81,3.0,2025-05-18
+P00517,InsightBooks Advanced Self Help,Books,Self Help,InsightBooks,2250,1110,14,3.4,2024-05-07
+P00518,UrbanThread Smart Jackets,Fashion,Jackets,UrbanThread,570,360,470,3.7,2024-11-18
+P00519,StreetLine Elite Jeans,Fashion,Jeans,StreetLine,4440,2940,472,3.2,2025-02-23
+P00520,Voltix Elite Laptops,Electronics,Laptops,Voltix,78160,50320,491,4.5,2024-10-24
+P00521,RunX Essential Sportswear,Sports & Fitness,Sportswear,RunX,5610,2840,132,4.3,2025-05-01
+P00522,ReadMore Premium Fiction,Books,Fiction,ReadMore,1680,1310,437,4.1,2024-11-23
+P00523,StyleCraft Smart Jackets,Fashion,Jackets,StyleCraft,5850,4260,333,3.8,2023-09-05
+P00524,ZenByte Premium Accessories,Electronics,Accessories,ZenByte,62440,30030,331,3.4,2025-01-07
+P00525,Voltix Modern Laptops,Electronics,Laptops,Voltix,40340,22210,363,4.2,2024-11-30
+P00526,AuraBeauty Elite Fragrances,Beauty & Personal Care,Fragrances,AuraBeauty,2210,1600,154,4.2,2024-02-07
+P00527,FlexFit Classic Outdoor Sports,Sports & Fitness,Outdoor Sports,FlexFit,490,300,339,4.7,2024-01-20
+P00528,ComfortCraft Modern Home Decor,Home & Kitchen,Home Decor,ComfortCraft,9460,6580,55,3.9,2024-03-06
+P00529,CasaLiving Ultra Kitchen Appliances,Home & Kitchen,Kitchen Appliances,CasaLiving,8760,5000,487,4.5,2025-03-20
+P00530,KitchenPro Everyday Furniture,Home & Kitchen,Furniture,KitchenPro,8070,3910,412,4.5,2025-01-22
+P00531,RunX Advanced Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,1080,620,151,3.6,2024-01-07
+P00532,PureSkin Premium Fragrances,Beauty & Personal Care,Fragrances,PureSkin,4930,2720,292,4.4,2024-03-02
+P00533,KitchenPro Everyday Lighting,Home & Kitchen,Lighting,KitchenPro,21120,11090,464,4.7,2024-11-14
+P00534,CasaLiving Advanced Home Decor,Home & Kitchen,Home Decor,CasaLiving,21750,10730,92,3.6,2023-05-01
+P00535,AuraBeauty Everyday Haircare,Beauty & Personal Care,Haircare,AuraBeauty,1650,770,460,3.7,2024-03-19
+P00536,Voltix Smart Laptops,Electronics,Laptops,Voltix,40550,26470,454,3.7,2023-12-31
+P00537,CasaLiving Elite Home Decor,Home & Kitchen,Home Decor,CasaLiving,4060,2580,443,4.1,2024-02-27
+P00538,FitCore Elite Sportswear,Sports & Fitness,Sportswear,FitCore,6620,4140,444,4.2,2024-06-05
+P00539,SportEdge Premium Yoga,Sports & Fitness,Yoga,SportEdge,5190,3900,102,3.7,2024-05-11
+P00540,ActivePro Essential Outdoor Sports,Sports & Fitness,Outdoor Sports,ActivePro,6160,3250,249,3.7,2025-04-19
+P00541,ClassicFit Premium Jeans,Fashion,Jeans,ClassicFit,340,220,107,4.3,2023-05-06
+P00542,StyleCraft Elite Dresses,Fashion,Dresses,StyleCraft,6730,3590,45,3.2,2023-08-03
+P00543,PureSkin Pro Fragrances,Beauty & Personal Care,Fragrances,PureSkin,4060,2700,19,4.0,2023-08-23
+P00544,KnowledgeHouse Essential Technology,Books,Technology,KnowledgeHouse,2280,1670,346,2.6,2023-12-26
+P00545,PageTurner Essential Non-Fiction,Books,Non-Fiction,PageTurner,1380,1040,196,4.0,2024-08-18
+P00546,HomeNest Premium Furniture,Home & Kitchen,Furniture,HomeNest,9970,4670,233,4.3,2023-08-26
+P00547,RunX Pro Sportswear,Sports & Fitness,Sportswear,RunX,4630,3150,461,3.9,2023-11-29
+P00548,ModeWear Premium Shirts,Fashion,Shirts,ModeWear,2170,1570,67,3.4,2023-04-10
+P00549,Auralink Advanced Tablets,Electronics,Tablets,Auralink,16440,11040,333,4.4,2024-10-06
+P00550,BloomCare Modern Makeup,Beauty & Personal Care,Makeup,BloomCare,550,330,24,4.2,2024-09-25
+P00551,KnowledgeHouse Classic Fiction,Books,Fiction,KnowledgeHouse,1810,1170,63,4.0,2024-05-29
+P00552,DermaCare Premium Haircare,Beauty & Personal Care,Haircare,DermaCare,2620,1710,51,4.2,2025-04-22
+P00553,ComfortCraft Advanced Home Decor,Home & Kitchen,Home Decor,ComfortCraft,13920,7090,53,4.0,2024-12-24
+P00554,RunX Classic Running,Sports & Fitness,Running,RunX,3730,2330,311,3.4,2024-10-07
+P00555,KitchenPro Essential Home Decor,Home & Kitchen,Home Decor,KitchenPro,23250,15270,82,2.9,2023-04-07
+P00556,PureSkin Essential Haircare,Beauty & Personal Care,Haircare,PureSkin,2070,1650,343,3.1,2023-11-18
+P00557,Auralink Elite Accessories,Electronics,Accessories,Auralink,19850,9280,399,4.0,2024-10-14
+P00558,KnowledgeHouse Ultra Academic,Books,Academic,KnowledgeHouse,1050,670,500,3.6,2024-08-28
+P00559,GlowPure Advanced Skincare,Beauty & Personal Care,Skincare,GlowPure,470,240,184,4.4,2025-06-26
+P00560,HomeNest Classic Storage,Home & Kitchen,Storage,HomeNest,1700,1350,70,4.2,2023-01-31
+P00561,StreetLine Elite Jeans,Fashion,Jeans,StreetLine,5390,3810,375,3.1,2025-06-13
+P00562,HomeNest Pro Furniture,Home & Kitchen,Furniture,HomeNest,13320,6170,139,4.4,2024-08-13
+P00563,InsightBooks Advanced Business,Books,Business,InsightBooks,560,420,371,3.0,2025-01-10
+P00564,ModeWear Modern T-Shirts,Fashion,T-Shirts,ModeWear,4250,2210,347,3.9,2023-01-10
+P00565,RunX Modern Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,1190,590,450,4.4,2024-06-30
+P00566,ModeWear Classic Trousers,Fashion,Trousers,ModeWear,7570,4970,23,3.0,2024-04-08
+P00567,KnowledgeHouse Everyday Technology,Books,Technology,KnowledgeHouse,2460,1340,114,4.8,2024-08-28
+P00568,LearnPress Everyday Technology,Books,Technology,LearnPress,490,320,372,3.5,2024-10-12
+P00569,UrbanHome Advanced Lighting,Home & Kitchen,Lighting,UrbanHome,18500,9020,313,3.0,2025-04-16
+P00570,LearnPress Elite Non-Fiction,Books,Non-Fiction,LearnPress,2130,1060,38,4.3,2025-04-28
+P00571,CasaLiving Ultra Furniture,Home & Kitchen,Furniture,CasaLiving,1850,1150,281,4.2,2023-12-09
+P00572,GlowPure Elite Haircare,Beauty & Personal Care,Haircare,GlowPure,3790,1970,229,3.1,2025-01-28
+P00573,AuraBeauty Classic Fragrances,Beauty & Personal Care,Fragrances,AuraBeauty,4220,2280,9,3.2,2023-12-07
+P00574,BloomCare Everyday Skincare,Beauty & Personal Care,Skincare,BloomCare,150,80,405,4.1,2024-02-28
+P00575,FlexFit Everyday Yoga,Sports & Fitness,Yoga,FlexFit,7030,4010,233,4.7,2024-11-08
+P00576,KitchenPro Elite Cookware,Home & Kitchen,Cookware,KitchenPro,11080,6690,317,4.1,2025-01-24
+P00577,ReadMore Elite Academic,Books,Academic,ReadMore,570,440,337,3.5,2023-02-15
+P00578,CasaLiving Everyday Kitchen Appliances,Home & Kitchen,Kitchen Appliances,CasaLiving,17300,11580,54,2.9,2024-08-27
+P00579,StyleCraft Pro Trousers,Fashion,Trousers,StyleCraft,1180,840,100,3.4,2024-06-06
+P00580,PureSkin Smart Haircare,Beauty & Personal Care,Haircare,PureSkin,2920,2230,212,2.9,2024-09-20
+P00581,LearnPress Classic Academic,Books,Academic,LearnPress,1940,1240,301,4.7,2023-09-14
+P00582,UrbanThread Everyday Trousers,Fashion,Trousers,UrbanThread,6330,4960,478,3.9,2024-12-27
+P00583,FlexFit Advanced Outdoor Sports,Sports & Fitness,Outdoor Sports,FlexFit,19210,14200,417,3.2,2023-07-18
+P00584,BloomCare Essential Personal Care,Beauty & Personal Care,Personal Care,BloomCare,4280,2100,214,4.8,2025-04-09
+P00585,ReadMore Pro Non-Fiction,Books,Non-Fiction,ReadMore,1500,690,231,4.4,2023-02-11
+P00586,TrendRoot Everyday Trousers,Fashion,Trousers,TrendRoot,2750,1390,280,4.5,2024-09-04
+P00587,LearnPress Smart Academic,Books,Academic,LearnPress,920,670,365,3.6,2025-05-26
+P00588,KitchenPro Advanced Lighting,Home & Kitchen,Lighting,KitchenPro,16710,10200,326,3.7,2023-02-12
+P00589,Voltix Everyday Accessories,Electronics,Accessories,Voltix,63260,37700,482,4.2,2023-05-11
+P00590,AuraBeauty Pro Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,250,150,12,3.8,2024-10-27
+P00591,NovaTech Smart Cameras,Electronics,Cameras,NovaTech,35290,18970,82,4.8,2023-07-30
+P00592,PageTurner Premium Technology,Books,Technology,PageTurner,1310,950,277,2.9,2024-12-18
+P00593,BloomCare Everyday Skincare,Beauty & Personal Care,Skincare,BloomCare,1990,1070,287,3.8,2023-10-10
+P00594,FitCore Pro Yoga,Sports & Fitness,Yoga,FitCore,12950,8470,403,4.8,2023-03-20
+P00595,HomeNest Premium Home Decor,Home & Kitchen,Home Decor,HomeNest,24570,17490,317,4.5,2024-02-09
+P00596,AuraBeauty Modern Haircare,Beauty & Personal Care,Haircare,AuraBeauty,4630,2510,100,4.3,2024-08-11
+P00597,ModeWear Advanced Jeans,Fashion,Jeans,ModeWear,5890,4560,492,3.4,2024-05-23
+P00598,SportEdge Premium Running,Sports & Fitness,Running,SportEdge,14290,10040,135,3.2,2023-11-25
+P00599,FitCore Essential Yoga,Sports & Fitness,Yoga,FitCore,15530,8570,79,2.9,2024-12-07
+P00600,HomeNest Modern Home Decor,Home & Kitchen,Home Decor,HomeNest,21890,15200,404,4.1,2024-05-22
+P00601,CasaLiving Everyday Cookware,Home & Kitchen,Cookware,CasaLiving,7410,3450,266,3.0,2024-06-08
+P00602,SportEdge Everyday Gym Equipment,Sports & Fitness,Gym Equipment,SportEdge,17850,11760,178,3.5,2024-08-11
+P00603,StreetLine Essential Footwear,Fashion,Footwear,StreetLine,3260,2270,486,4.3,2024-03-08
+P00604,FlexFit Premium Outdoor Sports,Sports & Fitness,Outdoor Sports,FlexFit,4010,2270,228,3.5,2024-10-16
+P00605,LearnPress Smart Self Help,Books,Self Help,LearnPress,260,150,164,3.8,2024-01-27
+P00606,Voltix Everyday Smartwatches,Electronics,Smartwatches,Voltix,37370,29570,264,4.4,2023-05-08
+P00607,ComfortCraft Elite Home Decor,Home & Kitchen,Home Decor,ComfortCraft,16150,12670,459,4.2,2024-12-31
+P00608,HomeNest Classic Home Decor,Home & Kitchen,Home Decor,HomeNest,5680,2610,395,4.0,2023-01-31
+P00609,NovaTech Smart Cameras,Electronics,Cameras,NovaTech,28240,14040,217,4.4,2025-04-17
+P00610,ClassicFit Pro Dresses,Fashion,Dresses,ClassicFit,5600,2880,36,4.3,2023-03-22
+P00611,ModeWear Essential T-Shirts,Fashion,T-Shirts,ModeWear,610,470,27,3.4,2024-06-27
+P00612,HomeNest Modern Home Decor,Home & Kitchen,Home Decor,HomeNest,7660,3690,208,3.8,2023-12-15
+P00613,InsightBooks Essential Business,Books,Business,InsightBooks,170,110,60,4.0,2023-04-17
+P00614,LearnPress Classic Academic,Books,Academic,LearnPress,2500,1960,434,3.1,2023-03-04
+P00615,RunX Ultra Running,Sports & Fitness,Running,RunX,3080,2160,474,3.9,2023-02-18
+P00616,PureSkin Advanced Skincare,Beauty & Personal Care,Skincare,PureSkin,4520,3270,382,3.8,2024-01-20
+P00617,ActivePro Ultra Yoga,Sports & Fitness,Yoga,ActivePro,12480,5800,5,4.0,2023-11-06
+P00618,FitCore Premium Gym Equipment,Sports & Fitness,Gym Equipment,FitCore,410,250,201,4.0,2023-02-01
+P00619,PixelPro Essential Headphones,Electronics,Headphones,PixelPro,28050,18390,330,4.5,2023-08-25
+P00620,StyleCraft Smart Shirts,Fashion,Shirts,StyleCraft,5350,2720,99,3.2,2024-01-06
+P00621,KnowledgeHouse Everyday Self Help,Books,Self Help,KnowledgeHouse,1990,1140,37,3.6,2023-07-16
+P00622,NovaTech Smart Headphones,Electronics,Headphones,NovaTech,76400,48090,169,3.7,2025-01-05
+P00623,PageTurner Classic Academic,Books,Academic,PageTurner,1270,740,460,3.4,2023-06-27
+P00624,AuraBeauty Modern Fragrances,Beauty & Personal Care,Fragrances,AuraBeauty,5550,3850,299,3.3,2025-05-26
+P00625,RunX Pro Yoga,Sports & Fitness,Yoga,RunX,5780,4610,126,4.3,2023-12-05
+P00626,InsightBooks Ultra Academic,Books,Academic,InsightBooks,1570,1180,375,3.7,2024-12-23
+P00627,PureSkin Essential Fragrances,Beauty & Personal Care,Fragrances,PureSkin,2650,1670,55,3.4,2024-02-03
+P00628,RunX Advanced Running,Sports & Fitness,Running,RunX,17900,13090,375,4.5,2024-07-27
+P00629,NovaTech Premium Cameras,Electronics,Cameras,NovaTech,66780,38660,416,4.1,2023-09-18
+P00630,DermaCare Premium Personal Care,Beauty & Personal Care,Personal Care,DermaCare,4670,3310,457,4.9,2023-06-27
+P00631,AuraBeauty Pro Haircare,Beauty & Personal Care,Haircare,AuraBeauty,1980,970,301,4.3,2023-09-12
+P00632,UrbanHome Everyday Furniture,Home & Kitchen,Furniture,UrbanHome,16920,13000,186,4.0,2024-04-28
+P00633,LearnPress Advanced Non-Fiction,Books,Non-Fiction,LearnPress,2200,1650,81,3.4,2023-06-17
+P00634,SportEdge Essential Gym Equipment,Sports & Fitness,Gym Equipment,SportEdge,1570,1140,249,3.5,2025-06-17
+P00635,KitchenPro Premium Kitchen Appliances,Home & Kitchen,Kitchen Appliances,KitchenPro,22110,16090,464,4.4,2023-02-09
+P00636,PureSkin Premium Fragrances,Beauty & Personal Care,Fragrances,PureSkin,480,220,165,3.2,2024-04-29
+P00637,RunX Modern Yoga,Sports & Fitness,Yoga,RunX,18090,10860,192,4.2,2025-06-13
+P00638,HomeNest Everyday Home Decor,Home & Kitchen,Home Decor,HomeNest,8440,5640,464,3.5,2024-08-06
+P00639,AuraBeauty Elite Makeup,Beauty & Personal Care,Makeup,AuraBeauty,4100,2010,3,4.0,2024-09-08
+P00640,StyleCraft Smart Trousers,Fashion,Trousers,StyleCraft,930,580,143,3.4,2023-11-05
+P00641,StreetLine Modern Shirts,Fashion,Shirts,StreetLine,6180,3180,338,3.5,2023-04-29
+P00642,HomeNest Elite Lighting,Home & Kitchen,Lighting,HomeNest,22320,14120,107,4.1,2024-01-13
+P00643,KnowledgeHouse Smart Business,Books,Business,KnowledgeHouse,280,210,303,3.3,2023-06-08
+P00644,KnowledgeHouse Modern Self Help,Books,Self Help,KnowledgeHouse,700,550,132,4.6,2024-04-13
+P00645,FlexFit Modern Outdoor Sports,Sports & Fitness,Outdoor Sports,FlexFit,860,420,372,4.2,2023-07-08
+P00646,KitchenPro Elite Cookware,Home & Kitchen,Cookware,KitchenPro,20070,9080,444,3.9,2025-05-29
+P00647,ModeWear Modern Jackets,Fashion,Jackets,ModeWear,1470,770,420,4.3,2023-03-05
+P00648,RunX Advanced Sportswear,Sports & Fitness,Sportswear,RunX,11480,5480,305,4.1,2024-06-23
+P00649,ModeWear Advanced Trousers,Fashion,Trousers,ModeWear,1190,950,267,4.5,2025-04-07
+P00650,ActivePro Modern Outdoor Sports,Sports & Fitness,Outdoor Sports,ActivePro,3400,2510,461,4.1,2024-10-27
+P00651,Auralink Everyday Accessories,Electronics,Accessories,Auralink,15700,12050,337,3.2,2024-07-29
+P00652,FitCore Pro Sportswear,Sports & Fitness,Sportswear,FitCore,17360,11330,447,2.9,2023-04-18
+P00653,ActivePro Elite Outdoor Sports,Sports & Fitness,Outdoor Sports,ActivePro,12740,8630,411,4.3,2025-02-24
+P00654,KnowledgeHouse Pro Self Help,Books,Self Help,KnowledgeHouse,650,460,392,3.5,2024-06-14
+P00655,Auralink Everyday Headphones,Electronics,Headphones,Auralink,53860,38230,2,4.2,2023-01-20
+P00656,Auralink Classic Tablets,Electronics,Tablets,Auralink,68430,54570,335,3.4,2024-10-14
+P00657,CasaLiving Classic Storage,Home & Kitchen,Storage,CasaLiving,5270,3430,299,3.5,2025-01-31
+P00658,FlexFit Essential Outdoor Sports,Sports & Fitness,Outdoor Sports,FlexFit,9280,4200,203,4.3,2023-06-13
+P00659,BloomCare Elite Personal Care,Beauty & Personal Care,Personal Care,BloomCare,1610,1080,284,3.9,2024-11-04
+P00660,CasaLiving Pro Home Decor,Home & Kitchen,Home Decor,CasaLiving,24310,18270,442,4.2,2024-07-16
+P00661,InsightBooks Advanced Non-Fiction,Books,Non-Fiction,InsightBooks,510,370,205,4.3,2024-12-15
+P00662,FitCore Advanced Sportswear,Sports & Fitness,Sportswear,FitCore,13000,6010,2,4.4,2023-08-26
+P00663,TrendRoot Pro Trousers,Fashion,Trousers,TrendRoot,1020,790,113,3.8,2024-11-07
+P00664,SportEdge Pro Running,Sports & Fitness,Running,SportEdge,17320,12120,493,4.1,2023-10-01
+P00665,ModeWear Elite Footwear,Fashion,Footwear,ModeWear,390,280,336,4.6,2025-03-21
+P00666,ActivePro Premium Yoga,Sports & Fitness,Yoga,ActivePro,19890,12360,357,3.5,2024-02-24
+P00667,UrbanThread Essential Footwear,Fashion,Footwear,UrbanThread,2260,1290,499,3.3,2025-04-16
+P00668,CasaLiving Pro Storage,Home & Kitchen,Storage,CasaLiving,13480,8020,265,2.8,2025-01-21
+P00669,KnowledgeHouse Everyday Fiction,Books,Fiction,KnowledgeHouse,1260,690,286,4.6,2024-12-23
+P00670,CasaLiving Smart Kitchen Appliances,Home & Kitchen,Kitchen Appliances,CasaLiving,20070,9290,232,4.6,2024-11-07
+P00671,RunX Advanced Running,Sports & Fitness,Running,RunX,13590,8460,286,3.1,2024-02-21
+P00672,HomeNest Everyday Kitchen Appliances,Home & Kitchen,Kitchen Appliances,HomeNest,8640,4260,416,4.4,2024-05-15
+P00673,UrbanHome Pro Lighting,Home & Kitchen,Lighting,UrbanHome,18650,11760,124,4.3,2024-01-17
+P00674,BloomCare Premium Fragrances,Beauty & Personal Care,Fragrances,BloomCare,4100,3110,34,3.8,2023-05-15
+P00675,ClassicFit Smart Footwear,Fashion,Footwear,ClassicFit,6850,4720,489,3.7,2024-03-09
+P00676,RunX Smart Running,Sports & Fitness,Running,RunX,9660,7410,344,4.3,2024-12-01
+P00677,ComfortCraft Advanced Cookware,Home & Kitchen,Cookware,ComfortCraft,15820,10920,111,4.5,2024-01-14
+P00678,KitchenPro Elite Furniture,Home & Kitchen,Furniture,KitchenPro,24350,17780,376,3.5,2024-12-22
+P00679,KitchenPro Smart Furniture,Home & Kitchen,Furniture,KitchenPro,8380,4250,182,3.3,2025-06-04
+P00680,NovaTech Elite Smartphones,Electronics,Smartphones,NovaTech,1170,620,277,4.7,2024-08-11
+P00681,BloomCare Essential Makeup,Beauty & Personal Care,Makeup,BloomCare,4180,2030,451,4.5,2024-06-06
+P00682,KitchenPro Everyday Storage,Home & Kitchen,Storage,KitchenPro,9380,6200,384,4.1,2023-02-14
+P00683,TechSphere Elite Tablets,Electronics,Tablets,TechSphere,71180,56130,177,3.8,2025-02-06
+P00684,InsightBooks Classic Non-Fiction,Books,Non-Fiction,InsightBooks,2220,1420,352,2.7,2024-05-19
+P00685,InsightBooks Modern Non-Fiction,Books,Non-Fiction,InsightBooks,510,350,313,4.5,2023-10-10
+P00686,StreetLine Smart Dresses,Fashion,Dresses,StreetLine,2510,1590,313,3.7,2025-01-27
+P00687,ModeWear Smart Trousers,Fashion,Trousers,ModeWear,3730,2070,190,3.7,2023-11-26
+P00688,PureSkin Advanced Makeup,Beauty & Personal Care,Makeup,PureSkin,4830,3640,294,4.2,2024-07-05
+P00689,Voltix Smart Cameras,Electronics,Cameras,Voltix,73090,47420,195,3.4,2024-02-06
+P00690,InsightBooks Premium Non-Fiction,Books,Non-Fiction,InsightBooks,820,540,68,4.9,2024-06-12
+P00691,LearnPress Essential Self Help,Books,Self Help,LearnPress,2090,1450,287,4.5,2024-03-10
+P00692,NovaTech Advanced Smartwatches,Electronics,Smartwatches,NovaTech,8170,5920,130,3.9,2024-03-05
+P00693,InsightBooks Essential Fiction,Books,Fiction,InsightBooks,1160,780,286,4.0,2025-05-13
+P00694,HomeNest Pro Kitchen Appliances,Home & Kitchen,Kitchen Appliances,HomeNest,4170,2820,347,4.7,2023-01-16
+P00695,TrendRoot Everyday Dresses,Fashion,Dresses,TrendRoot,1730,790,145,3.7,2025-03-13
+P00696,InsightBooks Elite Self Help,Books,Self Help,InsightBooks,420,280,146,3.9,2023-10-24
+P00697,StyleCraft Essential Jackets,Fashion,Jackets,StyleCraft,3760,2180,292,3.8,2023-05-13
+P00698,PixelPro Essential Smartphones,Electronics,Smartphones,PixelPro,30210,20850,334,3.6,2024-01-10
+P00699,UrbanHome Ultra Home Decor,Home & Kitchen,Home Decor,UrbanHome,14780,7780,480,3.7,2024-09-23
+P00700,SportEdge Pro Sportswear,Sports & Fitness,Sportswear,SportEdge,5730,4220,11,3.2,2025-01-28
+P00701,StreetLine Classic Footwear,Fashion,Footwear,StreetLine,2020,1500,52,3.1,2025-05-12
+P00702,GlowPure Premium Personal Care,Beauty & Personal Care,Personal Care,GlowPure,3400,2100,42,3.2,2024-01-09
+P00703,FitCore Pro Gym Equipment,Sports & Fitness,Gym Equipment,FitCore,10390,7480,377,3.6,2025-01-09
+P00704,PageTurner Everyday Non-Fiction,Books,Non-Fiction,PageTurner,800,630,339,3.7,2025-02-01
+P00705,UrbanHome Everyday Storage,Home & Kitchen,Storage,UrbanHome,9130,5550,69,4.8,2024-11-27
+P00706,PageTurner Modern Self Help,Books,Self Help,PageTurner,1970,1140,325,4.5,2023-01-27
+P00707,BloomCare Ultra Personal Care,Beauty & Personal Care,Personal Care,BloomCare,2990,1890,116,4.4,2023-05-25
+P00708,AuraBeauty Pro Makeup,Beauty & Personal Care,Makeup,AuraBeauty,2280,1700,5,2.5,2024-04-02
+P00709,StreetLine Elite Jeans,Fashion,Jeans,StreetLine,4680,3730,472,3.9,2023-12-11
+P00710,GlowPure Pro Makeup,Beauty & Personal Care,Makeup,GlowPure,2550,1510,407,2.7,2024-09-20
+P00711,UrbanHome Everyday Furniture,Home & Kitchen,Furniture,UrbanHome,14520,9610,83,4.2,2024-01-13
+P00712,InsightBooks Smart Business,Books,Business,InsightBooks,1180,910,320,3.5,2024-04-20
+P00713,RunX Everyday Yoga,Sports & Fitness,Yoga,RunX,9060,5940,436,3.0,2025-06-22
+P00714,UrbanThread Elite Jeans,Fashion,Jeans,UrbanThread,5360,3440,358,4.1,2024-07-27
+P00715,UrbanThread Advanced Jeans,Fashion,Jeans,UrbanThread,710,330,11,3.4,2025-01-05
+P00716,Voltix Advanced Headphones,Electronics,Headphones,Voltix,57760,31510,119,3.1,2025-05-09
+P00717,PixelPro Essential Smartwatches,Electronics,Smartwatches,PixelPro,55380,38260,409,4.0,2025-04-04
+P00718,HomeNest Essential Storage,Home & Kitchen,Storage,HomeNest,2830,1430,487,3.3,2024-06-18
+P00719,HomeNest Everyday Storage,Home & Kitchen,Storage,HomeNest,15600,11490,458,4.4,2024-10-22
+P00720,GlowPure Smart Skincare,Beauty & Personal Care,Skincare,GlowPure,3300,1750,226,3.5,2025-05-04
+P00721,TechSphere Classic Laptops,Electronics,Laptops,TechSphere,68610,38890,106,3.9,2024-05-28
+P00722,ReadMore Advanced Technology,Books,Technology,ReadMore,270,150,281,4.0,2024-06-30
+P00723,CasaLiving Smart Storage,Home & Kitchen,Storage,CasaLiving,12010,5880,442,4.2,2024-12-05
+P00724,ZenByte Pro Laptops,Electronics,Laptops,ZenByte,42830,34040,406,3.6,2024-02-25
+P00725,PixelPro Premium Smartwatches,Electronics,Smartwatches,PixelPro,5800,3460,353,3.9,2024-04-21
+P00726,RunX Classic Gym Equipment,Sports & Fitness,Gym Equipment,RunX,8400,6260,46,4.2,2024-01-26
+P00727,HomeNest Premium Lighting,Home & Kitchen,Lighting,HomeNest,11850,6810,359,4.0,2023-12-25
+P00728,TechSphere Smart Laptops,Electronics,Laptops,TechSphere,41820,19090,403,4.2,2023-07-07
+P00729,KitchenPro Premium Storage,Home & Kitchen,Storage,KitchenPro,22780,15210,370,3.3,2023-10-27
+P00730,ZenByte Elite Smartwatches,Electronics,Smartwatches,ZenByte,73570,51270,356,3.9,2024-05-05
+P00731,FlexFit Essential Gym Equipment,Sports & Fitness,Gym Equipment,FlexFit,10860,5900,140,4.5,2023-07-05
+P00732,ActivePro Classic Sportswear,Sports & Fitness,Sportswear,ActivePro,17650,13160,151,4.4,2025-04-12
+P00733,SportEdge Premium Yoga,Sports & Fitness,Yoga,SportEdge,16830,11230,94,4.5,2023-10-15
+P00734,FlexFit Smart Yoga,Sports & Fitness,Yoga,FlexFit,10760,5890,337,4.7,2023-10-25
+P00735,BloomCare Elite Haircare,Beauty & Personal Care,Haircare,BloomCare,4670,3480,144,3.7,2023-12-03
+P00736,KnowledgeHouse Classic Technology,Books,Technology,KnowledgeHouse,2240,1280,22,4.4,2025-01-22
+P00737,UrbanThread Smart Shirts,Fashion,Shirts,UrbanThread,1180,740,50,2.9,2024-03-05
+P00738,InsightBooks Everyday Business,Books,Business,InsightBooks,1150,900,113,4.1,2025-03-25
+P00739,PixelPro Elite Smartphones,Electronics,Smartphones,PixelPro,10780,6860,327,3.0,2024-03-15
+P00740,RunX Premium Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,8960,5510,375,3.0,2023-06-06
+P00741,KitchenPro Everyday Cookware,Home & Kitchen,Cookware,KitchenPro,3380,2580,118,4.0,2023-10-29
+P00742,TrendRoot Smart Shirts,Fashion,Shirts,TrendRoot,4970,2890,91,4.0,2024-04-05
+P00743,FitCore Modern Outdoor Sports,Sports & Fitness,Outdoor Sports,FitCore,11980,6760,359,4.2,2023-12-20
+P00744,PixelPro Everyday Laptops,Electronics,Laptops,PixelPro,52930,32990,336,3.3,2024-07-14
+P00745,RunX Essential Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,18280,8280,166,4.4,2023-10-06
+P00746,AuraBeauty Modern Fragrances,Beauty & Personal Care,Fragrances,AuraBeauty,2120,1280,109,3.8,2024-04-14
+P00747,RunX Elite Yoga,Sports & Fitness,Yoga,RunX,14910,6920,0,4.3,2023-01-22
+P00748,HomeNest Everyday Home Decor,Home & Kitchen,Home Decor,HomeNest,4630,2090,154,2.7,2025-04-09
+P00749,StreetLine Premium Shirts,Fashion,Shirts,StreetLine,6620,3390,353,4.4,2023-07-16
+P00750,FlexFit Modern Sportswear,Sports & Fitness,Sportswear,FlexFit,18980,14160,19,3.9,2024-03-02
+P00751,StreetLine Essential Shirts,Fashion,Shirts,StreetLine,7590,4530,119,3.5,2023-03-12
+P00752,ComfortCraft Pro Cookware,Home & Kitchen,Cookware,ComfortCraft,18850,9020,375,3.1,2023-03-26
+P00753,KitchenPro Elite Storage,Home & Kitchen,Storage,KitchenPro,22800,12630,419,4.6,2025-05-09
+P00754,FitCore Modern Yoga,Sports & Fitness,Yoga,FitCore,12750,9850,28,4.6,2024-03-29
+P00755,UrbanHome Pro Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,4150,2060,116,4.3,2023-07-16
+P00756,SportEdge Premium Running,Sports & Fitness,Running,SportEdge,10240,6310,163,4.0,2025-02-01
+P00757,TrendRoot Smart Jeans,Fashion,Jeans,TrendRoot,1550,1210,374,4.9,2023-06-09
+P00758,BloomCare Everyday Personal Care,Beauty & Personal Care,Personal Care,BloomCare,890,640,148,4.3,2023-01-20
+P00759,StreetLine Classic Shirts,Fashion,Shirts,StreetLine,4200,2520,25,4.0,2025-06-10
+P00760,UrbanHome Everyday Cookware,Home & Kitchen,Cookware,UrbanHome,14440,7640,66,4.3,2024-03-17
+P00761,DermaCare Elite Personal Care,Beauty & Personal Care,Personal Care,DermaCare,3390,1940,100,4.0,2024-12-30
+P00762,PageTurner Smart Self Help,Books,Self Help,PageTurner,390,280,220,3.7,2025-01-13
+P00763,FitCore Pro Running,Sports & Fitness,Running,FitCore,14130,9500,97,3.7,2024-11-15
+P00764,RunX Advanced Running,Sports & Fitness,Running,RunX,11710,6840,411,3.9,2024-06-13
+P00765,UrbanThread Smart Trousers,Fashion,Trousers,UrbanThread,1940,1090,79,4.3,2023-10-14
+P00766,ZenByte Premium Smartphones,Electronics,Smartphones,ZenByte,32160,15050,474,3.3,2023-03-21
+P00767,CasaLiving Classic Cookware,Home & Kitchen,Cookware,CasaLiving,10200,6550,11,3.7,2024-01-28
+P00768,PageTurner Smart Self Help,Books,Self Help,PageTurner,2340,1440,132,4.0,2025-01-12
+P00769,FitCore Pro Gym Equipment,Sports & Fitness,Gym Equipment,FitCore,19350,9340,269,2.9,2023-06-27
+P00770,StreetLine Smart T-Shirts,Fashion,T-Shirts,StreetLine,6760,3760,138,3.0,2023-04-12
+P00771,KnowledgeHouse Pro Fiction,Books,Fiction,KnowledgeHouse,1210,690,467,4.2,2024-09-14
+P00772,Voltix Pro Smartphones,Electronics,Smartphones,Voltix,30600,13990,260,4.8,2025-02-02
+P00773,TechSphere Modern Headphones,Electronics,Headphones,TechSphere,69970,53820,101,4.0,2023-04-26
+P00774,GlowPure Premium Personal Care,Beauty & Personal Care,Personal Care,GlowPure,2180,1040,156,3.7,2025-06-15
+P00775,GlowPure Essential Haircare,Beauty & Personal Care,Haircare,GlowPure,5760,3900,320,3.6,2023-03-25
+P00776,FitCore Ultra Yoga,Sports & Fitness,Yoga,FitCore,12940,6320,417,4.9,2023-08-24
+P00777,ActivePro Advanced Yoga,Sports & Fitness,Yoga,ActivePro,11450,5560,336,3.3,2023-08-20
+P00778,LearnPress Modern Business,Books,Business,LearnPress,1030,670,293,3.3,2025-05-24
+P00779,CasaLiving Elite Home Decor,Home & Kitchen,Home Decor,CasaLiving,17970,13550,334,3.3,2024-04-16
+P00780,ActivePro Ultra Gym Equipment,Sports & Fitness,Gym Equipment,ActivePro,17410,8390,220,4.9,2023-05-13
+P00781,TrendRoot Advanced Footwear,Fashion,Footwear,TrendRoot,2900,2250,272,4.7,2024-01-21
+P00782,Voltix Advanced Laptops,Electronics,Laptops,Voltix,4160,2210,450,4.8,2023-07-04
+P00783,PureSkin Ultra Makeup,Beauty & Personal Care,Makeup,PureSkin,1390,730,54,3.2,2025-05-16
+P00784,Auralink Modern Accessories,Electronics,Accessories,Auralink,35280,20750,313,3.5,2024-10-08
+P00785,ClassicFit Premium Shirts,Fashion,Shirts,ClassicFit,3240,2500,399,3.9,2023-12-17
+P00786,SportEdge Essential Sportswear,Sports & Fitness,Sportswear,SportEdge,6280,3150,251,3.9,2025-03-22
+P00787,StyleCraft Premium Shirts,Fashion,Shirts,StyleCraft,3650,1940,7,4.6,2024-08-13
+P00788,DermaCare Smart Haircare,Beauty & Personal Care,Haircare,DermaCare,690,510,488,4.8,2024-11-30
+P00789,RunX Elite Outdoor Sports,Sports & Fitness,Outdoor Sports,RunX,8340,5420,397,2.9,2024-11-18
+P00790,ReadMore Pro Business,Books,Business,ReadMore,2440,1440,268,4.2,2024-04-06
+P00791,LearnPress Classic Fiction,Books,Fiction,LearnPress,1950,1250,449,2.9,2024-10-28
+P00792,TrendRoot Pro Dresses,Fashion,Dresses,TrendRoot,6320,4970,198,4.0,2024-04-19
+P00793,PageTurner Ultra Fiction,Books,Fiction,PageTurner,1900,1260,155,4.3,2025-06-02
+P00794,KitchenPro Pro Storage,Home & Kitchen,Storage,KitchenPro,9850,5770,27,4.2,2023-04-04
+P00795,ClassicFit Elite Trousers,Fashion,Trousers,ClassicFit,1040,570,57,3.4,2023-06-04
+P00796,ActivePro Pro Sportswear,Sports & Fitness,Sportswear,ActivePro,13800,9480,12,3.4,2023-11-19
+P00797,SportEdge Classic Gym Equipment,Sports & Fitness,Gym Equipment,SportEdge,8440,5790,332,4.6,2023-11-24
+P00798,ClassicFit Classic Footwear,Fashion,Footwear,ClassicFit,1050,800,230,4.1,2024-02-16
+P00799,ZenByte Pro Tablets,Electronics,Tablets,ZenByte,67360,39460,81,3.8,2023-05-07
+P00800,DermaCare Essential Skincare,Beauty & Personal Care,Skincare,DermaCare,4780,2370,441,3.3,2023-09-01
+P00801,ClassicFit Premium Shirts,Fashion,Shirts,ClassicFit,3740,2590,373,4.3,2024-01-08
+P00802,DermaCare Classic Makeup,Beauty & Personal Care,Makeup,DermaCare,1230,570,1,4.1,2023-09-28
+P00803,UrbanHome Elite Cookware,Home & Kitchen,Cookware,UrbanHome,16540,10090,2,4.1,2025-05-07
+P00804,DermaCare Modern Haircare,Beauty & Personal Care,Haircare,DermaCare,5550,3520,209,3.9,2023-04-27
+P00805,FitCore Smart Sportswear,Sports & Fitness,Sportswear,FitCore,18180,12770,321,4.0,2023-09-01
+P00806,StyleCraft Advanced T-Shirts,Fashion,T-Shirts,StyleCraft,750,430,18,3.3,2023-01-05
+P00807,Auralink Modern Cameras,Electronics,Cameras,Auralink,39420,26970,44,3.0,2024-09-26
+P00808,DermaCare Ultra Haircare,Beauty & Personal Care,Haircare,DermaCare,5160,2930,358,4.1,2024-11-30
+P00809,SportEdge Modern Gym Equipment,Sports & Fitness,Gym Equipment,SportEdge,12050,5710,47,4.3,2024-12-30
+P00810,UrbanHome Classic Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,14200,7170,33,3.6,2024-03-28
+P00811,ClassicFit Ultra T-Shirts,Fashion,T-Shirts,ClassicFit,3000,1850,268,3.4,2023-02-20
+P00812,UrbanThread Classic Dresses,Fashion,Dresses,UrbanThread,4980,2710,322,4.0,2023-12-26
+P00813,ZenByte Modern Smartwatches,Electronics,Smartwatches,ZenByte,37940,24680,434,3.7,2024-03-23
+P00814,FlexFit Essential Sportswear,Sports & Fitness,Sportswear,FlexFit,4500,2630,254,4.0,2024-03-15
+P00815,InsightBooks Advanced Business,Books,Business,InsightBooks,1050,580,99,2.6,2024-12-06
+P00816,ZenByte Classic Smartwatches,Electronics,Smartwatches,ZenByte,27480,14290,212,3.8,2023-04-21
+P00817,ComfortCraft Smart Kitchen Appliances,Home & Kitchen,Kitchen Appliances,ComfortCraft,570,330,353,3.6,2023-12-29
+P00818,Voltix Everyday Headphones,Electronics,Headphones,Voltix,72390,49700,3,3.2,2024-02-15
+P00819,UrbanHome Modern Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,20380,9460,426,3.4,2023-11-04
+P00820,UrbanHome Elite Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,1360,780,246,3.3,2024-10-22
+P00821,AuraBeauty Elite Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,3540,1680,28,4.4,2023-06-28
+P00822,CasaLiving Everyday Home Decor,Home & Kitchen,Home Decor,CasaLiving,17760,14090,295,4.2,2025-04-25
+P00823,KitchenPro Ultra Cookware,Home & Kitchen,Cookware,KitchenPro,1220,830,192,4.1,2023-12-16
+P00824,TrendRoot Pro Dresses,Fashion,Dresses,TrendRoot,1840,1090,442,4.3,2023-08-20
+P00825,CasaLiving Premium Lighting,Home & Kitchen,Lighting,CasaLiving,9100,5960,254,4.5,2024-02-17
+P00826,CasaLiving Smart Storage,Home & Kitchen,Storage,CasaLiving,17410,12090,57,3.8,2023-08-09
+P00827,PixelPro Classic Accessories,Electronics,Accessories,PixelPro,58470,36420,409,3.9,2023-04-21
+P00828,ActivePro Essential Gym Equipment,Sports & Fitness,Gym Equipment,ActivePro,16090,8750,268,3.6,2023-04-03
+P00829,HomeNest Everyday Furniture,Home & Kitchen,Furniture,HomeNest,22370,10120,105,4.3,2023-09-15
+P00830,BloomCare Classic Fragrances,Beauty & Personal Care,Fragrances,BloomCare,180,120,22,4.2,2024-04-22
+P00831,RunX Elite Running,Sports & Fitness,Running,RunX,1760,1340,392,4.2,2025-06-03
+P00832,ComfortCraft Ultra Cookware,Home & Kitchen,Cookware,ComfortCraft,21130,10310,164,3.4,2024-03-24
+P00833,ComfortCraft Essential Kitchen Appliances,Home & Kitchen,Kitchen Appliances,ComfortCraft,14650,8280,139,3.3,2024-11-13
+P00834,HomeNest Modern Cookware,Home & Kitchen,Cookware,HomeNest,18540,11500,105,4.0,2023-07-13
+P00835,RunX Advanced Yoga,Sports & Fitness,Yoga,RunX,9530,5710,87,3.1,2024-12-29
+P00836,FlexFit Elite Yoga,Sports & Fitness,Yoga,FlexFit,1910,1440,241,4.6,2024-04-17
+P00837,TechSphere Premium Smartphones,Electronics,Smartphones,TechSphere,11590,7540,91,4.2,2024-09-17
+P00838,FlexFit Essential Outdoor Sports,Sports & Fitness,Outdoor Sports,FlexFit,10490,7170,101,4.2,2024-02-27
+P00839,KnowledgeHouse Elite Self Help,Books,Self Help,KnowledgeHouse,2420,1820,416,4.4,2025-02-16
+P00840,KnowledgeHouse Elite Business,Books,Business,KnowledgeHouse,1370,770,363,4.3,2025-04-18
+P00841,DermaCare Advanced Haircare,Beauty & Personal Care,Haircare,DermaCare,5200,3690,186,3.8,2025-02-06
+P00842,ReadMore Essential Academic,Books,Academic,ReadMore,1960,1230,33,3.9,2024-11-11
+P00843,UrbanHome Advanced Storage,Home & Kitchen,Storage,UrbanHome,9450,5020,309,4.1,2023-05-05
+P00844,SportEdge Classic Running,Sports & Fitness,Running,SportEdge,10930,6620,36,4.4,2023-03-03
+P00845,SportEdge Modern Outdoor Sports,Sports & Fitness,Outdoor Sports,SportEdge,13800,9890,124,4.0,2024-11-02
+P00846,GlowPure Essential Fragrances,Beauty & Personal Care,Fragrances,GlowPure,1860,960,302,3.9,2024-05-15
+P00847,AuraBeauty Everyday Personal Care,Beauty & Personal Care,Personal Care,AuraBeauty,5840,4190,339,4.2,2024-01-24
+P00848,LearnPress Elite Academic,Books,Academic,LearnPress,570,340,237,3.7,2023-02-10
+P00849,TechSphere Advanced Accessories,Electronics,Accessories,TechSphere,40670,18930,35,4.1,2023-05-22
+P00850,InsightBooks Essential Self Help,Books,Self Help,InsightBooks,2120,1220,31,3.1,2023-12-22
+P00851,ClassicFit Premium Dresses,Fashion,Dresses,ClassicFit,6500,4870,76,3.9,2025-06-12
+P00852,ComfortCraft Modern Storage,Home & Kitchen,Storage,ComfortCraft,14850,10860,348,4.5,2023-02-02
+P00853,CasaLiving Pro Home Decor,Home & Kitchen,Home Decor,CasaLiving,23720,10820,176,4.9,2024-02-23
+P00854,FlexFit Everyday Running,Sports & Fitness,Running,FlexFit,13490,6790,436,3.6,2025-06-14
+P00855,HomeNest Premium Home Decor,Home & Kitchen,Home Decor,HomeNest,23250,14040,183,3.2,2023-03-04
+P00856,KitchenPro Pro Cookware,Home & Kitchen,Cookware,KitchenPro,23210,13770,320,3.7,2023-09-30
+P00857,PureSkin Pro Fragrances,Beauty & Personal Care,Fragrances,PureSkin,4620,3350,88,3.9,2024-12-31
+P00858,ModeWear Essential Dresses,Fashion,Dresses,ModeWear,7180,4700,147,4.9,2025-03-17
+P00859,PageTurner Premium Non-Fiction,Books,Non-Fiction,PageTurner,390,220,73,4.3,2024-11-17
+P00860,DermaCare Classic Fragrances,Beauty & Personal Care,Fragrances,DermaCare,1270,730,212,4.5,2024-03-08
+P00861,InsightBooks Modern Self Help,Books,Self Help,InsightBooks,840,540,217,4.0,2023-10-09
+P00862,AuraBeauty Smart Fragrances,Beauty & Personal Care,Fragrances,AuraBeauty,1670,1090,3,4.1,2025-06-28
+P00863,LearnPress Ultra Non-Fiction,Books,Non-Fiction,LearnPress,1780,850,295,3.7,2024-11-08
+P00864,TechSphere Essential Tablets,Electronics,Tablets,TechSphere,15130,9030,492,4.2,2025-02-02
+P00865,ClassicFit Everyday Footwear,Fashion,Footwear,ClassicFit,7340,3340,398,3.6,2023-05-22
+P00866,FlexFit Modern Running,Sports & Fitness,Running,FlexFit,3150,2250,322,4.3,2024-12-31
+P00867,LearnPress Modern Fiction,Books,Fiction,LearnPress,1380,810,462,3.7,2024-06-24
+P00868,TechSphere Everyday Smartwatches,Electronics,Smartwatches,TechSphere,61800,37030,169,3.8,2024-09-26
+P00869,KitchenPro Premium Kitchen Appliances,Home & Kitchen,Kitchen Appliances,KitchenPro,22980,10960,383,3.6,2024-06-01
+P00870,FitCore Elite Yoga,Sports & Fitness,Yoga,FitCore,19190,14220,26,4.2,2024-05-13
+P00871,ComfortCraft Premium Lighting,Home & Kitchen,Lighting,ComfortCraft,9600,6050,64,4.0,2023-06-12
+P00872,KitchenPro Modern Kitchen Appliances,Home & Kitchen,Kitchen Appliances,KitchenPro,9410,6620,131,2.7,2023-09-07
+P00873,PixelPro Modern Tablets,Electronics,Tablets,PixelPro,20110,11450,189,4.4,2024-05-27
+P00874,KitchenPro Elite Lighting,Home & Kitchen,Lighting,KitchenPro,6120,3180,441,2.9,2024-10-01
+P00875,Auralink Advanced Laptops,Electronics,Laptops,Auralink,65300,35040,211,4.3,2025-02-08
+P00876,ModeWear Advanced Footwear,Fashion,Footwear,ModeWear,2030,1210,431,3.7,2024-03-23
+P00877,KnowledgeHouse Premium Technology,Books,Technology,KnowledgeHouse,790,500,243,3.6,2024-09-14
+P00878,PageTurner Pro Self Help,Books,Self Help,PageTurner,1700,1080,74,4.0,2025-05-04
+P00879,AuraBeauty Elite Skincare,Beauty & Personal Care,Skincare,AuraBeauty,3280,1850,492,4.0,2023-02-27
+P00880,Auralink Essential Smartphones,Electronics,Smartphones,Auralink,56900,33360,333,4.5,2024-12-07
+P00881,CasaLiving Classic Kitchen Appliances,Home & Kitchen,Kitchen Appliances,CasaLiving,8570,4890,200,3.9,2023-05-17
+P00882,PageTurner Modern Academic,Books,Academic,PageTurner,900,560,346,4.2,2024-05-03
+P00883,TrendRoot Premium Jeans,Fashion,Jeans,TrendRoot,5810,4630,34,2.7,2024-01-28
+P00884,NovaTech Elite Tablets,Electronics,Tablets,NovaTech,46370,33530,145,3.5,2024-05-17
+P00885,Auralink Classic Smartphones,Electronics,Smartphones,Auralink,7760,3660,336,4.5,2023-06-30
+P00886,ClassicFit Classic Dresses,Fashion,Dresses,ClassicFit,6100,2840,44,4.5,2024-09-19
+P00887,ClassicFit Modern Trousers,Fashion,Trousers,ClassicFit,6880,3180,458,3.2,2025-03-10
+P00888,StreetLine Elite Jeans,Fashion,Jeans,StreetLine,5710,2700,327,3.9,2023-01-02
+P00889,CasaLiving Ultra Storage,Home & Kitchen,Storage,CasaLiving,5510,2900,141,4.3,2025-04-22
+P00890,AuraBeauty Premium Fragrances,Beauty & Personal Care,Fragrances,AuraBeauty,2260,1050,135,3.4,2024-12-18
+P00891,PixelPro Modern Smartwatches,Electronics,Smartwatches,PixelPro,51760,38180,251,3.2,2024-10-03
+P00892,ActivePro Modern Outdoor Sports,Sports & Fitness,Outdoor Sports,ActivePro,3730,1790,366,3.5,2023-03-26
+P00893,NovaTech Modern Smartphones,Electronics,Smartphones,NovaTech,33150,17500,9,4.5,2023-10-19
+P00894,ClassicFit Premium Footwear,Fashion,Footwear,ClassicFit,7940,6250,199,3.6,2025-03-16
+P00895,InsightBooks Modern Technology,Books,Technology,InsightBooks,120,70,481,4.3,2024-07-16
+P00896,PureSkin Classic Fragrances,Beauty & Personal Care,Fragrances,PureSkin,4570,3290,196,4.7,2025-02-13
+P00897,BloomCare Everyday Skincare,Beauty & Personal Care,Skincare,BloomCare,3090,2110,155,3.8,2024-11-17
+P00898,KnowledgeHouse Essential Academic,Books,Academic,KnowledgeHouse,2290,1150,174,3.1,2023-03-22
+P00899,DermaCare Advanced Makeup,Beauty & Personal Care,Makeup,DermaCare,4690,3690,196,4.2,2023-11-13
+P00900,UrbanHome Classic Lighting,Home & Kitchen,Lighting,UrbanHome,20860,11660,249,3.1,2024-02-19
+P00901,PageTurner Advanced Business,Books,Business,PageTurner,250,180,368,4.9,2025-05-03
+P00902,ModeWear Classic Trousers,Fashion,Trousers,ModeWear,6790,4150,157,4.0,2023-07-23
+P00903,GlowPure Essential Skincare,Beauty & Personal Care,Skincare,GlowPure,610,420,369,2.9,2024-03-23
+P00904,ZenByte Everyday Laptops,Electronics,Laptops,ZenByte,60380,28440,445,4.5,2024-11-11
+P00905,TrendRoot Smart Footwear,Fashion,Footwear,TrendRoot,7880,6110,376,3.3,2025-01-22
+P00906,InsightBooks Modern Fiction,Books,Fiction,InsightBooks,290,210,332,3.2,2023-07-08
+P00907,UrbanThread Ultra Footwear,Fashion,Footwear,UrbanThread,7020,3670,233,4.1,2023-02-14
+P00908,FitCore Classic Running,Sports & Fitness,Running,FitCore,16540,9790,315,3.5,2024-01-07
+P00909,StreetLine Pro Trousers,Fashion,Trousers,StreetLine,2960,2240,350,4.1,2023-09-04
+P00910,StyleCraft Premium Jeans,Fashion,Jeans,StyleCraft,5160,3810,32,3.2,2024-04-27
+P00911,ModeWear Advanced Jackets,Fashion,Jackets,ModeWear,6000,4020,84,3.9,2025-05-05
+P00912,ActivePro Classic Running,Sports & Fitness,Running,ActivePro,12580,6640,8,4.5,2023-01-22
+P00913,NovaTech Advanced Smartphones,Electronics,Smartphones,NovaTech,11980,6620,303,4.5,2025-05-07
+P00914,DermaCare Smart Fragrances,Beauty & Personal Care,Fragrances,DermaCare,1320,760,267,3.9,2024-09-25
+P00915,TrendRoot Premium Shirts,Fashion,Shirts,TrendRoot,5180,3820,255,4.1,2023-05-25
+P00916,Voltix Essential Cameras,Electronics,Cameras,Voltix,55190,44060,120,3.4,2023-12-16
+P00917,FlexFit Essential Running,Sports & Fitness,Running,FlexFit,17940,11170,237,4.3,2023-06-26
+P00918,ReadMore Premium Non-Fiction,Books,Non-Fiction,ReadMore,890,680,76,4.2,2024-12-17
+P00919,DermaCare Advanced Fragrances,Beauty & Personal Care,Fragrances,DermaCare,5640,2690,27,4.2,2023-07-02
+P00920,UrbanHome Ultra Furniture,Home & Kitchen,Furniture,UrbanHome,11150,6510,455,4.3,2023-08-28
+P00921,ZenByte Premium Smartphones,Electronics,Smartphones,ZenByte,70730,52230,402,2.9,2025-02-13
+P00922,FitCore Smart Running,Sports & Fitness,Running,FitCore,14820,8780,166,3.8,2024-03-29
+P00923,ReadMore Smart Academic,Books,Academic,ReadMore,550,380,50,3.5,2025-03-01
+P00924,PureSkin Smart Haircare,Beauty & Personal Care,Haircare,PureSkin,750,480,248,3.0,2024-02-29
+P00925,DermaCare Modern Haircare,Beauty & Personal Care,Haircare,DermaCare,3880,2860,191,3.3,2024-10-07
+P00926,ReadMore Ultra Non-Fiction,Books,Non-Fiction,ReadMore,930,630,16,4.2,2025-01-19
+P00927,PixelPro Classic Headphones,Electronics,Headphones,PixelPro,61320,39210,87,4.3,2025-01-03
+P00928,TrendRoot Advanced Jeans,Fashion,Jeans,TrendRoot,6770,3530,487,4.1,2024-01-14
+P00929,TrendRoot Smart Dresses,Fashion,Dresses,TrendRoot,1010,660,267,3.9,2024-12-10
+P00930,ModeWear Elite Dresses,Fashion,Dresses,ModeWear,2590,2060,219,4.3,2025-05-06
+P00931,StreetLine Pro Shirts,Fashion,Shirts,StreetLine,5050,3650,474,4.1,2023-08-13
+P00932,UrbanThread Pro Dresses,Fashion,Dresses,UrbanThread,660,520,240,4.3,2024-08-18
+P00933,SportEdge Everyday Running,Sports & Fitness,Running,SportEdge,13170,8330,408,4.2,2023-10-24
+P00934,TechSphere Smart Smartwatches,Electronics,Smartwatches,TechSphere,11190,6760,6,4.2,2025-02-28
+P00935,DermaCare Essential Haircare,Beauty & Personal Care,Haircare,DermaCare,2570,1840,46,2.8,2023-08-01
+P00936,PageTurner Elite Technology,Books,Technology,PageTurner,2440,1310,12,4.8,2023-04-19
+P00937,PureSkin Advanced Haircare,Beauty & Personal Care,Haircare,PureSkin,3180,1850,360,4.1,2024-03-05
+P00938,InsightBooks Essential Fiction,Books,Fiction,InsightBooks,2270,1790,218,4.3,2024-10-06
+P00939,LearnPress Modern Self Help,Books,Self Help,LearnPress,950,500,41,4.1,2024-06-11
+P00940,HomeNest Everyday Lighting,Home & Kitchen,Lighting,HomeNest,22310,15010,26,3.2,2025-02-27
+P00941,ComfortCraft Premium Storage,Home & Kitchen,Storage,ComfortCraft,12180,8180,331,4.0,2024-02-20
+P00942,ZenByte Smart Tablets,Electronics,Tablets,ZenByte,18440,8420,122,4.0,2023-01-04
+P00943,LearnPress Smart Business,Books,Business,LearnPress,1020,700,459,3.6,2024-03-15
+P00944,ReadMore Premium Business,Books,Business,ReadMore,360,240,231,3.9,2024-04-08
+P00945,SportEdge Everyday Running,Sports & Fitness,Running,SportEdge,17710,8590,231,4.1,2025-06-19
+P00946,KnowledgeHouse Smart Academic,Books,Academic,KnowledgeHouse,1980,1520,200,4.5,2025-01-30
+P00947,HomeNest Advanced Cookware,Home & Kitchen,Cookware,HomeNest,9240,7030,75,4.0,2023-08-19
+P00948,ClassicFit Premium Dresses,Fashion,Dresses,ClassicFit,2700,1770,349,4.0,2024-11-24
+P00949,StreetLine Pro Trousers,Fashion,Trousers,StreetLine,3940,2130,10,3.6,2025-04-16
+P00950,PixelPro Everyday Smartphones,Electronics,Smartphones,PixelPro,44320,29070,175,4.2,2025-01-22
+P00951,ComfortCraft Everyday Storage,Home & Kitchen,Storage,ComfortCraft,18170,11700,155,4.1,2024-06-20
+P00952,CasaLiving Smart Furniture,Home & Kitchen,Furniture,CasaLiving,16070,10760,147,4.3,2024-05-31
+P00953,Voltix Ultra Laptops,Electronics,Laptops,Voltix,60060,27950,316,4.6,2025-05-07
+P00954,ReadMore Advanced Self Help,Books,Self Help,ReadMore,820,420,354,4.6,2025-04-24
+P00955,StyleCraft Classic Shirts,Fashion,Shirts,StyleCraft,640,290,294,3.2,2024-08-08
+P00956,KitchenPro Smart Kitchen Appliances,Home & Kitchen,Kitchen Appliances,KitchenPro,18630,10290,340,3.7,2024-12-08
+P00957,CasaLiving Elite Furniture,Home & Kitchen,Furniture,CasaLiving,17890,8200,273,3.6,2024-05-14
+P00958,TechSphere Advanced Smartwatches,Electronics,Smartwatches,TechSphere,60340,28680,79,2.6,2023-10-21
+P00959,LearnPress Essential Self Help,Books,Self Help,LearnPress,1310,830,148,4.8,2024-01-06
+P00960,FlexFit Elite Gym Equipment,Sports & Fitness,Gym Equipment,FlexFit,11350,6340,374,3.9,2025-06-07
+P00961,ZenByte Everyday Laptops,Electronics,Laptops,ZenByte,15620,10810,205,4.1,2024-08-17
+P00962,StreetLine Classic Trousers,Fashion,Trousers,StreetLine,2970,2320,328,3.4,2023-12-29
+P00963,RunX Smart Gym Equipment,Sports & Fitness,Gym Equipment,RunX,990,760,434,3.9,2024-09-30
+P00964,LearnPress Pro Fiction,Books,Fiction,LearnPress,900,570,308,4.1,2023-03-09
+P00965,Voltix Pro Cameras,Electronics,Cameras,Voltix,19690,10820,218,3.8,2024-05-09
+P00966,CasaLiving Essential Cookware,Home & Kitchen,Cookware,CasaLiving,11710,8110,228,4.5,2025-01-04
+P00967,ZenByte Elite Laptops,Electronics,Laptops,ZenByte,54770,28410,147,3.3,2024-08-15
+P00968,InsightBooks Advanced Business,Books,Business,InsightBooks,450,340,155,3.9,2024-08-22
+P00969,FitCore Modern Yoga,Sports & Fitness,Yoga,FitCore,12560,9660,209,4.1,2023-08-25
+P00970,KitchenPro Everyday Storage,Home & Kitchen,Storage,KitchenPro,15340,8460,386,4.6,2025-02-08
+P00971,ModeWear Ultra Shirts,Fashion,Shirts,ModeWear,4840,3040,421,4.4,2023-02-27
+P00972,SportEdge Everyday Yoga,Sports & Fitness,Yoga,SportEdge,15440,11140,405,2.6,2023-07-16
+P00973,UrbanHome Classic Kitchen Appliances,Home & Kitchen,Kitchen Appliances,UrbanHome,21620,12260,147,3.8,2025-02-19
+P00974,GlowPure Classic Haircare,Beauty & Personal Care,Haircare,GlowPure,2420,1520,496,3.0,2024-05-30
+P00975,LearnPress Elite Technology,Books,Technology,LearnPress,2420,1570,132,4.1,2023-06-05
+P00976,AuraBeauty Everyday Skincare,Beauty & Personal Care,Skincare,AuraBeauty,4860,3860,132,3.3,2024-11-14
+P00977,Voltix Elite Laptops,Electronics,Laptops,Voltix,18060,12190,27,3.6,2023-06-04
+P00978,GlowPure Ultra Makeup,Beauty & Personal Care,Makeup,GlowPure,2540,1560,479,3.1,2025-03-28
+P00979,ClassicFit Advanced Jackets,Fashion,Jackets,ClassicFit,6560,5030,385,3.3,2024-12-10
+P00980,CasaLiving Ultra Kitchen Appliances,Home & Kitchen,Kitchen Appliances,CasaLiving,22660,12590,185,3.1,2023-01-24
+P00981,ActivePro Premium Yoga,Sports & Fitness,Yoga,ActivePro,4740,2930,190,4.3,2023-08-12
+P00982,DermaCare Classic Makeup,Beauty & Personal Care,Makeup,DermaCare,1930,1440,113,4.4,2024-09-28
+P00983,FlexFit Everyday Sportswear,Sports & Fitness,Sportswear,FlexFit,18310,10150,410,3.2,2023-08-28
+P00984,GlowPure Advanced Skincare,Beauty & Personal Care,Skincare,GlowPure,290,180,159,4.2,2023-04-27
+P00985,ModeWear Modern Jackets,Fashion,Jackets,ModeWear,4580,2440,175,3.4,2024-12-30
+P00986,HomeNest Smart Cookware,Home & Kitchen,Cookware,HomeNest,4420,2210,72,4.2,2024-02-16
+P00987,KitchenPro Advanced Furniture,Home & Kitchen,Furniture,KitchenPro,2780,1810,390,4.3,2024-06-09
+P00988,TechSphere Pro Smartphones,Electronics,Smartphones,TechSphere,5870,4290,16,4.4,2024-09-09
+P00989,FitCore Elite Sportswear,Sports & Fitness,Sportswear,FitCore,4150,2000,22,3.0,2023-05-05
+P00990,KnowledgeHouse Classic Fiction,Books,Fiction,KnowledgeHouse,940,560,102,3.4,2024-05-25
+P00991,HomeNest Advanced Cookware,Home & Kitchen,Cookware,HomeNest,24650,11590,485,4.1,2025-04-08
+P00992,ComfortCraft Modern Furniture,Home & Kitchen,Furniture,ComfortCraft,8120,5060,34,3.1,2024-08-13
+P00993,FlexFit Smart Running,Sports & Fitness,Running,FlexFit,6530,3020,87,4.6,2024-05-06
+P00994,FitCore Smart Running,Sports & Fitness,Running,FitCore,16770,8420,243,3.7,2025-01-28
+P00995,SportEdge Classic Gym Equipment,Sports & Fitness,Gym Equipment,SportEdge,6180,3140,194,3.8,2025-04-20
+P00996,SportEdge Classic Gym Equipment,Sports & Fitness,Gym Equipment,SportEdge,10550,7980,56,4.0,2023-02-25
+P00997,AuraBeauty Everyday Makeup,Beauty & Personal Care,Makeup,AuraBeauty,480,370,252,3.2,2023-04-17
+P00998,ComfortCraft Ultra Storage,Home & Kitchen,Storage,ComfortCraft,22710,10410,227,3.5,2023-12-31
+P00999,PureSkin Smart Makeup,Beauty & Personal Care,Makeup,PureSkin,720,350,410,3.9,2024-03-22
+P01000,PageTurner Premium Technology,Books,Technology,PageTurner,2110,1190,202,3.9,2023-12-20
