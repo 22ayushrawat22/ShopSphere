@@ -142,6 +142,25 @@ Summarizes key findings and translates the analysis into business recommendation
 
 ---
 
+### Dashboard Preview
+
+### Dashboard Preview
+
+#### Sales Analytics
+![Sales Analytics](dashboard/screenshots/01_sales_analytics.png)
+
+#### Customer Analytics
+![Customer Analytics](dashboard/screenshots/02_customer_analytics.png)
+
+#### Product Analytics
+![Product Analytics](dashboard/screenshots/03_product_analytics.png)
+
+#### Payment Analytics
+![Payment Analytics](dashboard/screenshots/04_payment_analytics.png)
+
+#### Business Insights
+![Business Insights](dashboard/screenshots/05_business_insights.png)
+
 ## 💡 Key Business Insights
 
 ### Customer Retention
